@@ -1,0 +1,19 @@
+---
+title: download
+date: '2009-09-06T01:10:12'
+updated: '2009-10-03T15:08:06'
+key: /2009/09/download
+taxonomies:
+  category:
+  - ముందుమాట
+  issue:
+  - 2009-09
+extra:
+  issue_name: సెప్టెంబర్ 2009
+---
+
+సెప్టెంబర్ 2009 సంచికను download చేసుకోండి.
+
+
+* <a href="/static/archives/kottapalli_2009_09.zip">HTML in ZIP format (పాటలతో సహా)</a>
+* <a href="/static/pdf/kottapalli_2009_09_book.pdf">PDF పుస్తకంలా ముద్రించుకోవటానికి - 30 పేజీలు (రెండు వైపుల ముద్రిస్తారు కనుక 15 కాగితాలు సరిపోతాయి.)</a>
