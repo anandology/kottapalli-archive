@@ -19,7 +19,7 @@
     {% set issue = get_section(path=root.extra.latest_issue) %}
     {% if issue.extra.cover %}
     <div id="cover-thumb">
-        <a href="{{ issue.permalink }}" title="{{ issue.title }} సంచిక">
+        <a href="{{ issue.path }}" title="{{ issue.title }} సంచిక">
             <img src="{{ issue.extra.cover }}" alt="{{ issue.title }} సంచిక" width="140">
         </a>
     </div>
@@ -31,7 +31,7 @@
             <div class="menu">
             <ul>
             {% for a in articles %}
-                <li><a href="{{ a.permalink }}">{{ a.title }}</a></li>
+                <li><a href="{{ a.path }}">{{ a.title }}</a></li>
             {% endfor %}
             </ul>
             </div>
@@ -51,13 +51,13 @@
         {% set pages_by_cat = issue.pages | group_by(attribute="taxonomies.category.0") %}
         {% for cat, articles in pages_by_cat %}
             {% for article in articles %}
-                <h2><a href="{{ article.permalink }}">{{ article.title }}</a></h2>
+                <h2><a href="{{ article.path }}">{{ article.title }}</a></h2>
                 {% if article.extra.intro %}
                     <p>{{ article.extra.intro | truncate(length=200) }}</p>
                 {% else %}
                     <p>{{ article.content | striptags | truncate(length=100) }}...</p>
                 {% endif %}
-                <small><a title="పూర్తిగా చదవడానికి క్లిక్ చేయండి" href="{{ article.permalink }}">పూర్తిగ&gt;&gt;</a></small>
+                <small><a title="పూర్తిగా చదవడానికి క్లిక్ చేయండి" href="{{ article.path }}">పూర్తిగ&gt;&gt;</a></small>
                 <hr/>
             {% endfor %}
         {% endfor %}

@@ -6,6 +6,6 @@
 
 {% block content %}
 {% for page in term.pages %}
-  <p><i><a href="{{ page.permalink }}">{{ page.title }}</a></i></p>
+  <p><i><a href="{{ page.path }}">{{ page.title }}</a></i></p>
 {% endfor %}
 {% endblock content %}

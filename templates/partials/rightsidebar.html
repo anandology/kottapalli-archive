@@ -9,7 +9,7 @@
         {% for month_path in year_section.subsections | reverse %}
             {% set issue = get_section(path=month_path) %}
             {% if issue.extra.published %}
-            <li><a href="{{ issue.permalink }}">{{ issue.title }}</a></li>
+            <li><a href="{{ issue.path }}">{{ issue.title }}</a></li>
             {% endif %}
         {% endfor %}
     {% endfor %}

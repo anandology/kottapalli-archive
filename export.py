@@ -44,8 +44,8 @@ def rewrite_image_macros(body, year, month):
     def replacer(m):
         filename = m.group(1)
         float_val = m.group(2) or "right"
-        path = f"/images/{year}/{month}/{filename}"
-        return '{{ Image(name="' + path + '", float="' + float_val + '") }}'
+        issue = f"{year}/{month}"
+        return '{{ Image(issue="' + issue + '", filename="' + filename + '", float="' + float_val + '") }}'
     return _IMAGE_MACRO_RE.sub(replacer, body)
 
 

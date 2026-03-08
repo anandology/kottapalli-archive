@@ -20,7 +20,7 @@
     {% set issue = get_section(path=issue_path) %}
     {% if issue.extra.cover %}
     <div id="cover-thumb">
-        <a href="{{ issue.permalink }}" title="{{ issue.title }} సంచిక">
+        <a href="{{ issue.path }}" title="{{ issue.title }} సంచిక">
             <img src="{{ issue.extra.cover }}" alt="{{ issue.title }} సంచిక" width="140">
         </a>
     </div>
@@ -31,7 +31,7 @@
         <div class="menu">
         <ul>
         {% for a in articles %}
-            <li><a href="{{ a.permalink }}">{{ a.title }}</a></li>
+            <li><a href="{{ a.path }}">{{ a.title }}</a></li>
         {% endfor %}
         </ul>
         </div>

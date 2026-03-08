@@ -1,17 +1,18 @@
+{% set src = "/images/" ~ issue ~ "/" ~ filename %}
 {% if float == "right" %}
 <div style="border: 2px solid #dddddd; float: right; margin-left: 10px; width: 250px">
-<img src="{{ name }}" width="250px" />
+<img src="{{ src }}" width="250px" />
 </div>
 {% elif float == "left" %}
 <div style="border: 2px solid #dddddd; float: left; margin-right: 10px; width: 250px">
-<img src="{{ name }}" width="250px" />
+<img src="{{ src }}" width="250px" />
 </div>
 {% elif float == "thumb" %}
 <div style="border: 2px solid #dddddd; float: right; margin: -2em 0pt; width: 40px">
-<img src="{{ name }}" width="40px" />
+<img src="{{ src }}" width="40px" />
 </div>
 {% else %}
 <div style="border: 2px solid #dddddd; margin: 10px 0px 10px 0px; width: 100%">
-<img src="{{ name }}" width="100%" />
+<img src="{{ src }}" width="100%" />
 </div>
 {% endif %}
