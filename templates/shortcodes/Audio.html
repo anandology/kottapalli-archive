@@ -1,0 +1,8 @@
+{% set src = "/music/" ~ issue ~ "/" ~ filename %}
+<div class="audio">
+<audio controls preload="none">
+  <source src="{{ src }}" type="audio/mpeg">
+</audio>
+<br/>
+<a href="{{ src }}" rel="nofollow">Download</a>
+</div>

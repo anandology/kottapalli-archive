@@ -39,6 +39,24 @@ _IMAGE_MACRO_RE = re.compile(
 )
 
 
+# Regex to match {{Audio(...)}} macro calls
+_AUDIO_MACRO_RE = re.compile(
+    r"\{\{Audio\("
+    r"""\\?['"]{1,2}([^'"\\]+)\\?['"]{1,2}"""  # group 1: filename
+    r"(?:\s*,\s*count\s*=\s*\d+)?"              # optional count=N (ignored)
+    r"""\)+\}\}"""                               # closing )}} or ))}}
+)
+
+
+def rewrite_audio_macros(body, year, month):
+    """Rewrite Infogami {{Audio(...)}} macros to Zola shortcodes."""
+    def replacer(m):
+        filename = m.group(1)
+        issue = f"{year}/{month}"
+        return '{{ Audio(issue="' + issue + '", filename="' + filename + '") }}'
+    return _AUDIO_MACRO_RE.sub(replacer, body)
+
+
 def rewrite_image_macros(body, year, month):
     """Rewrite Infogami {{Image(...)}} macros to Zola shortcodes."""
     def replacer(m):
@@ -129,6 +147,7 @@ def build_frontmatter(article, issue_names, category_names, year=None, month=Non
     intro_text = intro_text.replace("\r\n", "\n").strip()
     if intro_text and year and month:
         intro_text = rewrite_image_macros(intro_text, year, month)
+        intro_text = rewrite_audio_macros(intro_text, year, month)
     if intro_text:
         extra["intro"] = intro_text
 
@@ -229,6 +248,7 @@ def export_articles(cur, issue_names, category_names):
             body = ""
         body = body.replace("\r\n", "\n")
         body = rewrite_image_macros(body, year, month)
+        body = rewrite_audio_macros(body, year, month)
 
         path = os.path.join(OUTPUT_DIR, year, month, f"{slug}.md")
         write_markdown(path, fm, body)
