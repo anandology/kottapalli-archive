@@ -13,7 +13,7 @@ extra:
   intro: 'రచన, గానం: ''కవికాకి''కీ.శే.జైసీతారాం, కోగిర, అనంతపురం జిల్లా.'
 ---
 
-{{Image("4.jpg",float="right")}}
+{{ Image(name="/images/2011/12/4.jpg", float="right") }}
 
 **అందాల బాల**
 <pre>
@@ -30,7 +30,7 @@ extra:
 <br><br>
 
 
-{{Image("1.jpg",float="left")}}
+{{ Image(name="/images/2011/12/1.jpg", float="left") }}
 
 **బంగరు బొమ్మ** 
 <pre>
@@ -47,7 +47,7 @@ extra:
 <br><br>
 
 
-{{Image("3.jpg",float="right")}}
+{{ Image(name="/images/2011/12/3.jpg", float="right") }}
 
 **రంగుల రాట్నం!** 
 <pre>
@@ -64,7 +64,7 @@ extra:
 
 <br><br>
 
-{{Image("2.jpg",float="left")}}
+{{ Image(name="/images/2011/12/2.jpg", float="left") }}
 
 **ఏమంది? **
 <pre>

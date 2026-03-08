@@ -16,7 +16,7 @@ extra:
     గానం: వి. రాజు, నాలుగవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{Image('andala_ma_illu.gif')}}
+{{ Image(name="/images/2009/04/andala_ma_illu.gif", float="right") }}
 
 
 <pre class="song">

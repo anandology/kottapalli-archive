@@ -13,7 +13,7 @@ extra:
   intro: 'పాడిన చిన్నారి:  సమర, 2వ తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి'
 ---
 
-{{Image("narayana_narayana.gif")}}
+{{ Image(name="/images/2008/07/narayana_narayana.gif", float="right") }}
 
   
   

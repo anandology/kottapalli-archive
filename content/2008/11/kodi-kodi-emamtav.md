@@ -13,7 +13,7 @@ extra:
   intro: 'గానం:  సత్య లక్ష్మి, మూడున్నర సంవత్సరాలు'
 ---
 
-{{Image('emantave.gif')}}
+{{ Image(name="/images/2008/11/emantave.gif", float="right") }}
 
 <pre class="song">
 పిల్లీ పిల్లీ ఏమంటావ్?

@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: క్రిష్ణవేణి,టింబక్టు బడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా'
 ---
 
-{{Image("koyila_pilla.gif")}}
+{{ Image(name="/images/2009/06/koyila_pilla.gif", float="right") }}
 
 <pre class="song">
 కోయిలపిల్లా!  ఓ కోయిలపిల్లా!

@@ -17,7 +17,7 @@ extra:
     చిత్రం: శివ ప్రసాద్, బి యఫ్ ఎ (మొదటి సంవత్సరం), జె యన్ టి యు, హైదరాబాదు.'
 ---
 
-{{Image('bhartambhika.gif')}}
+{{ Image(name="/images/2008/12/bhartambhika.gif", float="right") }}
 
 <pre class='song'>
 భారతాంబిక  పునర్వైభవ  ప్రాప్తి  కొరకే  అంకితం  

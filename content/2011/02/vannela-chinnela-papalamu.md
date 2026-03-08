@@ -16,7 +16,7 @@ extra:
     \ సృజన కుటీర్ బాలలు, విజయవాడ."
 ---
 
-{{Image("vannela1.jpg",float="right")}}
+{{ Image(name="/images/2011/02/vannela1.jpg", float="right") }}
 
 వన్నెల చిన్నెల పాపలము    
 కమ్మని పలుకుల చిలుకలము     

@@ -13,7 +13,7 @@ extra:
   intro: పృథ్వి, ౩వ తరగతి.
 ---
 
-{{Image("balalamu.gif", "right")}}
+{{ Image(name="/images/2008/05/balalamu.gif", float="right") }}
 
 </pre>
 బాలలమూ, బాలలమూ  

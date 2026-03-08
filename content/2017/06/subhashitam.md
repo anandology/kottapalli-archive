@@ -12,6 +12,6 @@ extra:
   issue_name: జూన్ 2017
 ---
 
-{{Image("subha.jpg",float="center")}}
+{{ Image(name="/images/2017/06/subha.jpg", float="center") }}
 
 <br><br><br><br><br><br><br><br>

@@ -15,7 +15,7 @@ extra:
     \ విజయవాడ వారి \"వెలుగు రేకలు\" పాటల సంకలనం."
 ---
 
-{{Image('ningi.JPG', float='center')}}
+{{ Image(name="/images/2010/08/ningi.JPG", float="center") }}
 
 నింగి సాగే మబ్బుల్లారా   
 నీలి పువ్వుల దుబ్బుల్లారా   

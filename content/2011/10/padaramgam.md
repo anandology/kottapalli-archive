@@ -15,7 +15,7 @@ extra:
     \  పదరంగం-8 తో పాటు ప్రచురించగలం.       \n నిర్వహణ: దేవి, కొత్తపల్లి బృందం."
 ---
 
-{{Image("padarangam8tableonly.jpg",float="left")}}
+{{ Image(name="/images/2011/10/padarangam8tableonly.jpg", float="left") }}
 
 **ఆధారాలు:**
 
@@ -47,7 +47,7 @@ extra:
 
 **పదరంగం-7 కి సరైన   సమాధానం**
 
-{{Image("padarangam7solution.jpg",float="right")}}
+{{ Image(name="/images/2011/10/padarangam7solution.jpg", float="right") }}
 
 **దీనికి చక్కగా సమాధానాలు వ్రాసి పంపించిన పిల్లలు:**
 <pre>

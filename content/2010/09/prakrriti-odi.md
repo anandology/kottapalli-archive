@@ -18,7 +18,7 @@ extra:
     ప్రచురిస్తున్నాం.. విజ్ఞులు సవరించగలరు.)'
 ---
 
-{{Image("prakruti.jpg",float="right")}}
+{{ Image(name="/images/2010/09/prakruti.jpg", float="right") }}
 
 ప్రకృతి ఒడిలో పిల్లలం    
 స్వేచ్ఛగ ఎగిరే గువ్వలం    

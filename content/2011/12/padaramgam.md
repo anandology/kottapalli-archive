@@ -17,7 +17,7 @@ extra:
     నిర్వహణ: దేవి, బెంగుళూరు.'
 ---
 
-{{Image("padarangam10imaegeonly.jpg", float="left")}}
+{{ Image(name="/images/2011/12/padarangam10imaegeonly.jpg", float="left") }}
 
 **ఆధారాలు: **		
 **అడ్డం: **
@@ -45,7 +45,7 @@ extra:
 
 <br><br>
 
-{{Image("padarangam9solution.jpg",float="right")}}
+{{ Image(name="/images/2011/12/padarangam9solution.jpg", float="right") }}
 
 <br><br>
 **పదరంగం-9 కి   సమాధానం**   

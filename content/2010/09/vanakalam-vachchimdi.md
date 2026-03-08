@@ -14,7 +14,7 @@ extra:
     \ తరగతి, విద్యార్థి సృజన కుటీర్, విజయవాడ."
 ---
 
-{{Image("vana.jpg",float="right")}}
+{{ Image(name="/images/2010/09/vana.jpg", float="right") }}
 
 వానకాలం  వచ్చింది,   
 నింగీ-నేల  పులకించాయి(3)   

@@ -17,7 +17,7 @@ extra:
     గానం: K. పరమేష్, 2వ తరగతి, ప్రకృతి బడి.'
 ---
 
-{{Image('budagalu.gif')}}
+{{ Image(name="/images/2009/02/budagalu.gif", float="right") }}
 
 <pre class="song">
 బుడగలండి బుడగలు

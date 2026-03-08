@@ -12,7 +12,7 @@ extra:
   issue_name: మే 2011
 ---
 
-{{Image("editorial.JPG" ,float='left')}}
+{{ Image(name="/images/2011/05/editorial.JPG", float="left") }}
 
 అనగా అనగా ఒక ఇల్లు, దాన్ని ఆనుకొని  ఒక చీమల పుట్ట ఉండేవి. 
 

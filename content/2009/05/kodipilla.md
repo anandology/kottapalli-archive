@@ -16,7 +16,7 @@ extra:
     సేకరణ: నితిన్ గోపాల్, మూడవ తరగతి, లింగారావుపాలెం, గుంటూరు జిల్లా.'
 ---
 
-{{Image('kodipilla.GIF')}}
+{{ Image(name="/images/2009/05/kodipilla.GIF", float="right") }}
 
 
 <pre class="song">

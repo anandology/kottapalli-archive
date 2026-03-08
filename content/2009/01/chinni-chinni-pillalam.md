@@ -13,7 +13,7 @@ extra:
   intro: 'గానం:  ఆమని, యం సుధ, టింబక్టు బడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా'
 ---
 
-{{Image('cinni_cinni_pillalam.gif')}}
+{{ Image(name="/images/2009/01/cinni_cinni_pillalam.gif", float="right") }}
 
 <pre class="song">
 చిన్ని చిన్ని పిల్లలం 

@@ -16,7 +16,7 @@ extra:
     గానం: యం. రాశి, ఐదవ తరగతి, ప్రకౄతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{Image("doctorgaru.jpeg")}}
+{{ Image(name="/images/2009/07/doctorgaru.jpeg", float="right") }}
 
 
 డాక్టరుగారు వచ్చారు

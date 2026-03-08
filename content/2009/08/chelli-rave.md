@@ -17,7 +17,7 @@ extra:
     డప్పు: ఎం. పోతులయ్య, ఎనిమిదవ తరగతి, ప్రకృతిబడి.'
 ---
 
-{{Image("cellirave.gif", float="right")}}
+{{ Image(name="/images/2009/08/cellirave.gif", float="right") }}
 
 చెల్లీ రావే! సిరిమల్లీ రావే!
 

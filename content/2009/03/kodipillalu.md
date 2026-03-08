@@ -26,7 +26,7 @@ extra:
     డప్పు: టి. నాగార్జున, ఏడవ తరగతి, టింబక్టు బడి.'
 ---
 
-{{Image('kodi.gif')}}
+{{ Image(name="/images/2009/03/kodi.gif", float="right") }}
 
 <pre class="song">
 కోడి పిల్లలు అమ్మ చుట్టూ

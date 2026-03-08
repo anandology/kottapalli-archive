@@ -15,7 +15,7 @@ extra:
     \ టెక్కలి, శ్రీకాకుళం జిల్లా."
 ---
 
-{{Image("jangamaiah.JPG", float="right")}}
+{{ Image(name="/images/2011/08/jangamaiah.JPG", float="right") }}
 
 ఈ  బొమ్మను చూడండి. 
 

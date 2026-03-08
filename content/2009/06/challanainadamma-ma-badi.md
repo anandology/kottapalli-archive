@@ -16,7 +16,7 @@ extra:
     డప్పు: పోతులయ్య'
 ---
 
-{{Image("challanayinadamma_mabadi.gif")}}
+{{ Image(name="/images/2009/06/challanayinadamma_mabadi.gif", float="right") }}
 
 <pre class="song">
 చల్లనైనదమ్మ  మా బడి

@@ -13,13 +13,13 @@ extra:
   intro: '<br>
 
 
-    {{Image("Chiku_buku_railu_.jpg", "thumb")}}
+    {{ Image(name="/images/2009/11/Chiku_buku_railu_.jpg", float="thumb") }}
 
 
     గానం: జి.అంజలి(1వ త.), ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం‌జిల్లా.'
 ---
 
-{{Image("cuku_cuku_rail1.gif", float="right")}}
+{{ Image(name="/images/2009/11/cuku_cuku_rail1.gif", float="right") }}
 
 చుక్ చుక్ రైలు వస్తోంది     
 దూరం‌దూరం జరగండి    

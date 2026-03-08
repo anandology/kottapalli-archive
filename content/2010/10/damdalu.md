@@ -15,7 +15,7 @@ extra:
     \ పోతులయ్య,  గజ్జెలు:మదన్ మోహన్ రెడ్డి,  చెక్కలు:అనిల్ కుమార్."
 ---
 
-{{Image("bharatamata.jpg", float='right')}}
+{{ Image(name="/images/2010/10/bharatamata.jpg", float="right") }}
 
 దండాలు దండాలు భారత మాతా!    
 అవి అందుకుని దీవించు భారత మాతా !!   					   (2) 

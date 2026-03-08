@@ -13,7 +13,7 @@ extra:
   intro: గానం:మదన్, మూడవ తరగతి, టింబక్టు బడి, అనంతపురం జిల్లా.
 ---
 
-{{Image("bale_bale_bapanamma.gif")}}
+{{ Image(name="/images/2009/06/bale_bale_bapanamma.gif", float="right") }}
 
 <pre class="song">
 భలే భలే బాపనమ్మ బండి కట్టింది

@@ -13,7 +13,7 @@ extra:
   intro: పోతి రెడ్డి 2వ తరగతి
 ---
 
-{{Image("chiteluka.gif")}}
+{{ Image(name="/images/2008/05/chiteluka.gif", float="right") }}
 
 <pre>
 చిట్టెలుక వచ్చింది

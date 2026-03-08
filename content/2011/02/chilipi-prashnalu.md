@@ -14,7 +14,7 @@ extra:
     \    \nకార్టూన్లు: 'విద్యార్థి' కృష్ణ, విజయవాడ."
 ---
 
-{{Image("ulli.jpg",float="right")}}
+{{ Image(name="/images/2011/02/ulli.jpg", float="right") }}
 
 <br><br>
 సమయస్ఫూర్తిగల ఉల్లి వ్యాపారి ఎవరు?    
@@ -24,7 +24,7 @@ extra:
 <br>
 <br>
 
-{{Image("loan.jpg",float="left")}}
+{{ Image(name="/images/2011/02/loan.jpg", float="left") }}
 
 
 <br><br>
@@ -34,7 +34,7 @@ extra:
 <br>
 <br>
 
-{{Image("remote.jpg",float="right")}}
+{{ Image(name="/images/2011/02/remote.jpg", float="right") }}
 
 <br><br>
 
@@ -42,7 +42,7 @@ extra:
 "రిమోట్ తో పేల్చే దీపావళి బాంబులు మా ప్రత్యేకత!" అన్నాడు. 
 <br><br>
 
-{{Image("kukka.jpg",float="left")}}
+{{ Image(name="/images/2011/02/kukka.jpg", float="left") }}
 
 <br><br>
 
@@ -51,7 +51,7 @@ extra:
 
 <br>
 
-{{Image("daivadhinam.jpg",float="right")}}
+{{ Image(name="/images/2011/02/daivadhinam.jpg", float="right") }}
 
 <br>
 
@@ -60,7 +60,7 @@ extra:
 
 <br><br>
 
-{{Image("sarvamrupaye.jpg",float="left")}}
+{{ Image(name="/images/2011/02/sarvamrupaye.jpg", float="left") }}
 
 
 
@@ -68,14 +68,14 @@ extra:
 "కోటి విద్యలు కోటి కొరకే"   
 <br><br>
 
-{{Image("tallidandri.jpg",float="right")}}
+{{ Image(name="/images/2011/02/tallidandri.jpg", float="right") }}
 
 
 వాతావరణశాఖ అధికారి కొడుకుని మేస్టారు హోంవర్కు అడిగితే ఏమన్నాడు?    
 "ఇంట్లో వాతావరణం బాగాలేక, చెయ్యలేదు సార్" అన్నాడు!  
 <br><br>
 
-{{Image("home.jpg",float="left")}}
+{{ Image(name="/images/2011/02/home.jpg", float="left") }}
 
 <br><br><br><br>
 

@@ -15,7 +15,7 @@ extra:
     డప్పు: పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{Image('ammametukulu.gif')}}
+{{ Image(name="/images/2008/11/ammametukulu.gif", float="right") }}
 
 <pre class="song">
 అమ్మ మెతుకులు చల్లింది

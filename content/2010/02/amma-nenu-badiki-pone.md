@@ -50,7 +50,7 @@ extra:
    
 బడి సంవత్సరంలో కనీసం ఒక్కసారన్నా అట్లా బైట తిప్పచ్చుగదే!   
 
-{{Image("eagle1.jpg", float="right")}}
+{{ Image(name="/images/2010/02/eagle1.jpg", float="right") }}
       
 ఇంకా..        
   

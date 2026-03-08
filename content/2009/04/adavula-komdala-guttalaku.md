@@ -19,7 +19,7 @@ extra:
     డప్పు: పోతులయ్య'
 ---
 
-{{Image('adavula_kondala_guttalu.gif')}}
+{{ Image(name="/images/2009/04/adavula_kondala_guttalu.gif", float="right") }}
 
 <pre class="song">
 అడవుల కొండల గుట్టలకూ చందామామయలో.... చందామామయలో

@@ -12,6 +12,6 @@ extra:
   issue_name: డిసెంబర్ 2011
 ---
 
-{{Image("csp1.jpg", float="center")}}
+{{ Image(name="/images/2011/12/csp1.jpg", float="center") }}
 
-{{Image("csp2.jpg", float="center")}}
+{{ Image(name="/images/2011/12/csp2.jpg", float="center") }}

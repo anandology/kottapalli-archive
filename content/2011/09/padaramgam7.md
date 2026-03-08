@@ -16,7 +16,7 @@ extra:
 ఈ పదరంగం చాలా సులభం! దీన్ని పూరించి పంపండి.  మీ పేరుతో బాటు  మీ బడి పేరు, తరగతి తప్పక రాయండి. సరైన సమాధానాలు పంపిన పిల్లల  పేర్లను  పదరంగం-8 తో పాటు ప్రచురించగలం.	
 నిర్వహణ: దేవి, కొత్తపల్లి బృందం.
 
-{{Image("padarangam7.jpg", float="left")}}
+{{ Image(name="/images/2011/09/padarangam7.jpg", float="left") }}
 
 
 **ఆధారాలు:**    
@@ -46,7 +46,7 @@ extra:
 
 </pre>
 
-{{Image("padarangam6solved.jpg", float="right")}}
+{{ Image(name="/images/2011/09/padarangam6solved.jpg", float="right") }}
 
 
 **పదరంగం-6 కి సరైన  సమాధానం**

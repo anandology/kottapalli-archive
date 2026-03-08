@@ -12,7 +12,7 @@ extra:
   issue_name: అక్టోబర్ 2008
 ---
 
-{{Image('ayyayyo-na-maradi.jpg')}}
+{{ Image(name="/images/2008/10/ayyayyo-na-maradi.jpg", float="right") }}
 
 <pre class="song">
 అయ్యయ్యో నా మరది అయ్యో లక్ష్మణా

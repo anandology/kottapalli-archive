@@ -10,13 +10,13 @@ taxonomies:
   - 2008-04
 extra:
   issue_name: ఏప్రిల్ 2008
-  intro: '{{Image("shameer.gif", "thumb")}}
+  intro: '{{ Image(name="/images/2008/04/shameer.gif", float="thumb") }}
 
 
     షామీర్'
 ---
 
-{{Image("tellajonnakankimeedha.jpg", "right")}}
+{{ Image(name="/images/2008/04/tellajonnakankimeedha.jpg", float="right") }}
 
 తెల్లజొన్నకంకి మీద నల్లకాకి వాలింది  
 పచ్చగౌను తొడుక్కున్న పాప దాన్ని తోలింది  

@@ -15,7 +15,7 @@ extra:
     గానం: టి.పవన్, మూడవ తరగతి, టింబక్టు బడి, అనంతపురం జిల్లా'
 ---
 
-{{Image('vanadevuda.gif')}}
+{{ Image(name="/images/2009/05/vanadevuda.gif", float="right") }}
 
 <pre class="song">
 వానదేవుడొచ్చినాడు వాసుదేవా

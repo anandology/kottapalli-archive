@@ -10,13 +10,13 @@ taxonomies:
   - 2008-04
 extra:
   issue_name: ఏప్రిల్ 2008
-  intro: '{{Image("pothi.gif", "thumb")}}
+  intro: '{{ Image(name="/images/2008/04/pothi.gif", float="thumb") }}
 
 
     పోతిరెడ్డి'
 ---
 
-{{Image("guvvaku_jaramamma.jpg", "right")}}
+{{ Image(name="/images/2008/04/guvvaku_jaramamma.jpg", float="right") }}
 
 
 

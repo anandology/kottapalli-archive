@@ -16,7 +16,7 @@ extra:
     డప్పు: పోతిరెడ్డి, ఏడవ తరగతి.'
 ---
 
-{{Image('parugo_parugu.gif')}}
+{{ Image(name="/images/2009/01/parugo_parugu.gif", float="right") }}
 
 <pre class="song">
 కావ్ కావ్ అంటే ఏమమ్మా?

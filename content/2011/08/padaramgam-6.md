@@ -15,7 +15,7 @@ extra:
     \n\nనిర్వహణ: దేవి, కొత్తపల్లి బృందం."
 ---
 
-{{Image("pada6.jpg", float="left")}}
+{{ Image(name="/images/2011/08/pada6.jpg", float="left") }}
 
 **ఆధారాలు: **
 
@@ -43,7 +43,7 @@ extra:
 <br><br><br><br>
 **కొత్తపల్లి పత్రిక  జులై సంచికలో ఇచ్చిన పదరంగం-5కు  సమాధానం:   **
 
-{{Image("pada5solved.jpg", float="right")}}
+{{ Image(name="/images/2011/08/pada5solved.jpg", float="right") }}
 
 దీని సమాధానాలు  మాకు  వ్రాసి పంపిన పిల్లలు:
 <pre>

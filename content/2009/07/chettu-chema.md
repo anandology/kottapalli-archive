@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: కుల్సుంబి సమూహం, టింబక్టుబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{Image("cettu-chema.jpeg", float="right")}}
+{{ Image(name="/images/2009/07/cettu-chema.jpeg", float="right") }}
 
 
 చెట్టుచేమా పెరిగిన కొండ 

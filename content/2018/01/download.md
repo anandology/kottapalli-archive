@@ -1,0 +1,22 @@
+---
+title: కొత్తపల్లి డౌన్లోడులు
+date: '2018-01-03T14:31:20'
+updated: '2018-01-03T14:31:20'
+key: /2018/01/download
+taxonomies:
+  category:
+  - ముందుమాట
+  issue:
+  - 2018-01
+extra:
+  issue_name: జనవరి 2018
+  redirect: /dashboard/2018/01
+---
+
+కొత్తపల్లి పత్రిక పిడియఫ్ ప్రతిని ఇక్కడినుండి  ఉచితంగా డౌన్లోడు చేసుకోండి:    
+<a href="https://archive.org/download/kottapalli-96/kottapalli-96.pdf", target="_blank"> కొత్తపల్లి పిడియఫ్ Archive Org ద్వారా (68 పేజీలు, 14.3MB)</a>
+
+కొత్తపల్లి పత్రికను ఇతర ఫార్మాటుల్లో డౌన్లోడు చేసుకునేందుకు, ఈ పుస్తకంగా చదువుకునేందుకు  సందర్శించండి:      
+<a href="https://www.archive.org/details/kottapalli-96", target="_blank"> కొత్తపల్లి పత్రిక ఇతర ఫార్మాటులు </a> 
+
+<br><br><br><br><br><br><br><br><br><br>

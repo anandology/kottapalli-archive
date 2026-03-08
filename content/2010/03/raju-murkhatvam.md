@@ -14,7 +14,7 @@ extra:
     జిల్లా.'
 ---
 
-{{Image("raju_murkatvam.JPG", float="center")}}
+{{ Image(name="/images/2010/03/raju_murkatvam.JPG", float="center") }}
 
 అనగనగా ఒక రాజు ఉండేవాడు.  ఆ రాజు ఒక రోజున వేటకు వెళ్లాడు.  అడవిలో వెళ్తుండగా ఒక పులి అతని మీద పడి చంపాలని ప్రయత్నించింది.  
 

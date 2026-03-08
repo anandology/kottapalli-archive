@@ -14,7 +14,7 @@ extra:
     జిల్లా.'
 ---
 
-{{Image("aatalu.gif", "right")}}
+{{ Image(name="/images/2008/07/aatalu.gif", float="right") }}
 
 ఆటలు ఆడండోయ్ బాలలు ఆటలు ఆడండోయ్  
 ఆటలు ఆడండోయ్ బాలలు ఆటలు ఆడండోయ్  

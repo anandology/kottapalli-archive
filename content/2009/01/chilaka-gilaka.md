@@ -15,7 +15,7 @@ extra:
     డప్పు: పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{Image('cilaka_gilaka.jpg')}}
+{{ Image(name="/images/2009/01/cilaka_gilaka.jpg", float="right") }}
 
 <pre class="song">
 చిలకా చిలకా ఇదిగో గిలక

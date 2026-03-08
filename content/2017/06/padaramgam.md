@@ -13,7 +13,7 @@ extra:
   intro: 'నిర్వహణ: డా. సిరి, మిర్యాలగూడ, నల్గొండ జిల్లా, తెలంగాణ రాష్ట్రం'
 ---
 
-{{Image("pada.jpg",float="center")}}
+{{ Image(name="/images/2017/06/pada.jpg", float="center") }}
 
 
 <br><br><br><br><br><br><br><br>

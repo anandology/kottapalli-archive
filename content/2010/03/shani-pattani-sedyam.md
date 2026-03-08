@@ -17,7 +17,7 @@ extra:
     రచన: N.ముఖేష్, 7వ తరగతి, టింబక్టు బడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{Image("sanipattani_sedyam.JPG", float="center")}}
+{{ Image(name="/images/2010/03/sanipattani_sedyam.JPG", float="center") }}
 
 అనగా అనగా  ధర్మపురి అనే ఒక  రాజ్యం ఉండేది.  దాన్ని 'రాజేంద్రుడు' అనే రాజు పరిపాలించేవాడు.  
 

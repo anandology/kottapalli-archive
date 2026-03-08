@@ -14,7 +14,7 @@ extra:
     \   \nడప్పు: కె.వీణ (7వ త.), టింబక్టు బడి."
 ---
 
-{{Image("odinakau_oakasari.gif", float="right")}}
+{{ Image(name="/images/2010/01/odinakau_oakasari.gif", float="right") }}
 
 ఒదినకు ఒకసారి      
 బిందెకు బిగుసరి        

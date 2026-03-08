@@ -14,7 +14,7 @@ extra:
     చెన్నూరు మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{Image('barre_barre_emistav.gif')}}
+{{ Image(name="/images/2008/12/barre_barre_emistav.gif", float="right") }}
 
 <pre class='song'>
 బర్రె బర్రె ఏమిస్తావ్?

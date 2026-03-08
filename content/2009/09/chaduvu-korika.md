@@ -18,7 +18,7 @@ extra:
     డప్పు: కె.వీణ, ఏడవ తరగతి, టింబక్టు బడి.'
 ---
 
-{{Image("caduvu_korika.gif", float="right")}}
+{{ Image(name="/images/2009/09/caduvu_korika.gif", float="right") }}
 
 <pre class="song">
 

@@ -12,6 +12,6 @@ extra:
   issue_name: అక్టోబర్ 2011
 ---
 
-{{Image("cartoonstrip1a.jpg",float="center")}}
+{{ Image(name="/images/2011/10/cartoonstrip1a.jpg", float="center") }}
 
-{{Image("cartoonstrip1b.jpg",float="center")}}
+{{ Image(name="/images/2011/10/cartoonstrip1b.jpg", float="center") }}

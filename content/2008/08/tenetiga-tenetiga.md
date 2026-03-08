@@ -16,7 +16,7 @@ extra:
     \  సౌజన్య బృందం, 6వతరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి."
 ---
 
-{{Image('teneteega.gif')}}
+{{ Image(name="/images/2008/08/teneteega.gif", float="right") }}
 
 తేనెటీగా! తేనెటీగా!  
 తేనె ఇస్తావా?  

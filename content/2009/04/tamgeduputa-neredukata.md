@@ -16,7 +16,7 @@ extra:
     డప్పు: టి. సతీష్, తొమ్మిదవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{Image('tangedu_puta.gif')}}
+{{ Image(name="/images/2009/04/tangedu_puta.gif", float="right") }}
 
 <pre class="song">
 ఓ.. తంగేడుపూత నేరేడుకాత

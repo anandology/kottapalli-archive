@@ -16,7 +16,7 @@ extra:
     పాడినవారు:  హనుమంతు బృందం'
 ---
 
-{{Image("kakikedava.gif")}}
+{{ Image(name="/images/2008/07/kakikedava.gif", float="right") }}
 
 
 కడవ మీద కాకమ్మా  

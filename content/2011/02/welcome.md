@@ -51,4 +51,4 @@ extra:
 
 కొత్తపల్లి బృందం
 
-{{Image("editorial.jpg",float="center")}}
+{{ Image(name="/images/2011/02/editorial.jpg", float="center") }}

@@ -15,7 +15,7 @@ extra:
     \ అనంతపురం జిల్లా."
 ---
 
-{{Image("putucjarajra.JPG", float="center")}}
+{{ Image(name="/images/2011/09/putucjarajra.JPG", float="center") }}
 
 మా బడిలో పిల్లలకు తెలుగు అంటే‌ చాలా ఇష్టం. రకరకాల పిట్టకథలు, పొడుపు కథలు, సామెతలు చెబుతూ, రాస్తూ ఉంటారు. 
 

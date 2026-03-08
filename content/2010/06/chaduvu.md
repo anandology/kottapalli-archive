@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: విజ్డం స్కూల్  పిల్లలు, గుడిపాల, చిత్తూరు జిల్లా.'
 ---
 
-{{Image("caduvu.jpg", float="left")}}
+{{ Image(name="/images/2010/06/caduvu.jpg", float="left") }}
 
 
 చదువుకో చదువుకో  అక్షరాలు నేర్చుకో 

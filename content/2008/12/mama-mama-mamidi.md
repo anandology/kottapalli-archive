@@ -14,7 +14,7 @@ extra:
     మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{Image('mama_mamidipandu.gif')}}
+{{ Image(name="/images/2008/12/mama_mamidipandu.gif", float="right") }}
 
 <pre class='song'>
 మామా మామా మామిడిపండు

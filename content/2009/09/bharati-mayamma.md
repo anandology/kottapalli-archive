@@ -17,7 +17,7 @@ extra:
     \ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి."
 ---
 
-{{Image("barati_mayamma.gif", float="right")}}
+{{ Image(name="/images/2009/09/barati_mayamma.gif", float="right") }}
 
 <pre class="song">
 

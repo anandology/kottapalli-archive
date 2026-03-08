@@ -15,7 +15,7 @@ extra:
     \   \t\nనిర్వహణ: దేవి, కొత్తపల్లి బృందం."
 ---
 
-{{Image("pada5.JPG", float='left')}}
+{{ Image(name="/images/2011/07/pada5.JPG", float="left") }}
 
 **ఆధారాలు: **
 
@@ -42,4 +42,4 @@ extra:
 
 రెండు మాసాల క్రితం ఇచ్చి పదరంగం-౩ కి సమాధానం ఇదిగో- అందుకోండి, సరిచూసుకోండి:
 
-{{Image("pada3solved.JPG", float='right')}}
+{{ Image(name="/images/2011/07/pada3solved.JPG", float="right") }}

@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: ఆర్. శిరీష, మూడవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్త పల్లి.'
 ---
 
-{{Image('pacha_pachani_teega.gif')}}
+{{ Image(name="/images/2009/03/pacha_pachani_teega.gif", float="right") }}
 
 <pre class="song">
 పచ్చ పచ్చాని తీగ పాకింది

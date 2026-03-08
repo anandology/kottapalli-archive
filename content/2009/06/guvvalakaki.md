@@ -13,7 +13,7 @@ extra:
   intro: గానం:నాగవేణి, మూడవ తరగతి, టింబక్టు బడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.
 ---
 
-{{Image("guvvala_kaki.gif")}}
+{{ Image(name="/images/2009/06/guvvala_kaki.gif", float="right") }}
 
 <pre class="song">
 కాకీ కాకీ కవ్వరకాకీ 

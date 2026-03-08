@@ -10,13 +10,13 @@ taxonomies:
   - 2008-04
 extra:
   issue_name: ఏప్రిల్ 2008
-  intro: '{{Image("sirisha.gif", "thumb")}}
+  intro: '{{ Image(name="/images/2008/04/sirisha.gif", float="thumb") }}
 
 
     పాడినది: శిరీష, 2వ తరగతి'
 ---
 
-{{Image("chilakalukani.jpg", "left")}}
+{{ Image(name="/images/2008/04/chilakalukani.jpg", float="left") }}
 
 చిలకలుగాని చిలకల్లారా  
 సీతాకోక చిలకల్లారా  

@@ -13,13 +13,13 @@ extra:
   intro: '<br>
 
 
-    {{Image("Chitti_miriyalu.jpg", "thumb")}}
+    {{ Image(name="/images/2009/11/Chitti_miriyalu.jpg", float="thumb") }}
 
 
     గానం: కె. స్నేహ(1వ త.), ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురంజిల్లా.'
 ---
 
-{{Image("cihitti_chiti_merialu.gif", float="right")}}
+{{ Image(name="/images/2009/11/cihitti_chiti_merialu.gif", float="right") }}
 
 చిట్టి చిట్టి మిరియాలు  
 చెట్టుకింద పోసి    

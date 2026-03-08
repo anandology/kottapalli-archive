@@ -13,7 +13,7 @@ extra:
   intro: శిరీష 2 వతరగతి
 ---
 
-{{Image("padichilakalu.gif")}}
+{{ Image(name="/images/2008/05/padichilakalu.gif", float="right") }}
 
 పది చిలకలు పాడుతుండగా, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;పాడలేక ఒకటిపోతె ఇంకా తొమ్మిది<br/>

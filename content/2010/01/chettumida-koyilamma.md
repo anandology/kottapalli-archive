@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: కె.చెన్నకేశవ రెడ్డి, (2వ త.), టింబక్టుబడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{Image("cettumidakoilamma.gif", float="right")}}
+{{ Image(name="/images/2010/01/cettumidakoilamma.gif", float="right") }}
 
 చెట్టుమీద కోయిలమ్మ కూసింది కోయని!        
 చెట్టుకింద ముద్దుబొమ్మ పలికింది ఓయని!      

@@ -15,7 +15,7 @@ extra:
     డప్పు:  పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{Image('avu_avu_emistave.gif')}}
+{{ Image(name="/images/2008/11/avu_avu_emistave.gif", float="right") }}
 
 <pre class="song">
 ఆవు ఆవు ఏమిస్తావ్?

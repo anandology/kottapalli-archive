@@ -10,7 +10,7 @@ taxonomies:
   - 2008-04
 extra:
   issue_name: ఏప్రిల్ 2008
-  intro: '{{Image("lakshmi.gif", "thumb")}}
+  intro: '{{ Image(name="/images/2008/04/lakshmi.gif", float="thumb") }}
 
 
     రచన: శ్రీ లక్ష్మి, పదవతరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'

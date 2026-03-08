@@ -14,7 +14,7 @@ extra:
     \       \nచిత్రం: అలివేలమ్మ, కొత్తపల్లి బృందం."
 ---
 
-{{Image("chilaka.gif", float="right")}}
+{{ Image(name="/images/2009/10/chilaka.gif", float="right") }}
 
 <pre>
 చిలకా చిలకా రావే

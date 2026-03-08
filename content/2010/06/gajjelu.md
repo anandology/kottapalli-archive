@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: టింబక్టు బడి పిల్లలు,చెన్నేకొత్తపల్లి.'
 ---
 
-{{Image("Gajje.jpg", float="right")}}
+{{ Image(name="/images/2010/06/Gajje.jpg", float="right") }}
 
 గజ్జెలు  గజ్జెలు గలగల గజ్జెలు 
 

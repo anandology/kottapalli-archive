@@ -15,7 +15,7 @@ extra:
     \ ఒకటి, మీకోసం. \n\nగానం:  చంద్ర, రెడ్డి, సయ్యద్  ప్రకృతిబడి, చెన్నేకొత్తపల్లి."
 ---
 
-{{Image('kanukokanuko.gif')}}
+{{ Image(name="/images/2008/09/kanukokanuko.gif", float="right") }}
 
 <pre class="song">
 కనుక్కో కనుక్కో ఓ బాలా

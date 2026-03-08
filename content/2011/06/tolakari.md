@@ -14,7 +14,7 @@ extra:
     \ గానం: అభ్యాస విద్యాలయం బాలలు, విజయవాడ."
 ---
 
-{{Image("pata3.jpg",float="right")}}
+{{ Image(name="/images/2011/06/pata3.jpg", float="right") }}
 
 తొలకరి జల్లులు జీవంరా     
 మొలకలు పంటకు ప్రాణంరా     

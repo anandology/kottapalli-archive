@@ -13,7 +13,7 @@ extra:
   intro: బడి గ్రూపు
 ---
 
-{{Image("timbaktuschool.gif")}}
+{{ Image(name="/images/2008/05/timbaktuschool.gif", float="right") }}
 
 <pre>
 టింబక్టు బడి పిల్లలం మేము టింబక్టు టింబక్టు బడి పిల్లలం

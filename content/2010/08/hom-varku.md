@@ -13,7 +13,7 @@ extra:
   intro: "మూలం: శ్యాం ప్రసాద్ నమ్రు     \nతెలుగు అనువాదం: కె.సురేష్, మంచి పుస్తకం."
 ---
 
-{{Image("hinduphoto_Photo__Singam_Venkataramana_07-07-2010_A_child_at_work_modified_1.jpg", float='center')}}
+{{ Image(name="/images/2010/08/hinduphoto_Photo__Singam_Venkataramana_07-07-2010_A_child_at_work_modified_1.jpg", float="center") }}
 
 (ఫొటో : 'ది హిందూ' 07-07-2010,”A child at work!”బడి లంచ్ సమయంలో గొర్రెలు కాస్తున్న ఓ పాప )
  

@@ -14,7 +14,7 @@ extra:
     చెన్నూరు మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{Image('bhatanittu.gif')}}
+{{ Image(name="/images/2008/12/bhatanittu.gif", float="right") }}
 
 <pre class='song'>
 బటానిత్తు బటానిత్తు బాగున్నావా?

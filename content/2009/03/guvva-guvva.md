@@ -16,7 +16,7 @@ extra:
     \ ప్రకృతిబడి, చెన్నేకొత్త పల్లి"
 ---
 
-{{Image('guvva_guvva.gif')}}
+{{ Image(name="/images/2009/03/guvva_guvva.gif", float="right") }}
 
 <pre class="song">
 గువ్వా! గువ్వా! నీ కేల, రెండు కాళ్ళు?

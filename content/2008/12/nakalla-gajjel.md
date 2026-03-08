@@ -14,7 +14,7 @@ extra:
     చెన్నూరు మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{Image('mokalla_gajjal.gif')}}
+{{ Image(name="/images/2008/12/mokalla_gajjal.gif", float="right") }}
 
 <pre class='song'>
 నా కాళ్ల గజ్జెల్

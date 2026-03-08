@@ -16,7 +16,7 @@ extra:
     \ చెన్నేకొత్తపల్లి."
 ---
 
-{{Image("sirasethu_gaganambu_daka.gif", float="right")}}
+{{ Image(name="/images/2009/09/sirasethu_gaganambu_daka.gif", float="right") }}
 
 <pre>
 శిరసెత్తుగగనంబుదాక

@@ -14,7 +14,7 @@ extra:
     తరగతి రాశి, ఇష్టంగా పాడిన ఈ పాట, మీకోసం:
 
 
-    {{Image("rasi.gif", "thumb")}}
+    {{ Image(name="/images/2008/04/rasi.gif", float="thumb") }}
 
 
     గాయని:  రాశి, రెండవ తరగతి
@@ -23,7 +23,7 @@ extra:
     చిత్రం:  కుమారి'
 ---
 
-{{Image("chitti_chitti.jpg", "right")}}
+{{ Image(name="/images/2008/04/chitti_chitti.jpg", float="right") }}
 
 చిట్టి చిట్టి మిరియాలు  
 చెట్టుకింద పోసి  

@@ -14,7 +14,7 @@ extra:
     సమర్పణ: విద్యార్థి సృజన కుటీర్, విజయవాడ."
 ---
 
-{{Image("chiru1.jpg",float="right")}}
+{{ Image(name="/images/2011/01/chiru1.jpg", float="right") }}
 
 
 చిరు చిరు చేతుల పాపల్లారా   
@@ -40,7 +40,7 @@ extra:
 ఉదయించే ఈ ప్రశ్నలకు     
 చదువే చెప్పును సమాధానం  	"చిరు చిరు" 
 
-{{Image("chiru2.jpg",float="right")}}
+{{ Image(name="/images/2011/01/chiru2.jpg", float="right") }}
 
 
 అటునిటు అంచులు ఉన్నటుల    

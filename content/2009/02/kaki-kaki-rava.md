@@ -16,7 +16,7 @@ extra:
     గానం; C. హరిత,  2వతరగతి, ప్రకృతి బడి.'
 ---
 
-{{Image('kaki,kaki.gif')}}
+{{ Image(name="/images/2009/02/kaki,kaki.gif", float="right") }}
 
 <pre class="song">
 కాకీ కాకీ రావా

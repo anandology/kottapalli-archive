@@ -19,7 +19,7 @@ extra:
     గానం: బి. కుమారి, ఆర్ట్స్ అండ్ క్రాఫ్ట్స్ సెంటర్, చెన్నేకొత్తపల్లి.'
 ---
 
-{{Image('jolali.gif')}}
+{{ Image(name="/images/2009/05/jolali.gif", float="right") }}
 
 
 <pre class="song">

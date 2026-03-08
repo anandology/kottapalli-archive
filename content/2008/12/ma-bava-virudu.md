@@ -17,7 +17,7 @@ extra:
     చిత్రం:  సాయి కిరణ్, బి యఫ్ ఎ (రెండవ సంవత్సరం), జె యన్ టి యు, హైదరాబాదు.'
 ---
 
-{{Image('ma_bava_veerudu.gif')}}
+{{ Image(name="/images/2008/12/ma_bava_veerudu.gif", float="right") }}
 
 <pre class='song'>
 మా బావ వీరుడు

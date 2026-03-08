@@ -16,7 +16,7 @@ extra:
     డప్పు: పోతిరెడ్డి, ఏడవ తరగతి.'
 ---
 
-{{Image('nadanadnudu.gif')}}
+{{ Image(name="/images/2008/11/nadanadnudu.gif", float="right") }}
 
 <pre class="song">
 నల్లని వాడు ఏడమ్మా?

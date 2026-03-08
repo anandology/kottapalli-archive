@@ -13,7 +13,7 @@ extra:
   intro: "గానం: యం.డి. పృథ్వి మరియు ఇ. అంజలి \n\nరచన: \"కవికాకి\" కీ.శే. జై సీతారాం"
 ---
 
-{{Image('cinni_cinni_pillalam.gif')}}
+{{ Image(name="/images/2009/03/cinni_cinni_pillalam.gif", float="right") }}
 
 <pre class="song">
 చిన్న చిన్న పిల్లలం చిన్నారి పాపలం

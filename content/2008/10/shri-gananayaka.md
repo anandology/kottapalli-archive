@@ -19,7 +19,7 @@ extra:
     డప్పు: పోతలయ్య'
 ---
 
-{{Image('srigananayaka.jpg')}}
+{{ Image(name="/images/2008/10/srigananayaka.jpg", float="right") }}
 
 <pre class="song">
 శ్రీ గణనాయకా సిద్ధి వినాయకా

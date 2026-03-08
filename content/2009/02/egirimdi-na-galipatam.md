@@ -13,7 +13,7 @@ extra:
   intro: గానం; K. పరమేష్, 2వ తరగతి, ప్రకృతి బడి.
 ---
 
-{{Image('galipatam.gif')}}
+{{ Image(name="/images/2009/02/galipatam.gif", float="right") }}
 
 <pre class="song">
 

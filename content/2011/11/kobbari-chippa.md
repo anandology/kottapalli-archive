@@ -12,4 +12,4 @@ extra:
   issue_name: నవంబర్ 2011
 ---
 
-{{Image("kobbari.jpg",float="center")}}
+{{ Image(name="/images/2011/11/kobbari.jpg", float="center") }}

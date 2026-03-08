@@ -48,4 +48,4 @@ extra:
 "మా బాబే, ఎంత అందంగా ఉన్నాడయ్యా ఈ గణపయ్య. మట్టి గణపతి గురించి అందరికీ చెబతా. కానీ నేను ఈ పచ్చ గణపతికే పూజ 
 చేస్తానయ్యా రేపు. మా గణపయ్య లాగే నీకూ ఆకులు కాయలంటే బలే ఇష్టంలే," అంది రంగమ్మ నవ్వుతూ.
 
-{{Image("kuraganapathifor_October.jpg",float="center")}}
+{{ Image(name="/images/2011/12/kuraganapathifor_October.jpg", float="center") }}

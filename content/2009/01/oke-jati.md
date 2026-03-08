@@ -16,7 +16,7 @@ extra:
     డప్పు: పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{Image('oke_jati.gif')}}
+{{ Image(name="/images/2009/01/oke_jati.gif", float="right") }}
 
 <pre>
 కుక్కా - నక్కా 

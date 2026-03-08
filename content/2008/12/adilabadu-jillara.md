@@ -14,7 +14,7 @@ extra:
     చెన్నూరు మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{Image('adilabad_jillara.gif')}}
+{{ Image(name="/images/2008/12/adilabad_jillara.gif", float="right") }}
 
 <pre class='song'>
 ఆదిలాబాదు జిల్లారా

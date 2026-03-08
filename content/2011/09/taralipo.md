@@ -15,7 +15,7 @@ extra:
     \   వీళ్ళిద్దరూ   6, 7 తరగతుల్లో ఉన్నారు)"
 ---
 
-{{Image("extra1.JPG", float="right")}}
+{{ Image(name="/images/2011/09/extra1.JPG", float="right") }}
 
 
 తరలిపో, తరలిపో, తరలిపో!    

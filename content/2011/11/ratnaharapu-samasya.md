@@ -18,7 +18,7 @@ extra:
     సౌజన్యం: జహీరాబాద్ పిల్లల కథలు, ''మనలైబ్రరీ'''
 ---
 
-{{Image("yuvakuniyukti.jpg", float="center")}}
+{{ Image(name="/images/2011/11/yuvakuniyukti.jpg", float="center") }}
 
 ఒక రాజుకు  కలలో  దేవుడు  ప్రత్యక్షమై ఒక   రత్నాన్ని   బహూకరించాడు. 
 

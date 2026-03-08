@@ -13,7 +13,7 @@ extra:
   intro: 'రచన:  వి.పి.ఆన్సి,ఉపాధ్యాయురాలు,టింబక్టు బడి.'
 ---
 
-{{Image("pencil,pustakam,rabbaru1.gif", float="center")}}
+{{ Image(name="/images/2010/02/pencil,pustakam,rabbaru1.gif", float="center") }}
 
 
 అనగనగా ఒక టేబుల్ ఉండేది.  ఆ టేబుల్ మీద ఒక  పుస్తకం  ఉండేది. 
@@ -40,4 +40,4 @@ extra:
 
 ఆ తరువాత పెన్సిల్ నిజంగా మారిపోయింది. అనవసరంగా అది పుస్తకం మీద ఒక్క గీతకూడా  గీయటం లేదు. ఏది రాసినా అందంగా, ఇంపుగా, వరసగా రాస్తున్నది.  చక్కని బొమ్మలు గీస్తున్నది. పుస్తకానికి చాలా సంతోషం కలిగింది. ఇప్పుడు పెన్సిలూ, పుస్తకమూ, రబ్బరూ మంచి స్నేహితులైపోయాయి!
 
-{{Image("/pencil,pustakam,rabbaru2.gif", float="center")}}
+{{ Image(name="/images/2010/02//pencil,pustakam,rabbaru2.gif", float="center") }}

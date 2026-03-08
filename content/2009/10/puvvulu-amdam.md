@@ -14,7 +14,7 @@ extra:
     జిల్లా.'
 ---
 
-{{Image("Puvvulu_andam.gif", float="right")}}
+{{ Image(name="/images/2009/10/Puvvulu_andam.gif", float="right") }}
 
 <pre>
 

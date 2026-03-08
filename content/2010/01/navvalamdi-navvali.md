@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: పవన్ కుమార్, 4వ తరగతి, టింబక్టుబడి.'
 ---
 
-{{Image("navvalandi_navvali.gif", float="center")}}
+{{ Image(name="/images/2010/01/navvalandi_navvali.gif", float="center") }}
 
 నవ్వాలండీ నవ్వాలి     
 ఆనందంగా నవ్వాలి     

@@ -15,7 +15,7 @@ extra:
     గానం: పోతులయ్య సమూహం, ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{Image("andam.gif", float="center")}}
+{{ Image(name="/images/2009/05/andam.gif", float="center") }}
 
 <pre class="center">
 నీడను ఇచ్చే తరులూ-నింగిని తాకే గిరులూ

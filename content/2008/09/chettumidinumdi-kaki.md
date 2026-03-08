@@ -19,7 +19,7 @@ extra:
     గానం:  రాజు బృందం, ఐదవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{Image('cettumeedakakamma.gif')}}
+{{ Image(name="/images/2008/09/cettumeedakakamma.gif", float="right") }}
 
 <pre class="song">
 చెట్టు మీద నుండి కాకి కావ్ కావ్ కావ్

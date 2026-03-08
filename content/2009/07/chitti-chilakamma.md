@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: జి. సత్యలక్ష్మి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{Image("chitti_cilakamma.jpeg", float="right")}}
+{{ Image(name="/images/2009/07/chitti_cilakamma.jpeg", float="right") }}
 
 
 చిట్టి చిలకమ్మా!

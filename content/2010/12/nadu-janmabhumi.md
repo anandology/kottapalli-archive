@@ -15,7 +15,7 @@ extra:
     \ ఉపాధ్యాయురాలు, టింబక్టు బడి."
 ---
 
-{{Image("janmabhumi.jpg", float='right')}}
+{{ Image(name="/images/2010/12/janmabhumi.jpg", float="right") }}
 
 నాదు  జన్మభూమి కంటె       
 నాకమెక్కడుంది?    

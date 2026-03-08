@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: సౌజన్య మరియు అంజలి బృందం.'
 ---
 
-{{Image("ambetkar.gif", float="center")}}
+{{ Image(name="/images/2009/05/ambetkar.gif", float="center") }}
 
 
 <pre class="song">

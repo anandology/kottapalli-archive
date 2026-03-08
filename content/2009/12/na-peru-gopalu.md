@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: జి. పోతిరెడ్డి(5వ త.), ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{Image("na_peru_gopal.gif", float="right")}}
+{{ Image(name="/images/2009/12/na_peru_gopal.gif", float="right") }}
 
 
 నా పేరు గోపాలు

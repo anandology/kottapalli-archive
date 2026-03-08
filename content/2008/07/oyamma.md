@@ -16,7 +16,7 @@ extra:
     పాడినది:  నాగరాజు'
 ---
 
-{{Image("Oyammatota.gif")}}
+{{ Image(name="/images/2008/07/Oyammatota.gif", float="right") }}
 
 ఓయమ్మా తోటనుండి ఏమితెస్తివి?  
 తోటనుండి పచ్చగడ్డి కోసుకొస్తిని  

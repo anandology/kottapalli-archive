@@ -14,7 +14,7 @@ extra:
     చెన్నూరు మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{Image('angadama_angadi.gif')}}
+{{ Image(name="/images/2008/12/angadama_angadi.gif", float="right") }}
 
 <pre class='song'>
 అంగడమ్మ  అంగడి
