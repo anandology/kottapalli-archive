@@ -27,6 +27,28 @@ def slugify(text):
     return slug
 
 
+# Regex to match {{Image(...)}} macro calls with various quoting styles
+_IMAGE_MACRO_RE = re.compile(
+    r"\{\{Image\("
+    r"""\\?['"]{1,2}([^'"\\]+)\\?['"]{1,2}"""  # group 1: filename
+    r"(?:"
+    r"""\s*,\s*(?:float\s*=\s*)?"""             # optional comma + optional float=
+    r"""\\?['"]{1,2}\s*([a-z]+)\s*\\?['"]{1,2}"""  # group 2: float value
+    r")?"
+    r"""\)+\}\}"""                               # closing )}} or ))}}
+)
+
+
+def rewrite_image_macros(body, year, month):
+    """Rewrite Infogami {{Image(...)}} macros to Zola shortcodes."""
+    def replacer(m):
+        filename = m.group(1)
+        float_val = m.group(2) or "right"
+        path = f"/images/{year}/{month}/{filename}"
+        return '{{ Image(name="' + path + '", float="' + float_val + '") }}'
+    return _IMAGE_MACRO_RE.sub(replacer, body)
+
+
 def find_image(year, month, basename):
     """Find an image file with any common extension, return its URL path or None."""
     for ext in [".jpg", ".JPG", ".gif", ".GIF", ".png", ".PNG"]:
@@ -52,7 +74,7 @@ def fetch_all(cur, type_key):
     return [row[0] for row in cur.fetchall()]
 
 
-def build_frontmatter(article, issue_names, category_names):
+def build_frontmatter(article, issue_names, category_names, year=None, month=None):
     """Build YAML frontmatter dict for an article."""
     fm = {}
     fm["title"] = article.get("title", "")
@@ -105,8 +127,16 @@ def build_frontmatter(article, issue_names, category_names):
     else:
         intro_text = ""
     intro_text = intro_text.replace("\r\n", "\n").strip()
+    if intro_text and year and month:
+        intro_text = rewrite_image_macros(intro_text, year, month)
     if intro_text:
         extra["intro"] = intro_text
+
+    redirect = article.get("redirect")
+    if redirect:
+        if isinstance(redirect, dict):
+            redirect = redirect.get("key", "")
+        extra["redirect"] = redirect
 
     if extra:
         fm["extra"] = extra
@@ -134,7 +164,7 @@ def write_markdown(path, frontmatter, body):
 
 
 def count_articles_per_issue(cur):
-    """Count non-redirect articles per issue key."""
+    """Count articles per issue key."""
     cur.execute("""
         SELECT d.data::jsonb->'issue'->>'key' as issue_key, count(*)
         FROM data d
@@ -142,7 +172,6 @@ def count_articles_per_issue(cur):
         JOIN thing tt ON t.type = tt.id
         WHERE tt.key = '/type/article'
           AND d.revision = t.latest_revision
-          AND NOT d.data::jsonb ? 'redirect'
           AND d.data::jsonb->'issue'->>'key' IS NOT NULL
         GROUP BY issue_key
         UNION
@@ -152,7 +181,6 @@ def count_articles_per_issue(cur):
         JOIN thing tt ON t.type = tt.id
         WHERE tt.key = '/type/article'
           AND d.revision = t.latest_revision
-          AND NOT d.data::jsonb ? 'redirect'
           AND jsonb_typeof(d.data::jsonb->'issue') = 'string'
         GROUP BY issue_key
     """)
@@ -160,25 +188,14 @@ def count_articles_per_issue(cur):
 
 
 def export_articles(cur, issue_names, category_names):
-    """Export all non-redirect articles to markdown files."""
+    """Export all articles to markdown files."""
     articles = fetch_all(cur, "/type/article")
 
     # Track slugs per directory to handle duplicates
     used_slugs = {}
-    redirects = {}
     exported = 0
-    skipped_redirects = 0
 
     for article in articles:
-        # Skip redirects
-        if "redirect" in article:
-            redirect_target = article["redirect"]
-            if isinstance(redirect_target, dict):
-                redirect_target = redirect_target.get("key", "")
-            redirects[article.get("key", "")] = redirect_target
-            skipped_redirects += 1
-            continue
-
         key = article.get("key", "")
         # Parse year/month/slug from key like "/2008/04/ప్రాస_కవితలు"
         parts = key.strip("/").split("/", 2)
@@ -202,7 +219,7 @@ def export_articles(cur, issue_names, category_names):
             used_slugs[dir_key][slug] = 1
 
         # Build content
-        fm = build_frontmatter(article, issue_names, category_names)
+        fm = build_frontmatter(article, issue_names, category_names, year, month)
         body_obj = article.get("body", "")
         if isinstance(body_obj, dict):
             body = body_obj.get("value", "")
@@ -211,17 +228,13 @@ def export_articles(cur, issue_names, category_names):
         else:
             body = ""
         body = body.replace("\r\n", "\n")
+        body = rewrite_image_macros(body, year, month)
 
         path = os.path.join(OUTPUT_DIR, year, month, f"{slug}.md")
         write_markdown(path, fm, body)
         exported += 1
 
-    print(f"Exported {exported} articles, skipped {skipped_redirects} redirects")
-
-    # Write redirects mapping
-    with open("redirects.json", "w", encoding="utf-8") as f:
-        json.dump(redirects, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {len(redirects)} redirects to redirects.json")
+    print(f"Exported {exported} articles")
 
 
 def export_sections(cur, issue_names, article_counts):
