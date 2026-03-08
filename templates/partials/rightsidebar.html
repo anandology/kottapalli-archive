@@ -1,0 +1,18 @@
+{# Right sidebar: published issues in reverse chronological order #}
+<div id="rightsidebar">
+    <div class="menu">
+    <b>సంచికలు</b><br/>
+    <ul id="issues">
+    {% set root = get_section(path="_index.md") %}
+    {% for year_path in root.subsections | reverse %}
+        {% set year_section = get_section(path=year_path) %}
+        {% for month_path in year_section.subsections | reverse %}
+            {% set issue = get_section(path=month_path) %}
+            {% if issue.extra.published %}
+            <li><a href="{{ issue.permalink }}">{{ issue.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+    </ul>
+    </div>
+</div>

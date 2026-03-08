@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="te">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="కొత్తపల్లి, తెలుగు పిల్లల e-మాసపత్రిక, కథలు, పాటలు, బాలసాహిత్యం, telugu magazine">
+<title>{% block title %}{{ config.title }}{% endblock %} (కొత్తపల్లి)</title>
+<link href="/css/pastel.css" rel="stylesheet" type="text/css">
+<link href="/css/menu.css" rel="stylesheet" type="text/css">
+<style>
+#header-nav a {
+    font-size: 1.6em;
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+}
+#header-nav a:hover {
+    text-decoration: underline;
+    background-color: inherit;
+}
+</style>
+</head>
+<body>
+
+<div id="container">
+    {# Banner #}
+    {% block banner %}{% endblock banner %}
+
+    {# Header Menu #}
+    <div id="menuh-container">
+        <div id="menuh" style="padding-top: 5px; padding-bottom: 5px; background: #5D775A;">
+            <div style="padding: 5px 10px;">
+                <div id="header-nav">
+                    <a href="/">మొదటి పేజీ</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {# Left Sidebar #}
+    <div id="sidebar">
+        {% block sidebar %}{% endblock sidebar %}
+    </div>
+
+    {# Right Sidebar #}
+    <div id="sidebar-b">
+        {% include "partials/rightsidebar.html" %}
+    </div>
+
+    {# Content #}
+    <div id="content">
+        <script>
+        function change_font_size(size) {
+            document.getElementById("content").style.fontSize = size;
+            return false;
+        }
+        </script>
+        <div id="fontbar" style="font-size: 14px; float: right;">
+            <a style="font-size: 12px" href="#" onclick="return change_font_size('12px');">అ</a>
+            <a style="font-size: 14px" href="#" onclick="return change_font_size('14px');">అ</a>
+            <a style="font-size: 16px" href="#" onclick="return change_font_size('16px');">అ</a>
+            <a style="font-size: 18px" href="#" onclick="return change_font_size('18px');">అ</a>
+            <a style="font-size: 20px" href="#" onclick="return change_font_size('20px');">అ</a>
+            <a style="font-size: 22px" href="#" onclick="return change_font_size('22px');">అ</a>
+        </div>
+
+        <h1>{% block page_title %}{% endblock page_title %}</h1>
+
+        {% block content %}{% endblock content %}
+
+        <br style="clear: both"/>
+    </div>
+
+    <div style="clear:both"> </div>
+    <div id="footer">Design by <a href="http://www.mitchinson.net">Denise Mitchinson</a></div>
+</div>
+
+</body>
+</html>

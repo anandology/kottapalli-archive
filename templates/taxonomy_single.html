@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}{{ term.name }}{% endblock %}
+
+{% block page_title %}{{ term.name }}{% endblock page_title %}
+
+{% block content %}
+{% for page in term.pages %}
+  <p><i><a href="{{ page.permalink }}">{{ page.title }}</a></i></p>
+{% endfor %}
+{% endblock content %}

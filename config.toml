@@ -1,0 +1,14 @@
+base_url = "https://kottapalli.in"
+title = "కొత్తపల్లి"
+description = "తెలుగు పిల్లల పత్రిక"
+default_language = "te"
+generate_feeds = false
+
+[[taxonomies]]
+name = "category"
+
+[[taxonomies]]
+name = "issue"
+
+[markdown]
+highlight_code = false

@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }}{% endblock %}
+
+{% block banner %}
+{# Show banner for the issue this article belongs to #}
+{% if page.ancestors | length >= 3 %}
+    {% set issue_path = page.ancestors | nth(n=2) %}
+    {% set issue = get_section(path=issue_path) %}
+    {% if issue.extra.banner %}
+    <div id="banner"><img class="logo" src="{{ issue.extra.banner }}" width="900" alt="logo"></div>
+    {% endif %}
+{% endif %}
+{% endblock banner %}
+
+{% block sidebar %}
+{# Left sidebar: cover + categorized article list for the parent issue #}
+{% if page.ancestors | length >= 3 %}
+    {% set issue_path = page.ancestors | nth(n=2) %}
+    {% set issue = get_section(path=issue_path) %}
+    {% if issue.extra.cover %}
+    <div id="cover-thumb">
+        <a href="{{ issue.permalink }}" title="{{ issue.title }} సంచిక">
+            <img src="{{ issue.extra.cover }}" alt="{{ issue.title }} సంచిక" width="140">
+        </a>
+    </div>
+    {% endif %}
+    {% set pages_by_cat = issue.pages | group_by(attribute="taxonomies.category.0") %}
+    {% for cat, articles in pages_by_cat %}
+        <h1>{{ cat }}</h1>
+        <div class="menu">
+        <ul>
+        {% for a in articles %}
+            <li><a href="{{ a.permalink }}">{{ a.title }}</a></li>
+        {% endfor %}
+        </ul>
+        </div>
+    {% endfor %}
+{% endif %}
+{% endblock sidebar %}
+
+{% block page_title %}{{ page.title }}{% endblock page_title %}
+
+{% block content %}
+{% if page.extra.intro %}
+    <div class="intro">{{ page.extra.intro }}</div>
+{% endif %}
+
+<div class="article-body">
+<p>
+{{ page.content | safe }}
+</p>
+</div>
+{% endblock content %}
