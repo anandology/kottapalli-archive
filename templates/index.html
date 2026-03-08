@@ -7,7 +7,7 @@
 {% if root.extra.latest_issue %}
     {% set issue = get_section(path=root.extra.latest_issue) %}
     {% if issue.extra.banner %}
-    <div id="banner"><img class="logo" src="{{ issue.extra.banner }}" width="900" alt="logo"></div>
+    <div id="banner"><img class="logo" src="https://assets.kottapalli.in{{ issue.extra.banner }}" width="900" alt="logo"></div>
     {% endif %}
 {% endif %}
 {% endblock banner %}
@@ -20,7 +20,7 @@
     {% if issue.extra.cover %}
     <div id="cover-thumb">
         <a href="{{ issue.path }}" title="{{ issue.title }} సంచిక">
-            <img src="{{ issue.extra.cover }}" alt="{{ issue.title }} సంచిక" width="140">
+            <img src="https://assets.kottapalli.in{{ issue.extra.cover }}" alt="{{ issue.title }} సంచిక" width="140">
         </a>
     </div>
     {% endif %}

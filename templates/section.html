@@ -4,13 +4,13 @@
 
 {% block banner %}
 {% if section.extra.banner %}
-    <div id="banner"><img class="logo" src="{{ section.extra.banner }}" width="900" alt="logo"></div>
+    <div id="banner"><img class="logo" src="https://assets.kottapalli.in{{ section.extra.banner }}" width="900" alt="logo"></div>
 {% elif section.ancestors | length >= 2 %}
     {# Year section — try to get banner from latest month #}
     {% if section.subsections | length > 0 %}
         {% set latest = get_section(path=section.subsections | last) %}
         {% if latest.extra.banner %}
-        <div id="banner"><img class="logo" src="{{ latest.extra.banner }}" width="900" alt="logo"></div>
+        <div id="banner"><img class="logo" src="https://assets.kottapalli.in{{ latest.extra.banner }}" width="900" alt="logo"></div>
         {% endif %}
     {% endif %}
 {% endif %}
@@ -21,7 +21,7 @@
 {% if section.extra.cover %}
     <div id="cover-thumb">
         <a href="{{ section.path }}" title="{{ section.title }} సంచిక">
-            <img src="{{ section.extra.cover }}" alt="{{ section.title }} సంచిక" width="140">
+            <img src="https://assets.kottapalli.in{{ section.extra.cover }}" alt="{{ section.title }} సంచిక" width="140">
         </a>
     </div>
 {% endif %}
@@ -52,7 +52,7 @@
 {# Issue section: list articles with intros, grouped by category #}
 {% if section.pages | length > 0 %}
     {% if section.extra.cover %}
-        <img src="{{ section.extra.cover }}" alt="{{ section.title }} అట్ట" style="max-width: 100%;">
+        <img src="https://assets.kottapalli.in{{ section.extra.cover }}" alt="{{ section.title }} అట్ట" style="max-width: 100%;">
     {% else %}
         {% set pages_by_cat = section.pages | group_by(attribute="taxonomies.category.0") %}
         {% for cat, articles in pages_by_cat %}
