@@ -18,7 +18,7 @@ extra:
     గానం: రోజా బృందం, ఎనిమిదవ తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2008/08/pillalake.gif", float="right") }}
+{{ Image(issue="2008/08", filename="pillalake.gif", float="right") }}
 
 పిల్లలకే స్వాతంత్ర్యం వస్తే  
 పిల్లలకే స్వరాజ్యం ఇస్తే  

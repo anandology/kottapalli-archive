@@ -14,9 +14,9 @@ extra:
   redirect: /dashboard/2017/11
 ---
 
-{{ Image(name="/images/2017/11/kaki1.jpg", float="center") }}
+{{ Image(issue="2017/11", filename="kaki1.jpg", float="center") }}
 
-{{ Image(name="/images/2017/11/kaki2.jpg", float="left") }}
+{{ Image(issue="2017/11", filename="kaki2.jpg", float="left") }}
 
 అనగనగా ఒక అడవిలో ఒక కాకి, పిచ్చుక, చిలుక ఉండేవి. కాకి, పిచ్చుక చాలా మంచి స్నేహితులు- కానీ చిలుక మాత్రం కాకిని చూసి ఊరికే అసహ్యించుకుంటూ ఉండేది. 
 
@@ -28,7 +28,7 @@ extra:
 
 
 
-{{ Image(name="/images/2017/11/kaki3.jpg", float="right") }}
+{{ Image(issue="2017/11", filename="kaki3.jpg", float="right") }}
 
 <br>
 
@@ -36,7 +36,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2017/11/kaki4.jpg", float="left") }}
+{{ Image(issue="2017/11", filename="kaki4.jpg", float="left") }}
 
 
 

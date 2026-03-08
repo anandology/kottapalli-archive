@@ -17,7 +17,7 @@ extra:
 
 **అనగనగా రాజు! **  
 
-{{ Image(name="/images/2014/11/kavita1.jpg", float="right") }}
+{{ Image(issue="2014/11", filename="kavita1.jpg", float="right") }}
 
 <br><br>
 అనగగా రాజు           
@@ -33,7 +33,7 @@ extra:
 <br><br>
 **జున్ను వెన్న! **   
 
-{{ Image(name="/images/2014/11/dunna.jpg", float="left") }}
+{{ Image(issue="2014/11", filename="dunna.jpg", float="left") }}
 
 <br><br>
 
@@ -49,7 +49,7 @@ extra:
 
 ** లేలేత మొగ్గ **    
 
-{{ Image(name="/images/2014/11/kavita3.jpg", float="right") }}
+{{ Image(issue="2014/11", filename="kavita3.jpg", float="right") }}
 
 <br><br>
 లేలేత మొగ్గ     

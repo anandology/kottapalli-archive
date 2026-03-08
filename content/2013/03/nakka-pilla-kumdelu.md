@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/03
 ---
 
-{{ Image(name="/images/2013/03/nakka,kundelu.jpg", float="center") }}
+{{ Image(issue="2013/03", filename="nakka,kundelu.jpg", float="center") }}
 
 ఒక అడవిలో ఒక నక్క ఉండేది.  దానికి మూడు పిల్లలున్నాయి.      
 తల్లి నక్క రోజూ తన పిల్లలకి కాసేపు  వేట నేర్పించేది.   తమకంటే చిన్న జంతువులను ఎలా వేటాడాలో తర్ఫీదు ఇచ్చేది.     

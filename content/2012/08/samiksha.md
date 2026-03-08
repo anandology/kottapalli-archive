@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/08
 ---
 
-{{ Image(name="/images/2012/08/july2012coverweb.jpg", float="left") }}
+{{ Image(issue="2012/08", filename="july2012coverweb.jpg", float="left") }}
 
 సొంత లాభం  కొంత మానుకుని  పొరుగు వాడికి  తోడుపడితే  ఓటమిలో  కూడా గెలుపు వుంటుంది. ఆ గెలుపిచ్చే సంతోషం ఎంతో  గొప్పది. ఈ విషయాన్ని  సాధారణమైన  అంశంతో  చెప్పింది కొత్తపల్లి బృందం.
 

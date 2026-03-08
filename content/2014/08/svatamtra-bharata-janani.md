@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2014/08
 ---
 
-{{ Image(name="/images/2014/08/augu1.jpg", float="right") }}
+{{ Image(issue="2014/08", filename="augu1.jpg", float="right") }}
 
 స్వతంత్ర భారత జననీ- నీకిదె   
 నితాంత నవ నీరాజనము    

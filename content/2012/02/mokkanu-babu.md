@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/02
 ---
 
-{{ Image(name="/images/2012/02/mokkanu.jpg", float="right") }}
+{{ Image(issue="2012/02", filename="mokkanu.jpg", float="right") }}
 
 మొక్కను బాబూ నన్ను తొక్కకు బాబూ    
 పిడికెడు నీళ్ళు విసిరితె చాలు మ్రానౌతాను- నీకు మేలౌతాను! 

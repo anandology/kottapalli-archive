@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2017/12
 ---
 
-{{ Image(name="/images/2017/12/kavita1.jpg", float="left") }}
+{{ Image(issue="2017/12", filename="kavita1.jpg", float="left") }}
 
 <br><br>
 
@@ -27,7 +27,7 @@ extra:
 
 <br><br><br><br><br><br>
 
-{{ Image(name="/images/2017/12/kavita2.jpg", float="right") }}
+{{ Image(issue="2017/12", filename="kavita2.jpg", float="right") }}
 
 <br><br>
 
@@ -36,7 +36,7 @@ extra:
 
 <br><br><br><br><br><br>
 
-{{ Image(name="/images/2017/12/kavita3.jpg", float="left") }}
+{{ Image(issue="2017/12", filename="kavita3.jpg", float="left") }}
 
 <br><br>
 
@@ -45,7 +45,7 @@ extra:
 
 <br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2017/12/kavita4.jpg", float="right") }}
+{{ Image(issue="2017/12", filename="kavita4.jpg", float="right") }}
 
 <br><br><br><br>
 
@@ -54,7 +54,7 @@ extra:
 
 <br><br><br><br><br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2017/12/kavita5.jpg", float="left") }}
+{{ Image(issue="2017/12", filename="kavita5.jpg", float="left") }}
 
 <br><br>
 
@@ -63,7 +63,7 @@ extra:
 
 <br><br><br><br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2017/12/kavita6.jpg", float="right") }}
+{{ Image(issue="2017/12", filename="kavita6.jpg", float="right") }}
 
 <br><br>
 
@@ -72,7 +72,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2017/12/kavita7.jpg", float="left") }}
+{{ Image(issue="2017/12", filename="kavita7.jpg", float="left") }}
 
 <br><br>
 

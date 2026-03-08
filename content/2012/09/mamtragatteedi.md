@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/09
 ---
 
-{{ Image(name="/images/2012/09/mantra.jpg", float="center") }}
+{{ Image(issue="2012/09", filename="mantra.jpg", float="center") }}
 
 ఆ రోజు  సోమవారం. ఉదయం  ఎనిమిదిగంటలకు  సౌమ్య  పుస్తకాల  సంచి తీసుకొని  బడికి  బయలుదేరింది. 
 

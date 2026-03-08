@@ -17,9 +17,9 @@ extra:
   redirect: /dashboard/2016/09
 ---
 
-{{ Image(name="/images/2016/09/pamu1.jpg", float="center") }}
+{{ Image(issue="2016/09", filename="pamu1.jpg", float="center") }}
 
-{{ Image(name="/images/2016/09/pamu2.jpg", float="left") }}
+{{ Image(issue="2016/09", filename="pamu2.jpg", float="left") }}
 
 <br>
 
@@ -29,7 +29,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2016/09/pamu3.jpg", float="right") }}
+{{ Image(issue="2016/09", filename="pamu3.jpg", float="right") }}
 
 “సింహం నన్ను బెదిరిస్తోంది. 'చెప్పినమాట వినకపోతే అంతే' అంటోంది!” ఫిర్యాదు చేసింది పాము.
 కోతికి కోపం వచ్చింది. "అట్లా ఎట్లా అంటుంది? వీల్లేదు. నువ్వు నా చెట్టు క్రింద ఉండు. నీకేమీ కాకుండా నేను చూస్తాను" అన్నది.  

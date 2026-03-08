@@ -17,7 +17,7 @@ extra:
     \ మండలం, అనంతపురం జిల్లా."
 ---
 
-{{ Image(name="/images/2011/06/potti.jpg", float="center") }}
+{{ Image(issue="2011/06", filename="potti.jpg", float="center") }}
 
 
 అనగా అనగా ఒక ఊళ్లో ఒక అవ్వ, తాత ఉండేవాళ్ళు. వాళ్ళకి పిల్లలు లేరు. ఒక మునక్కాయ తోట మాత్రం ఉండేది.     

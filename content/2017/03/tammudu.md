@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2017/03
 ---
 
-{{ Image(name="/images/2017/03/thammu1.jpg", float="center") }}
+{{ Image(issue="2017/03", filename="thammu1.jpg", float="center") }}
 
 ఆ రోజు రాజు పుట్టిన రోజు- బడిలో అందరికీ చాక్లెట్లు పంచాడు రాజు. 
 
@@ -27,7 +27,7 @@ extra:
 
 రాజు వాళ్ల అమ్మ-నాన్న ఇద్దరూ మురిసిపోయారు. "వీడు పెద్దవాడ-య్యాడు!" అన్నది అమ్మ.  "చక్కగా ఆలోచిస్తున్నాడు. ఎంత ముందుచూపో చూడు!" అన్నాడు నాన్న. 
 
-{{ Image(name="/images/2017/03/thammu3.jpg", float="right") }}
+{{ Image(issue="2017/03", filename="thammu3.jpg", float="right") }}
 
 రాజు ఆ విత్తనాలు విత్తుతుంటే వాళ్ళ నాన్న వచ్చి, దగ్గర నిలబడి చూసి, ఫోటో తీశాడు. 
 

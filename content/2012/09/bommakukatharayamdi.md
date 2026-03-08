@@ -16,7 +16,7 @@ extra:
 
 ఈ బొమ్మను చూశారా, ఏం జంతువు, ఇది?
 
-{{ Image(name="/images/2012/09/bommakukatharayandiSept.jpg", float="center") }}
+{{ Image(issue="2012/09", filename="bommakukatharayandiSept.jpg", float="center") }}
 
 మేమే చెప్పేస్తాం..ఇదొక నక్క! కొంచెం జాగ్రత్తగా చూస్తే, ఇది అంత కులాసాగా దేన్ని చూస్తోందో తెలుస్తుంది మీకున్నూ.. దుబ్బల రంగులో కలిసిపోయి ఒక  పక్షి  ఉంది.. కనబడిందా?
 

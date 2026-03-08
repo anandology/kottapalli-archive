@@ -16,7 +16,7 @@ extra:
     డప్పు: పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{ Image(name="/images/2009/01/hello_hello.gif", float="right") }}
+{{ Image(issue="2009/01", filename="hello_hello.gif", float="right") }}
 
 <pre class="song">
 హెల్లో హెల్లో  ఎవరండీ?

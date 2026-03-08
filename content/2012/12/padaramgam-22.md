@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/12
 ---
 
-{{ Image(name="/images/2012/12/pada22des.jpg", float="left") }}
+{{ Image(issue="2012/12", filename="pada22des.jpg", float="left") }}
 
 
 **ఆధారాలు **    
@@ -45,7 +45,7 @@ extra:
 <br><br><br>
 
 
-{{ Image(name="/images/2012/12/pada21nov.jpg", float="right") }}
+{{ Image(issue="2012/12", filename="pada21nov.jpg", float="right") }}
 
 **పదరంగం 21కు సరైన జవాబు**
 

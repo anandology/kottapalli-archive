@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: టి. ఆమని, 4వ తరగతి, టింబక్టు బడి.'
 ---
 
-{{ Image(name="/images/2010/01/poddunne_lechadu.gif", float="right") }}
+{{ Image(issue="2010/01", filename="poddunne_lechadu.gif", float="right") }}
 
 పొద్దున్నె లేచాడు మామామ     
 జామచెట్టు చూశాడు మామామ        

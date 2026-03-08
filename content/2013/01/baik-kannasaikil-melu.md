@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/01
 ---
 
-{{ Image(name="/images/2013/01/bommakukathadec.jpg", float="left") }}
+{{ Image(issue="2013/01", filename="bommakukathadec.jpg", float="left") }}
 
 
 రమేష్‌కి వేగంగా పోతుండటం అంటే చాలా ఇష్టం.  మోటార్ బైకులు చాలా వేగంగా పోతాయి కదా, అందుకని  అతనికి   బైక్  రేస్  అంటే  చాలా   ఇష్టం . కానీ ఎంత ఇష్టం ఉన్నా, మరి   అతనికి  బండి  లేదు. దాంతో  చాలా బాధగా ఉండేది అతనికి. 

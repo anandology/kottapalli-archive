@@ -14,7 +14,7 @@ extra:
     \ 9వ తరగతి, విద్యార్థి సృజన కుటీర్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2010/10/koila2.jpg", float="right") }}
+{{ Image(issue="2010/10", filename="koila2.jpg", float="right") }}
 
 కుహూ కుహూమని  పాడే  కోయిలమ్మా    
 అహా  అహా ఎంత  హాయి నీ  పాటమ్మా !    

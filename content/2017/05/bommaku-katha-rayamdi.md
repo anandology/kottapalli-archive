@@ -17,6 +17,6 @@ extra:
   redirect: /dashboard/2017/05
 ---
 
-{{ Image(name="/images/2017/05/bk.jpg", float="center") }}
+{{ Image(issue="2017/05", filename="bk.jpg", float="center") }}
 
 <br><br><br><br><br><br><br><br>

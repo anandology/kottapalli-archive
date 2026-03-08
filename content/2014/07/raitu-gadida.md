@@ -17,7 +17,7 @@ extra:
   redirect: /dashboard/2014/07
 ---
 
-{{ Image(name="/images/2014/07/raithu1.jpg", float="left") }}
+{{ Image(issue="2014/07", filename="raithu1.jpg", float="left") }}
 
 <br><br><br><br>
 
@@ -27,7 +27,7 @@ extra:
 <br><br><br><br><br>
 
 
-{{ Image(name="/images/2014/07/raithu2.jpg", float="right") }}
+{{ Image(issue="2014/07", filename="raithu2.jpg", float="right") }}
 
 
 <br><br><br><br><br>
@@ -37,7 +37,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2014/07/raithu3.jpg", float="left") }}
+{{ Image(issue="2014/07", filename="raithu3.jpg", float="left") }}
 
 <br><br><br><br><br><br>
 
@@ -47,7 +47,7 @@ extra:
 
 
 
-{{ Image(name="/images/2014/07/raithu4.jpg", float="right") }}
+{{ Image(issue="2014/07", filename="raithu4.jpg", float="right") }}
 
 <br><br><br><br><br>
 
@@ -58,7 +58,7 @@ extra:
 <br><br><br>
 
 
-{{ Image(name="/images/2014/07/raithu5.jpg", float="left") }}
+{{ Image(issue="2014/07", filename="raithu5.jpg", float="left") }}
 
 <br><br><br><br>
 
@@ -71,7 +71,7 @@ extra:
 
 <br><br><br><br><br>
 
-{{ Image(name="/images/2014/07/raithu6.jpg", float="right") }}
+{{ Image(issue="2014/07", filename="raithu6.jpg", float="right") }}
 
 <br><br><br>
 
@@ -79,7 +79,7 @@ extra:
 
 <br><br><br><br><br>
 
-{{ Image(name="/images/2014/07/raithu7.jpg", float="left") }}
+{{ Image(issue="2014/07", filename="raithu7.jpg", float="left") }}
 
 వాడు గబుక్కున పోయి, తను దాచిపెట్టిన గాడిదను తెచ్చి భద్రంగా   రైతుకు అప్పగించాడు. "ఇది నీదేనా, ఎవరిదో‌తెలీక మా దొట్లో కట్టేశాను" అని బొంకాడు. 
 
@@ -92,7 +92,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2014/07/raithu8.jpg", float="right") }}
+{{ Image(issue="2014/07", filename="raithu8.jpg", float="right") }}
 
 <br>
 

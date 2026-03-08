@@ -14,7 +14,7 @@ extra:
     \   \nసేకరణ: K. గంగమ్మ, ఉపాధ్యాయురాలు, టింబక్టు బడి"
 ---
 
-{{ Image(name="/images/2010/12/vandanamo.jpg", float="right") }}
+{{ Image(issue="2010/12", filename="vandanamo.jpg", float="right") }}
 
 వందనమో - భారతమా   
 అందరము నీ వారమమ్మా    

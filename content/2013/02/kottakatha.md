@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/02
 ---
 
-{{ Image(name="/images/2013/02/1.jpg", float="left") }}
+{{ Image(issue="2013/02", filename="1.jpg", float="left") }}
 
 <br><br>
 
@@ -22,7 +22,7 @@ extra:
 
 <br><br><br><br><br>
 
-{{ Image(name="/images/2013/02/2.jpg", float="right") }}
+{{ Image(issue="2013/02", filename="2.jpg", float="right") }}
 
 <br><br><br>
 
@@ -34,7 +34,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2013/02/3.jpg", float="left") }}
+{{ Image(issue="2013/02", filename="3.jpg", float="left") }}
 
 <br><br>
 
@@ -44,7 +44,7 @@ extra:
 
 <br><br><br><br><br>
 
-{{ Image(name="/images/2013/02/5.jpg", float="right") }}
+{{ Image(issue="2013/02", filename="5.jpg", float="right") }}
 
 “నువ్వెప్పుడైనా సారాయి దుకాణానికి వెళ్ళావా? నరకం ఖచ్చితంగా ఆ దుకాణం లాగే ఉంటుంది" అన్నారు యమ భటులు.
 
@@ -57,7 +57,7 @@ extra:
 
 తీరా చూస్తే అక్కడ పరిస్థితి వేరుగా ఉంది! యువకుడు నిర్ఘాంత-పోయాడు. "ఇదేంటి, ఇది వేరేలాగా ఉంటుందన్నారుగా?”  అన్నాడు.
 
-{{ Image(name="/images/2013/02/6.jpg", float="left") }}
+{{ Image(issue="2013/02", filename="6.jpg", float="left") }}
 
 
 <br><br>

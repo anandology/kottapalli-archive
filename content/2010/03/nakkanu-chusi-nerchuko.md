@@ -17,7 +17,7 @@ extra:
     రచన:  A.S.నందన, 3వ తరగతి, టింబక్టు బడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2010/03/nakkanu_cusi_nercuko.JPG", float="center") }}
+{{ Image(issue="2010/03", filename="nakkanu_cusi_nercuko.JPG", float="center") }}
 
 ఒక ఊళ్లో ఒక గడ్డివాము ఉండేది.  దానికి దగ్గర్లోనే ఒక చెట్టు ఉండేది.  ఆ చెట్టుకు ఒక పెద్ద తొర్ర ఉండేది.  
 

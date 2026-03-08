@@ -13,7 +13,7 @@ extra:
   intro: రచన:కె.ఎస్.వి.అనన్య,6వతరగతి,రాధాస్కూల్ ఆఫ్‌ లర్నింగ్,అనంతపురం.
 ---
 
-{{ Image(name="/images/2011/11/kundelu1.jpg", float="center") }}
+{{ Image(issue="2011/11", filename="kundelu1.jpg", float="center") }}
 
 నక్క: నమస్కారం , కుందేలు  బావా.
 
@@ -55,7 +55,7 @@ extra:
 
 నక్క: సరే.
 
-{{ Image(name="/images/2011/11/kundelu2.jpg", float="left") }}
+{{ Image(issue="2011/11", filename="kundelu2.jpg", float="left") }}
 
 (కుందేలు దగ్గరకు వెళ్ళి..)
 

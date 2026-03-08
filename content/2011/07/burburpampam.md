@@ -14,7 +14,7 @@ extra:
     \ ఫర్ ఛైల్డ్ సెంటర్డ్ ఎజుకేషన్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2011/07/pata4.JPG", float="right") }}
+{{ Image(issue="2011/07", filename="pata4.JPG", float="right") }}
 
 బుర్ బుర్ పాం పాం   
 బుర్ బుర్ పాం పాం    

@@ -18,7 +18,7 @@ extra:
     \ జిల్లా."
 ---
 
-{{ Image(name="/images/2009/10/cukkala_ranulu.gif", float="right") }}
+{{ Image(issue="2009/10", filename="cukkala_ranulu.gif", float="right") }}
 
 <pre>
 

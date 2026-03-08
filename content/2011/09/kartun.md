@@ -12,19 +12,19 @@ extra:
   issue_name: సెప్టెంబర్ 2011
 ---
 
-{{ Image(name="/images/2011/09/pionojoke.jpg", float="center") }}
+{{ Image(issue="2011/09", filename="pionojoke.jpg", float="center") }}
 
 
-{{ Image(name="/images/2011/09/sun.jpg", float="center") }}
+{{ Image(issue="2011/09", filename="sun.jpg", float="center") }}
 
 
-{{ Image(name="/images/2011/09/seven.jpg", float="center") }}
+{{ Image(issue="2011/09", filename="seven.jpg", float="center") }}
 
 
-{{ Image(name="/images/2011/09/Oxygen.jpg", float="center") }}
+{{ Image(issue="2011/09", filename="Oxygen.jpg", float="center") }}
 
 
-{{ Image(name="/images/2011/09/liquor.jpg", float="center") }}
+{{ Image(issue="2011/09", filename="liquor.jpg", float="center") }}
 
 
-{{ Image(name="/images/2011/09/cenema.jpg", float="center") }}
+{{ Image(issue="2011/09", filename="cenema.jpg", float="center") }}

@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2013/05
 ---
 
-{{ Image(name="/images/2013/05/ugadipacchadi.jpg", float="left") }}
+{{ Image(issue="2013/05", filename="ugadipacchadi.jpg", float="left") }}
 
 ఉగాది అంటే నాకు గుర్తొస్తాయి      
  అమ్మ చేసిన ఉగాది పచ్చడి       
@@ -27,7 +27,7 @@ extra:
  మనసుకి అహ్లాదాన్ని కలిగిస్తాయి          
 <br><br><br>
 
-{{ Image(name="/images/2013/05/ugadisambaram.jpg", float="right") }}
+{{ Image(issue="2013/05", filename="ugadisambaram.jpg", float="right") }}
 
   పెద్దలు చేసే పూజలు       
  పిల్లలు ఆడే ఆటలు, పాడే పాటలు       

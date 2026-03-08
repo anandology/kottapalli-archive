@@ -18,7 +18,7 @@ extra:
     గానం:  అనిత, తొమ్మిదో తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2008/08/padara.gif", float="right") }}
+{{ Image(issue="2008/08", filename="padara.gif", float="right") }}
 
 పాడరా ఓ తెలుగువాడా!  
 పాడరా ఓ కలిమిరేడా!  

@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/12
 ---
 
-{{ Image(name="/images/2012/12/Malala.jpg", float="right") }}
+{{ Image(issue="2012/12", filename="Malala.jpg", float="right") }}
 
 
 ప్రపంచంలో అన్ని చోట్లా మనుషులూ, ప్రభుత్వాలూ ఒకలా ఉండరు. ఒక్కొక్క చోట కొన్ని కొన్ని ప్రవర్తనా నియమావళులు ఉంటాయి. 

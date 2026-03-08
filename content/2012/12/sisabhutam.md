@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/12
 ---
 
-{{ Image(name="/images/2012/12/sisadayyam1.jpg", float="centert") }}
+{{ Image(issue="2012/12", filename="sisadayyam1.jpg", float="centert") }}
 
 రజని, గోపి  తోటలో  బంతాట  ఆడుతున్నారు. 
 
@@ -48,7 +48,7 @@ extra:
 
 "మరి నేను అడిగిన దానికి చెప్పు" అంటూ రజని ఇంకో పొడుపు కథని విడిచింది: 'పచ్చటి పొలంలో ఒంటికాలి రైతు- ఉలకడు-పలకడు' అని.
 
-{{ Image(name="/images/2012/12/sisadayyam2.jpg", float="right") }}
+{{ Image(issue="2012/12", filename="sisadayyam2.jpg", float="right") }}
 
 భూతం బిక్క మొహం వేసింది. "అయ్యో, దిష్టిబొమ్మ , తల్లీ!" అంది రజని చేత్తో నుదుటిని కొట్టుకుంటూ.  
 

@@ -13,7 +13,7 @@ extra:
   redirect: /dashboard/2012/10
 ---
 
-{{ Image(name="/images/2012/10/pencil_kata.jpg", float="right") }}
+{{ Image(issue="2012/10", filename="pencil_kata.jpg", float="right") }}
 
 గాంధీజీ  ఓసారి  బొంబాయిలో ఒక  సమావేశానికి  వెళ్ళారు.
 

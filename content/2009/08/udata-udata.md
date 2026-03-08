@@ -11,12 +11,12 @@ taxonomies:
 extra:
   issue_name: ఆగష్ట్ 2009
   intro: "కొండకు, ఉడతకు మధ్య జరిగే ఈ సంవాదం ఆంధ్రప్రదేశ్ ప్రభుత్వం ప్రచురించిన ఐదవతరగతి\
-    \ తెలుగు వాచకంలోనిది. \n\n{{ Image(name=\"/images/2009/08/riyaz_cropped.gif\"\
+    \ తెలుగు వాచకంలోనిది. \n\n{{ Image(issue=\"2009/08\", filename=\"riyaz_cropped.gif\"\
     , float=\"thumb\") }}\n\n\nగానం: యస్. రియాజ్, ఐదవ తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి,అనంతపురం\
     \ జిల్లా."
 ---
 
-{{ Image(name="/images/2009/08/udata.gif", float="center") }}
+{{ Image(issue="2009/08", filename="udata.gif", float="center") }}
 
 కొండ బడాయి: 
 

@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/10
 ---
 
-{{ Image(name="/images/2012/10/danimma.jpg", float="right") }}
+{{ Image(issue="2012/10", filename="danimma.jpg", float="right") }}
 
 దానిమ్మ పండు       
 నిన్ను  చూడగానే    

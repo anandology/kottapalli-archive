@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: ఎ.ఎస్.నందన(3వ త), టింబక్టు బడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2010/01/palletalliki_vanadanam.gif", float="right") }}
+{{ Image(issue="2010/01", filename="palletalliki_vanadanam.gif", float="right") }}
 
 పల్లె తల్లికి వందనం- పసిడి తల్లికి వందనం          
 భాగ్య రాసులు పంచిపెట్టే పల్లె తల్లికి వందనం       

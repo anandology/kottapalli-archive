@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/01
 ---
 
-{{ Image(name="/images/2012/01/sankranthi.jpg", float="right") }}
+{{ Image(issue="2012/01", filename="sankranthi.jpg", float="right") }}
 
 
 ఎన్నెన్నో పండగలొస్తై    

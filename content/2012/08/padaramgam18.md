@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/08
 ---
 
-{{ Image(name="/images/2012/08/pada18august.jpg", float="left") }}
+{{ Image(issue="2012/08", filename="pada18august.jpg", float="left") }}
 
 
 **ఆధారాలు**    
@@ -48,7 +48,7 @@ extra:
 **పదరంగం 17 కు సరైన జవాబు*   *
 
 
-{{ Image(name="/images/2012/08/pada_17solution.jpg", float="right") }}
+{{ Image(issue="2012/08", filename="pada_17solution.jpg", float="right") }}
 
 
 ఈసారి సరైన సమాధానం రాసిన వాళ్ళు:       

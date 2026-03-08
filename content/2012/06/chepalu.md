@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/06
 ---
 
-{{ Image(name="/images/2012/06/chepalu.jpg", float="center") }}
+{{ Image(issue="2012/06", filename="chepalu.jpg", float="center") }}
 
 అనగనగా ఒక  మడుగులో చాలా  కప్పలు, చేపలు ఉండేవి. అవి ఒకదానినొకటి గౌరవించుకుంటూ సంతోషంగా బ్రతికేవి.
 

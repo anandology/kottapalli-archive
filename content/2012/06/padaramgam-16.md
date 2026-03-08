@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/06
 ---
 
-{{ Image(name="/images/2012/06/pada16.jpg", float="left") }}
+{{ Image(issue="2012/06", filename="pada16.jpg", float="left") }}
 
 **ఆధారాలు    **
 
@@ -47,7 +47,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2012/06/padarangam15solution.jpg", float="right") }}
+{{ Image(issue="2012/06", filename="padarangam15solution.jpg", float="right") }}
 
 
 <br><br>

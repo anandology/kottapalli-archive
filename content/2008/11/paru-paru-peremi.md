@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: సమర, అశ్విని-  రెండవ తరగతి, ప్రకృతి బడి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2008/11/ru_ru.gif", float="right") }}
+{{ Image(issue="2008/11", filename="ru_ru.gif", float="right") }}
 
 <pre class='song'>
 పారూ పారూ పేరేమి?

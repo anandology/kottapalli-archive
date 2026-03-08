@@ -17,7 +17,7 @@ extra:
     గానం:  జ్యోతి, శిరీష, నాలుగో తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2008/09/emantave.gif", float="right") }}
+{{ Image(issue="2008/09", filename="emantave.gif", float="right") }}
 
 <pre class="song">
 పిల్లీపిల్లీ ఏమంటావ్ - మ్యావ్ మ్యావ్ మ్యావ్

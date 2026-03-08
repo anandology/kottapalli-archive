@@ -10,13 +10,13 @@ taxonomies:
   - 2008-04
 extra:
   issue_name: ఏప్రిల్ 2008
-  intro: '{{ Image(name="/images/2008/04/rijwana.gif", float="thumb") }}
+  intro: '{{ Image(issue="2008/04", filename="rijwana.gif", float="thumb") }}
 
 
     పాడినది: రిజ్వానా,  1వ తరగతి'
 ---
 
-{{ Image(name="/images/2008/04/chitti.jpg", float="left") }}
+{{ Image(issue="2008/04", filename="chitti.jpg", float="left") }}
 
 చిట్టి చిలకమ్మా  
 అమ్మ కొట్టిందా?  

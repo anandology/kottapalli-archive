@@ -34,7 +34,7 @@ extra:
 
 ఇంకా అక్కడే ఉన్నాం అందరం.
 
-{{ Image(name="/images/2009/09/GIJUBAI_copy.jpg", float="right") }}
+{{ Image(issue="2009/09", filename="GIJUBAI_copy.jpg", float="right") }}
 
 **వీటన్నిటికీ చాలా‌భిన్నంగా చెప్పాడు గిజుభాయి బడేకా, 1920 లో:**
 

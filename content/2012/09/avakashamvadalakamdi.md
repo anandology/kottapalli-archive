@@ -17,7 +17,7 @@ extra:
   redirect: /dashboard/2012/09
 ---
 
-{{ Image(name="/images/2012/09/avakasham1.jpg", float="center") }}
+{{ Image(issue="2012/09", filename="avakasham1.jpg", float="center") }}
 
 
 ఒక ఊరికి వరదలు వచ్చాయి.  అందరూ  హడావిడిగా  ఇళ్ళు వదిలేసి వెళ్ళాల్సిన  పరిస్థితి  ఏర్పడింది. 
@@ -28,7 +28,7 @@ extra:
 
 రాజుగారు ఒక్కరే   పై అంతస్తుకి ఎక్కారు. ఊరంతా అల్లకల్లోలంగా ఉంది. కొంతమంది పడవల్లో  తిరుగుతూ  ఇళ్ళల్లో చిక్కుకు-పోయిన వారిని  రక్షిస్తున్నారు. 
 
-{{ Image(name="/images/2012/09/avakasham2.jpg", float="left") }}
+{{ Image(issue="2012/09", filename="avakasham2.jpg", float="left") }}
 
 
 

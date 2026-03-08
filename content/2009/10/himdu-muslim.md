@@ -15,7 +15,7 @@ extra:
     \ త.), ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా."
 ---
 
-{{ Image(name="/images/2009/10/Hindu_Muslim.gif", float="right") }}
+{{ Image(issue="2009/10", filename="Hindu_Muslim.gif", float="right") }}
 
 <pre>
 

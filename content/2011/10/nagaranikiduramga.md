@@ -14,7 +14,7 @@ extra:
     \ విద్యార్థి సృజన కుటీర్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2011/10/pata2.jpg", float="right") }}
+{{ Image(issue="2011/10", filename="pata2.jpg", float="right") }}
 
 నగరానికి  దూరంగా.. పల్లె  వున్నది! 
 

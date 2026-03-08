@@ -16,7 +16,7 @@ extra:
     \ అనంతపురం జిల్లా."
 ---
 
-{{ Image(name="/images/2011/07/evvaruraju.JPG", float="center") }}
+{{ Image(issue="2011/07", filename="evvaruraju.JPG", float="center") }}
 
 ఒక ఊరి గుమ్మడికాయ,టమోట,సొరకాయ, క్యారెట్, వాళ్ళలో  ఒకరిని  రాజుగా  ఎన్నుకోవాలనుకున్నాయి.     
 ఒకరోజు  బాగా గొడవపడ్డాయి.    

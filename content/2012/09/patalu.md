@@ -13,7 +13,7 @@ extra:
   redirect: /dashboard/2012/09
 ---
 
-{{ Image(name="/images/2012/09/pata2.jpg", float="right") }}
+{{ Image(issue="2012/09", filename="pata2.jpg", float="right") }}
 
 **గురువులు మీరే**
 
@@ -40,7 +40,7 @@ extra:
 గానం: మంజునాథ్, నారయణమ్మ, 6వతరగతి, mpups-బద్దలాపురం.
 
 
-{{ Image(name="/images/2012/09/pata4.jpg", float="left") }}
+{{ Image(issue="2012/09", filename="pata4.jpg", float="left") }}
 
 **జామతోట**
 
@@ -55,7 +55,7 @@ extra:
  
 {{Audio("jamathota.mp3")}}
 
-{{ Image(name="/images/2012/09/pata3.jpg", float="left") }}
+{{ Image(issue="2012/09", filename="pata3.jpg", float="left") }}
 
 **అమ్మ నాకు తెచ్చింది బొమ్మ** 
 
@@ -73,7 +73,7 @@ extra:
 
 {{Audio("ammanaku.mp3", count=1)}}
 
-{{ Image(name="/images/2012/09/pata1.jpg", float="right") }}
+{{ Image(issue="2012/09", filename="pata1.jpg", float="right") }}
 
 **చిన్ని చేప**
 

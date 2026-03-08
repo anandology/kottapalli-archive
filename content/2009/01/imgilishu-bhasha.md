@@ -16,7 +16,7 @@ extra:
     డప్పు:  పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{ Image(name="/images/2009/01/english_basha.gif", float="right") }}
+{{ Image(issue="2009/01", filename="english_basha.gif", float="right") }}
 
 <pre class="song">
 ఇంగిలీషు భాష

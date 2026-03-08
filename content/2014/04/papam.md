@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2014/04
 ---
 
-{{ Image(name="/images/2014/04/papam.jpg", float="center") }}
+{{ Image(issue="2014/04", filename="papam.jpg", float="center") }}
 
 "పిల్లలు లేని ఇల్లు పిశాచాల ఇంటితో సమానం. ఆ యింట్లోవి ఏవీ  తినకూడదు, తాగకూడదు. అసలు వాళ్ళ ఇంటికే వెళ్లకూడదు" ముఖం చిట్లిస్తూ చెప్పారు గురువుగారు, గురునాధం. 
 

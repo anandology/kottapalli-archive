@@ -85,12 +85,12 @@ extra:
 
 పెట్టెలోకి చేరి, కొరికి చిల్లులు పెట్టేసే చిమ్మట, 'ఆ చీర ఖరీదెంత' అని చూడదు. అట్లాగే, ఓర్వలేక అపకారం చేసే దుర్మార్గుడు 'మనం మంచివాళ్లమా, ఊరికే అణకువతో ఉన్నామా' అని చూడడు. మన జాగ్రత్తలో మనం ఉండాల్సిందే!
 
-{{ Image(name="/images/2013/01/writingjoke.jpg", float="center") }}
+{{ Image(issue="2013/01", filename="writingjoke.jpg", float="center") }}
 
-{{ Image(name="/images/2013/01/roundjoke.jpg", float="center") }}
+{{ Image(issue="2013/01", filename="roundjoke.jpg", float="center") }}
 
-{{ Image(name="/images/2013/01/policejoke.jpg", float="center") }}
+{{ Image(issue="2013/01", filename="policejoke.jpg", float="center") }}
 
-{{ Image(name="/images/2013/01/2copy.jpg", float="center") }}
+{{ Image(issue="2013/01", filename="2copy.jpg", float="center") }}
 
-{{ Image(name="/images/2013/01/3copy.jpg", float="center") }}
+{{ Image(issue="2013/01", filename="3copy.jpg", float="center") }}

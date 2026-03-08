@@ -33,6 +33,6 @@ extra:
 
 "నా కంచంలో కూరే లేదు" అన్నాడు ముల్లాగారు. 
 
-{{ Image(name="/images/2009/05/makkavarku_cudagalanu.gif", float="center") }}
+{{ Image(issue="2009/05", filename="makkavarku_cudagalanu.gif", float="center") }}
 
 "మీరు మక్కా వరకు చూడగలరటనే?! మరి మీ ముందున్న కంచంలోనే- అన్నం క్రింద ఏముందో- ఆమాత్రం కనుక్కోలేరా? అన్నది యజమానమ్మ!

@@ -16,7 +16,7 @@ extra:
     గానం:  రాశి, రియాజ్, మూడో తరగతి, ప్రకృతి బడి'
 ---
 
-{{ Image(name="/images/2008/09/kakammanalupu.gif", float="right") }}
+{{ Image(issue="2008/09", filename="kakammanalupu.gif", float="right") }}
 
 <pre class="song">
 కాకమ్మ నలుపు, కారు మబ్బు నలుపు

@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2018/10
 ---
 
-{{ Image(name="/images/2018/10/kala1.jpg", float="center") }}
+{{ Image(issue="2018/10", filename="kala1.jpg", float="center") }}
 
 కృష్ణ, రాము ఇద్దరూ స్నేహితులు. ఒక సెలవు రోజున వాళ్ళిద్దరూ అట్లా అట్లా ఆడుకుంటూ ఊరు దాటి పోయారు. బాగా అలసిపోయి, నీళ్ళకోసం, నీడకోసం వెతుక్కున్నారు. 
 
@@ -66,7 +66,7 @@ extra:
 
 "ఏం చేయమంటావు?" 
 
-{{ Image(name="/images/2018/10/kala2.jpg", float="right") }}
+{{ Image(issue="2018/10", filename="kala2.jpg", float="right") }}
 
 పాము అటు ప్రక్కగా ఉన్న ఓ బిందెకేసి చూపించింది.
 

@@ -16,11 +16,11 @@ extra:
   redirect: /dashboard/2014/12
 ---
 
-{{ Image(name="/images/2014/12/avulnitop.jpg", float="center") }}
+{{ Image(issue="2014/12", filename="avulnitop.jpg", float="center") }}
 
 <br>
 
-{{ Image(name="/images/2014/12/avulni2.jpg", float="left") }}
+{{ Image(issue="2014/12", filename="avulni2.jpg", float="left") }}
 
 
 ఒక రోజున బుద్ధుడు  ఒక అడవిలో    ఉన్నాడు.  ఆయన శిష్యులు ఒక ముప్ఫై-నలభై మంది  ఆయన చుట్టూ కూర్చొని ఉన్నారు. బుద్ధుడు వాళ్ళకు  జీవితపు  ఉద్దేశాల గురించి, జాగరూకంగా ఉండటం గురించి, మనసును పరిశుద్ధం  చేసుకోవటం గురించి  బోధిస్తున్నాడు.  శిష్యులందరూ ఆసక్తిగా వింటున్నారు. 
@@ -33,7 +33,7 @@ extra:
 
 "లేదు. మీ ఆవుల  మంద మాకెవ్వరికీ కనబడలేదు" అన్నాడు బుద్ధుడు. 
 
-{{ Image(name="/images/2014/12/avulni1.jpg", float="right") }}
+{{ Image(issue="2014/12", filename="avulni1.jpg", float="right") }}
 
 
 రైతు  అలసిపోయినట్లు  అక్కడే ఓ చెట్టుకు చేరగిలబడి "అబ్బ! చాలా కష్టంగా ఉంది స్వామీ! చాలా  బాధగా ఉంది. పన్నెండు 

@@ -20,7 +20,7 @@ extra:
     గానం: వరలక్ష్మి, మూడో తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి'
 ---
 
-{{ Image(name="/images/2008/09/entomandipanivallu.gif", float="right") }}
+{{ Image(issue="2008/09", filename="entomandipanivallu.gif", float="right") }}
 
 <pre class="song">
 ఎంతో మంది పనివాళ్ళు, అంతామంచి పనివాళ్ళు   

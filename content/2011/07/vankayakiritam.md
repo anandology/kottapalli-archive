@@ -15,7 +15,7 @@ extra:
     \ \nకథనం:  చక్రి, సమాలోచన, అనకాపల్లి, విశాఖపట్నం‌ జిల్లా."
 ---
 
-{{ Image(name="/images/2011/07/vankaya1.JPG", float="center") }}
+{{ Image(issue="2011/07", filename="vankaya1.JPG", float="center") }}
 
 పిల్లలూ! కాయగూరల్లో 'రాజు'అని దేన్ని అంటారో తెలుసా? వంకాయని! ఆ వంకాయ  ఎలా వుంటుందో మీ అందరికి తెలుసు కదా?    
 
@@ -27,7 +27,7 @@ extra:
 
 ఆ రాజుగారు అంటే రాజ్యంలో ప్రజలందరికీ చాలా ఇష్టం.    
 
-{{ Image(name="/images/2011/07/vankaya3.JPG", float="left") }}
+{{ Image(issue="2011/07", filename="vankaya3.JPG", float="left") }}
 
 ఆయన ఒక రోజు కొలువు తీరివున్నాడు.     
 
@@ -45,7 +45,7 @@ extra:
 
 అయితే మరి ఆ తొడిమకు  కాడ ఎలా వచ్చింది? ఇంకా ఉంది కథ:    
 
-{{ Image(name="/images/2011/07/vankaya2.JPG", float="right") }}
+{{ Image(issue="2011/07", filename="vankaya2.JPG", float="right") }}
 
 అట్లా చాలా రోజులు గడిచాయి గానీ రాజుగారు మాత్రం  రోజూ వంకాయ కూరను ఇష్టంగా తింటూనే పోయారు.     
 

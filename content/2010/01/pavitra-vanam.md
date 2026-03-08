@@ -13,7 +13,7 @@ extra:
   intro: "మూలం: పర్తాప్ అగర్వాల్ , స్టోరిస్ ఫర్ ఎడాటర్.    \nఅనువాదం: నారాయణ."
 ---
 
-{{ Image(name="/images/2010/01/pavitravanam.gif", float="center") }}
+{{ Image(issue="2010/01", filename="pavitravanam.gif", float="center") }}
 
 దక్షిణ దేశంలో ప్రచారంలో ఉన్న రామాయణ గాధ ఇది.   
 

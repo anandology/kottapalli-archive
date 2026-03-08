@@ -14,14 +14,14 @@ extra:
   redirect: /dashboard/2012/12
 ---
 
-{{ Image(name="/images/2012/12/1.jpg", float="right") }}
+{{ Image(issue="2012/12", filename="1.jpg", float="right") }}
 
 ఒక ఊరులో పెద్ద  రావి చెట్టు  మీద, ఒక కాకి ఉంది. ఆ కాకి దగ్గర  చాలా పాలు ఉన్నాయి.
  
 <br><br><br><br><br><br>
 
 
-{{ Image(name="/images/2012/12/2.jpg", float="left") }}
+{{ Image(issue="2012/12", filename="2.jpg", float="left") }}
 
 <br><br><br>
 
@@ -32,7 +32,7 @@ extra:
 
 <br><br><br><br><br><br>
 
-{{ Image(name="/images/2012/12/3.jpg", float="right") }}
+{{ Image(issue="2012/12", filename="3.jpg", float="right") }}
 
 <br><br><br>
 
@@ -42,7 +42,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/12/4.jpg", float="left") }}
+{{ Image(issue="2012/12", filename="4.jpg", float="left") }}
 
 <br><br><br>
 
@@ -52,7 +52,7 @@ extra:
 
 <br><br><br><br><br><br>
 
-{{ Image(name="/images/2012/12/5.jpg", float="right") }}
+{{ Image(issue="2012/12", filename="5.jpg", float="right") }}
 
 <br><br><br>
 
@@ -61,7 +61,7 @@ extra:
 
 <br><br><br><br><br><br>
 
-{{ Image(name="/images/2012/12/6.jpg", float="left") }}
+{{ Image(issue="2012/12", filename="6.jpg", float="left") }}
 
 <br><br><br>
 

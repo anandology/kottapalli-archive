@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2014/06
 ---
 
-{{ Image(name="/images/2014/06/kaki1.jpg", float="left") }}
+{{ Image(issue="2014/06", filename="kaki1.jpg", float="left") }}
 
 <br><br><br><br><br><br><br>
 
@@ -22,7 +22,7 @@ extra:
 
 <br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2014/06/kaki2.jpg", float="right") }}
+{{ Image(issue="2014/06", filename="kaki2.jpg", float="right") }}
 
 
 <br><br><br><br><br>
@@ -31,7 +31,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2014/06/kaki3.jpg", float="left") }}
+{{ Image(issue="2014/06", filename="kaki3.jpg", float="left") }}
 
 <br><br><br><br>
 
@@ -40,7 +40,7 @@ extra:
 
 <br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2014/06/kaki4.jpg", float="right") }}
+{{ Image(issue="2014/06", filename="kaki4.jpg", float="right") }}
 
 <br><br>
 
@@ -56,7 +56,7 @@ extra:
  
 <br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2014/06/kaki5.jpg", float="left") }}
+{{ Image(issue="2014/06", filename="kaki5.jpg", float="left") }}
 
 <br><br>
 
@@ -65,7 +65,7 @@ extra:
 
 <br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2014/06/kaki6.jpg", float="right") }}
+{{ Image(issue="2014/06", filename="kaki6.jpg", float="right") }}
 
 <br><br>
 
@@ -74,7 +74,7 @@ extra:
 
 <br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2014/06/kaki7.jpg", float="left") }}
+{{ Image(issue="2014/06", filename="kaki7.jpg", float="left") }}
 
 
 
@@ -89,7 +89,7 @@ extra:
 
 <br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2014/06/kaki8.jpg", float="right") }}
+{{ Image(issue="2014/06", filename="kaki8.jpg", float="right") }}
 
 <br><br>
 

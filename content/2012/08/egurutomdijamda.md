@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/08
 ---
 
-{{ Image(name="/images/2012/08/song.jpg", float="right") }}
+{{ Image(issue="2012/08", filename="song.jpg", float="right") }}
 
 ఎగురుతోంది  జెండా - ప్రజల  గుండె  నిండా       
 పిలుస్తోంది  జెండా - భరతభూమి  నిండా       

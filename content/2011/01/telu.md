@@ -13,34 +13,34 @@ extra:
   intro: 'రచన : నారాయణ, కొత్తపల్లి  బృందం.'
 ---
 
-{{ Image(name="/images/2011/01/telu.jpg", float="center") }}
+{{ Image(issue="2011/01", filename="telu.jpg", float="center") }}
 
 
-{{ Image(name="/images/2011/01/telu1.jpg", float="right") }}
+{{ Image(issue="2011/01", filename="telu1.jpg", float="right") }}
 
 
 ఒక ఊరిలో  ఒక  పాప  ఉండేది.    
 ఆ పాప  పేరు  సీత.   
  సీత  చాలా  మంచి  పాప.    
 
-{{ Image(name="/images/2011/01/telu2.jpg", float="left") }}
+{{ Image(issue="2011/01", filename="telu2.jpg", float="left") }}
 
 
 అమ్మకు  చాలా  సాయం  చేసేది.    
 
 
-{{ Image(name="/images/2011/01/telu3.jpg", float="right") }}
+{{ Image(issue="2011/01", filename="telu3.jpg", float="right") }}
 
 		
 నాన్నకు  బొమ్మలు  గీసేది.    
 
-{{ Image(name="/images/2011/01/telu4.jpg", float="left") }}
+{{ Image(issue="2011/01", filename="telu4.jpg", float="left") }}
 
 
 ఒకసారి  నాన్న  ఒక తేలు  బొమ్మ  గీశాడు.    
 సీత  ఆ బొమ్మకు  రంగులు  వేసింది.    
 
-{{ Image(name="/images/2011/01/telu5.jpg", float="right") }}
+{{ Image(issue="2011/01", filename="telu5.jpg", float="right") }}
 
 అంతలో  ఆ బొమ్మ కదిలింది!    
 కదిలి  ముందుకు  నడిచింది!    
@@ -48,20 +48,20 @@ extra:
 "ఓ నాన్నో!"  అని  అరిచింది, లేచి  నిలబడి.   
 నాన్న  పరుగున వచ్చాడు. " ఏమైంది ఏమైంది?" అని  అడిగాడు.    
 
-{{ Image(name="/images/2011/01/telu6.jpg", float="left") }}
+{{ Image(issue="2011/01", filename="telu6.jpg", float="left") }}
 
 "ఈ తేలు  బాగా లేదు- కుడుతుంది" అని  ఏడిచింది సీత.   
 నాన్నకు  తన  తప్పు  అర్థమైంది.    
 "ఓస్, దానిదేముంది?  చీపురుతో  ఊడ్చేస్తే సరి!" అన్నాడు తేలికగా.     
 " మరి చీపురేది?"  అడిగింది సీత.   
 
-{{ Image(name="/images/2011/01/telu7.jpg", float="right") }}
+{{ Image(issue="2011/01", filename="telu7.jpg", float="right") }}
 
  
 "ఇదిగో!”  అని  నాన్న  చీపిరిని   గీశాడు.    
 "మరి ఊడ్చేదెట్లాగ?"  అన్నది సీత.    
 
-{{ Image(name="/images/2011/01/telu8.jpg", float="left") }}
+{{ Image(issue="2011/01", filename="telu8.jpg", float="left") }}
 
 
 నాన్న చెయ్యడ్డం పెట్టి రబ్బరుతో తేలుని  ఊడ్చేశాడు. ఇప్పుడు చూస్తే  అసలు అక్కడ తేలే లేదు!   

@@ -16,7 +16,7 @@ extra:
     డప్పు: ఇ.పోతులయ్య, ప్రకృతిబడి.'
 ---
 
-{{ Image(name="/images/2009/07/navvulam_puvvulam.jpeg", float="right") }}
+{{ Image(issue="2009/07", filename="navvulam_puvvulam.jpeg", float="right") }}
 
 
 నవ్వులం పువ్వులం

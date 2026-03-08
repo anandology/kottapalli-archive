@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2014/04
 ---
 
-{{ Image(name="/images/2014/04/walker.jpg", float="right") }}
+{{ Image(issue="2014/04", filename="walker.jpg", float="right") }}
 
 యూరోపియన్ కమిషన్ వారు యూరోపియన్ యూనియన్లో భాగస్వాములైన దేశాల్లోని (మన దేశంలోని వాళ్లకి కాదు!) పదహారేళ్ళ వయసు పిల్లలకి   'Juvenes Translatores'- "యువ అనువాదకులు"  అని ఓ  పోటీ నిర్వహిస్తారు.  2007నుండి  ఈ  పోటీ  ఏటేటా జరుగుతూ వస్తోంది. 
 

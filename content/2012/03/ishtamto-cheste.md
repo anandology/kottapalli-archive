@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/03
 ---
 
-{{ Image(name="/images/2012/03/ishtam.jpg", float="center") }}
+{{ Image(issue="2012/03", filename="ishtam.jpg", float="center") }}
 
 
 రావులపాలెంలో  క్రొత్తగా  పాఠశాల  భవన నిర్మాణం  మొదలైంది. గోపాల్, రాజు, మాధవ్  అనే  ముగ్గురూ  కూలీలుగా  పనిచేస్తున్నారు.  

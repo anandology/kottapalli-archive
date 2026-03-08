@@ -16,7 +16,7 @@ extra:
 
 ఈ క్రింది బొమ్మను చూడండి.
 
-{{ Image(name="/images/2012/12/bommakukatharayandi.jpg", float="centert") }}
+{{ Image(issue="2012/12", filename="bommakukatharayandi.jpg", float="centert") }}
 
 
 

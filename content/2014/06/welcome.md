@@ -13,7 +13,7 @@ extra:
   redirect: /dashboard/2014/06
 ---
 
-{{ Image(name="/images/2014/06/banner.jpg", float="center") }}
+{{ Image(issue="2014/06", filename="banner.jpg", float="center") }}
 
 
 నరేషూ, సురేషూ, లక్ష్మి, కళ, సుధ, మహేశ్, కార్తీక్, పండు, జ్యోత్స్న- అందరూ కలిసారు ఓ ఎండ పొద్దున.

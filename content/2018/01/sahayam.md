@@ -14,9 +14,9 @@ extra:
   redirect: /dashboard/2018/01
 ---
 
-{{ Image(name="/images/2018/01/sahayam1.jpg", float="center") }}
+{{ Image(issue="2018/01", filename="sahayam1.jpg", float="center") }}
 
-{{ Image(name="/images/2018/01/sahayam2.jpg", float="left") }}
+{{ Image(issue="2018/01", filename="sahayam2.jpg", float="left") }}
 
 అనగనగా ఒక అడవిలో ఒక కోతి ఉండేది. అది చాలా అల్లరి కోతి. 
 
@@ -28,14 +28,14 @@ extra:
 
 అప్పుడు కుందేలు  ఆకలితోటే వెళ్ళిపోయింది. 
 
-{{ Image(name="/images/2018/01/sahayam3.jpg", float="right") }}
+{{ Image(issue="2018/01", filename="sahayam3.jpg", float="right") }}
 
 <br><br>
 అంతలో ఒక తోడేలు అటుగా వచ్చింది. కోతి దాన్ని చూసి బెదిరి, నేలమీద పరుగెత్తటం మొదలు పెట్టింది.  తోడేలు దాని వెంటపడి తరిమి, చివరికి దాన్ని చేజిక్కించుకున్నది.
 
 అటువైపుగానే కాస్త దూరాన తలవంచుకొని పోతున్నాయి కుందేలు, దాని మిత్రుడు జింకా. అవి చూసాయి, తోడేలు కోతిని ఎత్తుకుపోవడం.
 
-{{ Image(name="/images/2018/01/sahayam4.jpg", float="left") }}
+{{ Image(issue="2018/01", filename="sahayam4.jpg", float="left") }}
 
 రెండూ'కోతిని కాపాడాలి- ఎలాగ?'అని ఒక ఉపాయం ఆలోచించాయి. 
 
@@ -45,7 +45,7 @@ extra:
 
 కోతిని ఒక ప్రక్కగా చెట్టుమొదల్లో బంధించి వచ్చింది.  మాంసం ముక్కను అందుకొనటం కోసం ఎగరబోయింది. 
 
-{{ Image(name="/images/2018/01/sahayam5.jpg", float="right") }}
+{{ Image(issue="2018/01", filename="sahayam5.jpg", float="right") }}
 
 అయితే ఆ చెట్టు క్రింద ఉన్నది పెద్ద గుంత! కుందేలు, జింక ఆ గుంత కనబడకుండా దానిమీద ఆకులు, చెత్తా కప్పి ఉంచాయి! మాంసం ముక్కకోసం ఎగిరిన తోడేలు నేరుగా ఆ గుంతలోకే పడిపోయింది!
 

@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/02
 ---
 
-{{ Image(name="/images/2012/02/batu.jpg", float="center") }}
+{{ Image(issue="2012/02", filename="batu.jpg", float="center") }}
 
 ఒక ఊరిలో   ఒక  బాతమ్మ  ఉండేది.  ఆ బాతమ్మకు   ఒక  పాప  కూడా  ఉండేది.  ఆ పాప  పేరు  పండు. 
 

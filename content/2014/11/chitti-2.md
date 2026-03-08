@@ -16,7 +16,7 @@ extra:
 
 **పాకుతూ పాపాయి**    
 
-{{ Image(name="/images/2014/11/papayi.jpg", float="right") }}
+{{ Image(issue="2014/11", filename="papayi.jpg", float="right") }}
 
 పాకుతూ పాపాయి పైడినీ  పట్టింది      
 వెన్న దొంగలా పోయి  వెండినీ లాగింది     
@@ -28,7 +28,7 @@ extra:
 <br><br><br><br><br>
 **నిర్లక్ష్యం  కూడదు **      
 
-{{ Image(name="/images/2014/11/jonnachenu.jpg", float="right") }}
+{{ Image(issue="2014/11", filename="jonnachenu.jpg", float="right") }}
 
 
 జీడిపప్పు -జీడిపప్పు  మాడి పోయింది      

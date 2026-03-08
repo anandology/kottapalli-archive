@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2020/02
 ---
 
-{{ Image(name="/images/2020/02/ala1.jpg", float="center") }}
+{{ Image(issue="2020/02", filename="ala1.jpg", float="center") }}
 
 ఒక  చిలుక,  ఒక  కొంగ మంచి స్నేహితులు. ఒక రోజున వాటికి రెండింటికీ బాగా ఆకలి వేసింది. 		
 	
@@ -29,7 +29,7 @@ extra:
 
 "సరే, చేపలు ఉన్నై కాబట్టి ఇట్లా అంటున్నావు, మరి చెరువు ఎండిపోతే ఏం చేస్తావు?!" అన్నది చిలుక. 
 
-{{ Image(name="/images/2020/02/ala2.jpg", float="left") }}
+{{ Image(issue="2020/02", filename="ala2.jpg", float="left") }}
 
 "వేరే చెరువుకు వెళ్తాను!" అన్నది కొంగ. 
 

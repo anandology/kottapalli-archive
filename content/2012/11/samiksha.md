@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/11
 ---
 
-{{ Image(name="/images/2012/11/bapu.jpg", float="right") }}
+{{ Image(issue="2012/11", filename="bapu.jpg", float="right") }}
 
 
 కొత్తదనంతో, చకచకా  చదివించిన కథలతో ఈ  సంచిక  ప్రత్యేకంగా , ఆ సక్తి కరంగా  అనిపించింది.

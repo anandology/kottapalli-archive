@@ -14,7 +14,7 @@ extra:
     \ విద్యార్థి సృజన కుటీర్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2010/10/enduko.jpg", float="right") }}
+{{ Image(issue="2010/10", filename="enduko.jpg", float="right") }}
 
 ఎందుకో..  ఎందుకో?     
 వసంతురాకఎందుకో (2)    

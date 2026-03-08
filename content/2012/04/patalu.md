@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/04
 ---
 
-{{ Image(name="/images/2012/04/song3.jpg", float="right") }}
+{{ Image(issue="2012/04", filename="song3.jpg", float="right") }}
 
 <br><br><br>
 
@@ -29,7 +29,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/song4.jpg", float="left") }}
+{{ Image(issue="2012/04", filename="song4.jpg", float="left") }}
 
 
 **2.చిలకా చిలకా    **
@@ -43,7 +43,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/song1.jpg", float="right") }}
+{{ Image(issue="2012/04", filename="song1.jpg", float="right") }}
 
 **3.చారెడు కళ్లకు    **
 
@@ -70,7 +70,7 @@ extra:
 పాటలంటే మాకిష్టం.    
 
 
-{{ Image(name="/images/2012/04/song2.jpg", float="left") }}
+{{ Image(issue="2012/04", filename="song2.jpg", float="left") }}
 
 
 **5. బలే పనస    **

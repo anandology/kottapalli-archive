@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/04
 ---
 
-{{ Image(name="/images/2012/04/gunapatham.jpg", float="center") }}
+{{ Image(issue="2012/04", filename="gunapatham.jpg", float="center") }}
 
 బూర్లపల్లి ప్రాథమిక  పాఠశాలలో చదివే రాజేష్   స్వతహాగా  తెలివైన పిల్లవాడు. అందువల్లనేనేమో, వాడిలో  గర్వం పాలు కూడా  ఎక్కువ.  
 

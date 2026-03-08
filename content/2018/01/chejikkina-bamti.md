@@ -19,9 +19,9 @@ extra:
   redirect: /dashboard/2018/01
 ---
 
-{{ Image(name="/images/2018/01/banthi1.jpg", float="center") }}
+{{ Image(issue="2018/01", filename="banthi1.jpg", float="center") }}
 
-{{ Image(name="/images/2018/01/banthi2.jpg", float="left") }}
+{{ Image(issue="2018/01", filename="banthi2.jpg", float="left") }}
 
 <br><br><br><br><br>
 రాము తన స్నేహితులతో బంతి ఆట ఆడుతున్నాడు.
@@ -29,26 +29,26 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2018/01/banthi3.jpg", float="right") }}
+{{ Image(issue="2018/01", filename="banthi3.jpg", float="right") }}
 
 <br><br><br><br><br>
 పిల్లలు బంతి కోసం చెట్టు తొర్రలో చేతులు పెట్టారు.
 <br><br><br><br><br>
 
-{{ Image(name="/images/2018/01/banthi4.jpg", float="left") }}
+{{ Image(issue="2018/01", filename="banthi4.jpg", float="left") }}
 
 <br><br><br><br><br>
 వాళ్లందరినీ చీమలు కుట్టాయి. బంతి మాత్రం దొరకలేదు.
 <br><br><br><br><br>
 
-{{ Image(name="/images/2018/01/banthi5.jpg", float="right") }}
+{{ Image(issue="2018/01", filename="banthi5.jpg", float="right") }}
 
 <br><br><br><br><br>
 అంతలో రాముకి ఓ మంచి ఆలోచన వచ్చింది.      
 బిందెతో నీళ్ళు తీసుకొచ్చి తొర్రలో పోశాడు.
 <br><br><br><br><br>
 
-{{ Image(name="/images/2018/01/banthi6.jpg", float="left") }}
+{{ Image(issue="2018/01", filename="banthi6.jpg", float="left") }}
 
 <br><br><br><br><br>
 బంతి నీళ్లమీద తేలుకుంటూ పైకి వచ్చింది!     

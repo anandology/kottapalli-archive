@@ -18,7 +18,7 @@ extra:
   redirect: /dashboard/2012/04
 ---
 
-{{ Image(name="/images/2012/04/padarangam14.jpg", float="left") }}
+{{ Image(issue="2012/04", filename="padarangam14.jpg", float="left") }}
 
 **ఆధారాలు- నిలువు:    **
 <pre>
@@ -42,7 +42,7 @@ extra:
 
 
 
-{{ Image(name="/images/2012/04/padarangam13solution.jpg", float="right") }}
+{{ Image(issue="2012/04", filename="padarangam13solution.jpg", float="right") }}
 
 ఈసారి పదరంగం 13 కు సమాధానాలు రాసి పంపిన పిల్లలు  ఆరుగురు:
 <pre>

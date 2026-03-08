@@ -13,7 +13,7 @@ extra:
   intro: "పదరంగం-1    \nనిర్వహణ: దేవి, బెంగుళూరు."
 ---
 
-{{ Image(name="/images/2011/03/padarangam.jpg", float="left") }}
+{{ Image(issue="2011/03", filename="padarangam.jpg", float="left") }}
 
 
 **ఆధారాలు:**

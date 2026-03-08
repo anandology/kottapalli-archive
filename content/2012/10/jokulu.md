@@ -13,13 +13,13 @@ extra:
   redirect: /dashboard/2012/10
 ---
 
-{{ Image(name="/images/2012/10/fourcartoonsforoctober.jpg", float="left") }}
+{{ Image(issue="2012/10", filename="fourcartoonsforoctober.jpg", float="left") }}
 
-{{ Image(name="/images/2012/10/cartoonpamuvisham.jpg", float="right") }}
+{{ Image(issue="2012/10", filename="cartoonpamuvisham.jpg", float="right") }}
 
 <br><br><br><br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2012/10/bapubomma.jpg", float="right") }}
+{{ Image(issue="2012/10", filename="bapubomma.jpg", float="right") }}
 
 సత్తి రాజు లక్ష్మీనారాయణ (బాపు)          
 డిగ్రీలో చేరిన కొత్తల్లో, అంటే 1952లో గీసిన      
@@ -36,7 +36,7 @@ extra:
 <br><br>
 **విజ్ఞానం**
 
-{{ Image(name="/images/2012/10/akulu.jpg", float="left") }}
+{{ Image(issue="2012/10", filename="akulu.jpg", float="left") }}
 
 <br><br><br>
 **ఆకులు పచ్చగా ఎందుకుంటాయి?**

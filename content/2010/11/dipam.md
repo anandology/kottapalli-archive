@@ -14,7 +14,7 @@ extra:
     \ శ్రీ వారణాసి వెంకట్రావుగారు, విజయవాడ."
 ---
 
-{{ Image(name="/images/2010/11/dipam.jpg", float="right") }}
+{{ Image(issue="2010/11", filename="dipam.jpg", float="right") }}
 
 దీపం...  విజ్ఞాన  చైతన్య  రూపం(2)    
 శూన్యమైన - ఆకాశంలో- సూర్యుడె  కాంతి  దీపం!!(2)    

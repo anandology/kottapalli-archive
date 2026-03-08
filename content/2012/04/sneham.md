@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/04
 ---
 
-{{ Image(name="/images/2012/04/snehitudu.jpg", float="center") }}
+{{ Image(issue="2012/04", filename="snehitudu.jpg", float="center") }}
 
 మూడవ తరగతి చదివే  రాజు, రమేష్  మంచి స్నేహితులు. కలిసి తిరిగేవాళ్ళు, కలిసి చదివేవాళ్ళు, ఒకరికొకరు తోడుగా ఉండేవాళ్ళు.  
 

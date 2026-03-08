@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: డి. అనీశ్, 5 వ తరగతి, విజ్డం స్కూల్, గుడిపాల, చిత్తూరు జిల్లా.'
 ---
 
-{{ Image(name="/images/2010/06/Good_Morning.jpg", float="left") }}
+{{ Image(issue="2010/06", filename="Good_Morning.jpg", float="left") }}
 
 
 గుడ్ మార్నింగ్ సార్

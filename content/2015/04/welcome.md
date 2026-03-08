@@ -13,7 +13,7 @@ extra:
   redirect: /dashboard/2015/04
 ---
 
-{{ Image(name="/images/2015/04/saptakam.jpg", float="center") }}
+{{ Image(issue="2015/04", filename="saptakam.jpg", float="center") }}
 
 
 "అప్పుడు రాజకుమారుడు కీలుగుర్రం ఎక్కి ఎగురుకుంటూ పోయాడు... ఏడు సముద్రాలు దాటాడు.. అయినా రాజకుమారి జాడలేదు.." తాత గట్టిగా అనుకున్నాడు- తనకూ, చిట్టికీ మాత్రమే వినబడేట్లు.     

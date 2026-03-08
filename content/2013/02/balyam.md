@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2013/02
 ---
 
-{{ Image(name="/images/2013/02/ragpickers.jpg", float="left") }}
+{{ Image(issue="2013/02", filename="ragpickers.jpg", float="left") }}
 
 పాల   బుగ్గల    పసివాడా      
 నీ   బాల్య   మంతా  బర్లతోటేనా?      

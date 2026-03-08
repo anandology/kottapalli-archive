@@ -17,14 +17,14 @@ extra:
 అడ్డం-నిలువు ఆధారాల సహాయంతో ఈ గడులను నింపగలరేమో చూడండి.  నింపిన పదరంగాన్ని పోస్టుకార్డుమీద రాసిగాని, లేదా స్కాన్/ఇ-మెయిలు ద్వారాగాని మాకు అందేట్లు పంపండి.  మీ బడి పేరు, మీవాళ్ల ఫోను నంబరు తప్పక రాయండి. సరైన సమాధానం రాసి ఎంపికైన ముగ్గురు పిల్లలకు కొత్తపల్లి-72 ముద్రిత ప్రతిని బహుమతిగా పంపిస్తాం!
 అయితే ఈ సదుపాయం ఉన్నది, భారత దేశంలోని పిల్లలకు మాత్రమే!
 
-{{ Image(name="/images/2014/09/pada1.jpg", float="center") }}
+{{ Image(issue="2014/09", filename="pada1.jpg", float="center") }}
 
 
 
-{{ Image(name="/images/2014/09/padaaddam.jpg", float="left") }}
+{{ Image(issue="2014/09", filename="padaaddam.jpg", float="left") }}
 
 
 
-{{ Image(name="/images/2014/09/padaniluvu.jpg", float="right") }}
+{{ Image(issue="2014/09", filename="padaniluvu.jpg", float="right") }}
 
 <br><br><br><br><br><br><br><br><br><br>

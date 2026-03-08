@@ -16,7 +16,7 @@ extra:
 
 ఈ  బొమ్మను చూడండి:
 
-{{ Image(name="/images/2011/11/murder.jpg", float="center") }}
+{{ Image(issue="2011/11", filename="murder.jpg", float="center") }}
 
 పాపం.. ఎవరో మెట్ల మీద పడిపోయి ఉన్నారు.
 ఎందుకో, మరి ఆ కథ ఏమిటో?!
@@ -34,7 +34,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2011/11/nidhi1.jpg", float="center") }}
+{{ Image(issue="2011/11", filename="nidhi1.jpg", float="center") }}
 
 <h1>                సొరంగం              </h1>
 
@@ -95,7 +95,7 @@ extra:
 
 మిగిలిన ముగ్గురూ ఒకళ్ల మొహాలొకళ్ళు చూసుకున్నారు.
 
-{{ Image(name="/images/2011/11/nidhi2.jpg", float="left") }}
+{{ Image(issue="2011/11", filename="nidhi2.jpg", float="left") }}
 
 రాజు అందరికంటే ముందు వంగి సొరంగం లోపలికి దూరాడు.  సొరంగంలో నడిచేంత ఎత్తు లేదు.  సంజయ్, సురేష్, రిత్విక్‌లు రాజుని అనుసరించారు, ఒకళ్ళ చొక్కాలొకళ్ళు పట్టుకొని, తడుముకుంటూ, నాలుగు కాళ్ళమీద పాక్కుంటూ.
 

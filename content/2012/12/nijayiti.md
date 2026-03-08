@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/12
 ---
 
-{{ Image(name="/images/2012/12/nijayiti1.jpg", float="center") }}
+{{ Image(issue="2012/12", filename="nijayiti1.jpg", float="center") }}
 
 రాజు కి ఏడు ఏళ్లు. రెండో తరగతి చదువుతున్నాడు. 
 
@@ -41,4 +41,4 @@ extra:
 
 రాజు అమ్మ చెప్పినట్లు చేశాడు. తన స్నేహితులు ఎవరు ఏమన్నా  కూడా తను నిజాలే చెబుతూ‌పోయాడు. కొన్నాళ్ళకి "రాజు నిజాయితీ పరుడు " అని అందరికీ అర్థమైంది.
 
-{{ Image(name="/images/2012/12/nijayiti2.jpg", float="center") }}
+{{ Image(issue="2012/12", filename="nijayiti2.jpg", float="center") }}

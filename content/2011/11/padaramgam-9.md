@@ -15,7 +15,7 @@ extra:
     తో పాటు ప్రచురించగలం.  నిర్వహణ: దేవి, కొత్తపల్లి బృందం.'
 ---
 
-{{ Image(name="/images/2011/11/padarangam9.jpg", float="left") }}
+{{ Image(issue="2011/11", filename="padarangam9.jpg", float="left") }}
 
 **ఆధారాలు: 	     **   
 **నిలువు: **
@@ -45,7 +45,7 @@ extra:
 
 **పదరంగం-8 కి సరైన  సమాధానం **
 
-{{ Image(name="/images/2011/11/padarangam8Solution.jpg", float="right") }}
+{{ Image(issue="2011/11", filename="padarangam8Solution.jpg", float="right") }}
 
 దీనికి సరైన సమాధానం  రాసి పంపినది:   
 

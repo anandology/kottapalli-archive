@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/03
 ---
 
-{{ Image(name="/images/2012/03/febcoverforweb.jpg", float="left") }}
+{{ Image(issue="2012/03", filename="febcoverforweb.jpg", float="left") }}
 
 చిన్నారి ప్రకాశ్** బొమ్మకు కథ** చూసి చాలా సంతోషం వేసింది.  వాడి చిన్నబుర్రకు తగ్గట్టే ఆట్టే గొడవలేమీ లేకుండా‌ హాయిగా ఉంది కథ. ఇది ఒక 'ట్రెండు'గా మారాలని ఆశిద్దాం. 
 

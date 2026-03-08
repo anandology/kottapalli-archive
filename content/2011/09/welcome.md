@@ -12,7 +12,7 @@ extra:
   issue_name: సెప్టెంబర్ 2011
 ---
 
-{{ Image(name="/images/2011/09/E.JPG", float="center") }}
+{{ Image(issue="2011/09", filename="E.JPG", float="center") }}
 
 నీకు జాన పళ్ళు తెలుసా? పరికి పళ్ళు? పులికాయలు? వాక్కాయలు? రేగుపళ్ళ పచ్చడి ఎలా చేస్తారో తెలుసా?
 

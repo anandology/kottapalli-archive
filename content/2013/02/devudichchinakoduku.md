@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2013/02
 ---
 
-{{ Image(name="/images/2013/02/modatidongatanam1.jpg", float="center") }}
+{{ Image(issue="2013/02", filename="modatidongatanam1.jpg", float="center") }}
 
 తిమ్మాపురంలో   గోపన్నకు  పొలం వుంది. కానీ  వరుసగా  మూడేళ్ళు  సరిగా  వర్షాలు  కురియక  పంటలు  పండలేదు. ఆ కరువులోనే  తల్లిదండ్రులు ఇద్దరూ  జబ్బులతో  చనిపోవటంతో గోపన్న ఒంటరివాడై పోయాడు. 
 
@@ -60,4 +60,4 @@ extra:
 
 "అంతకంటేనా! నిన్ను  దేవుడిచ్చిన  కొడుకు అనుకుంటాను, నా  దగ్గరే  వుండిపో" అన్నది  శాంతమ్మ.
 
-{{ Image(name="/images/2013/02/modatidongatanam2.jpg", float="center") }}
+{{ Image(issue="2013/02", filename="modatidongatanam2.jpg", float="center") }}

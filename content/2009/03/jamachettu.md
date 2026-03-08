@@ -16,7 +16,7 @@ extra:
     \ వారి ’పిల్లల పాటలు’ పుస్తకం."
 ---
 
-{{ Image(name="/images/2009/03/jamacettu.gif", float="right") }}
+{{ Image(issue="2009/03", filename="jamacettu.gif", float="right") }}
 
 
 <pre class="song">

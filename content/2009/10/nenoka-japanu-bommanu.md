@@ -14,7 +14,7 @@ extra:
     గుంటూరు జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/10/nenoka.gif", float="center") }}
+{{ Image(issue="2009/10", filename="nenoka.gif", float="center") }}
 
 
 <pre>

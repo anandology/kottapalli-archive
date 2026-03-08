@@ -10,13 +10,13 @@ taxonomies:
   - 2008-04
 extra:
   issue_name: ఏప్రిల్ 2008
-  intro: '{{ Image(name="/images/2008/04/niharika.gif", float="thumb") }}
+  intro: '{{ Image(issue="2008/04", filename="niharika.gif", float="thumb") }}
 
 
     నీహారిక'
 ---
 
-{{ Image(name="/images/2008/04/chukchuk.gif", float="left") }}
+{{ Image(issue="2008/04", filename="chukchuk.gif", float="left") }}
 
 చుక్ చుక్ రైలు వస్తోంది  
 దూరం దూరం జరగాల  

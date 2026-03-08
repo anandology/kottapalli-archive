@@ -13,15 +13,15 @@ extra:
   redirect: /dashboard/2014/04
 ---
 
-{{ Image(name="/images/2014/04/pada1.jpg", float="center") }}
+{{ Image(issue="2014/04", filename="pada1.jpg", float="center") }}
 
-{{ Image(name="/images/2014/04/padaAddam.jpg", float="left") }}
+{{ Image(issue="2014/04", filename="padaAddam.jpg", float="left") }}
 
 <br>
 
-{{ Image(name="/images/2014/04/padaNiluvu.jpg", float="right") }}
+{{ Image(issue="2014/04", filename="padaNiluvu.jpg", float="right") }}
 
 
-{{ Image(name="/images/2014/04/padaInstructions.jpg", float="center") }}
+{{ Image(issue="2014/04", filename="padaInstructions.jpg", float="center") }}
 
 <br><br><br><br><br><br><br><br><br>

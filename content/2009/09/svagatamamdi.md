@@ -20,7 +20,7 @@ extra:
     డప్పు: పి.పోతులయ్య, ఎనిమిదవ తరగతి, ప్రకృతిబడి.'
 ---
 
-{{ Image(name="/images/2009/09/svagatam.gif", float="right") }}
+{{ Image(issue="2009/09", filename="svagatam.gif", float="right") }}
 
 <pre class="song">
 

@@ -13,7 +13,7 @@ extra:
   redirect: /dashboard/2013/02
 ---
 
-{{ Image(name="/images/2013/02/khadizaniazi.jpg", float="right") }}
+{{ Image(issue="2013/02", filename="khadizaniazi.jpg", float="right") }}
 
 విశ్వ ఆర్థిక వేదిక వారు   ప్రతి సంవత్సరం స్విట్జర్లాండ్ లో నిర్వహించే   సమావేశానికి   ప్రపంచం మొత్తం మీద నుంచీ ఎంపిక చేసిన  మేధావులను, జర్నలిస్టులను ఆహ్వానిస్తారు.  ఈ ఏడూ అలాంటి సమావేశం జరిగింది. 
 

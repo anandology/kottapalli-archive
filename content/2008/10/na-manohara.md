@@ -23,7 +23,7 @@ extra:
     చిత్రించిన మన జానపదులు ధన్యులు.'
 ---
 
-{{ Image(name="/images/2008/10/namanohara.jpg", float="right") }}
+{{ Image(issue="2008/10", filename="namanohara.jpg", float="right") }}
 
 <pre class="song">
 నామనోహర రామచంద్రా నాదుకోర్కెను తీర్చుమా

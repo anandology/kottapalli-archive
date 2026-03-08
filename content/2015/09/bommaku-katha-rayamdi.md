@@ -18,7 +18,7 @@ extra:
 
 
 
-{{ Image(name="/images/2015/09/siri.jpg", float="center") }}
+{{ Image(issue="2015/09", filename="siri.jpg", float="center") }}
 
 
 <br><br><br><br><br><br><br><br>

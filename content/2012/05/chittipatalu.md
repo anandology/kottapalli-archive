@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/05
 ---
 
-{{ Image(name="/images/2012/05/p1.jpg", float="right") }}
+{{ Image(issue="2012/05", filename="p1.jpg", float="right") }}
 
 **1. అల్లిబిల్లి జాబిల్లి **
 
@@ -33,7 +33,7 @@ extra:
 
 {{Audio("ranipata.mp3", count=0)}}
 
-{{ Image(name="/images/2012/05/p3.jpg", float="left") }}
+{{ Image(issue="2012/05", filename="p3.jpg", float="left") }}
 
 <br><br>
 
@@ -48,7 +48,7 @@ extra:
 
 
 
-{{ Image(name="/images/2012/05/p5.jpg", float="right") }}
+{{ Image(issue="2012/05", filename="p5.jpg", float="right") }}
 
 <br><br>
 
@@ -67,7 +67,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2012/05/p4.jpg", float="left") }}
+{{ Image(issue="2012/05", filename="p4.jpg", float="left") }}
 
 
 **4. జంగుకు శంఖం  దొరికింది    **

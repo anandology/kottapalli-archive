@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/03
 ---
 
-{{ Image(name="/images/2012/03/song1.jpg", float="left") }}
+{{ Image(issue="2012/03", filename="song1.jpg", float="left") }}
 
 ** చిట్టి చిలకమ్మ** 
 
@@ -29,7 +29,7 @@ extra:
 
 
 
-{{ Image(name="/images/2012/03/song2.jpg", float="right") }}
+{{ Image(issue="2012/03", filename="song2.jpg", float="right") }}
 
 
 ** చుక్ చుక్  రైలు **
@@ -45,7 +45,7 @@ extra:
 {{Audio("chuk.mp3", count=1)}}
 
 
-{{ Image(name="/images/2012/03/song3.jpg", float="left") }}
+{{ Image(issue="2012/03", filename="song3.jpg", float="left") }}
 
 
 **ఊష్ కాకి **
@@ -62,7 +62,7 @@ extra:
 
 
 
-{{ Image(name="/images/2012/03/song4.jpg", float="right") }}
+{{ Image(issue="2012/03", filename="song4.jpg", float="right") }}
 
 
 ** దుబ్బోడి పాట **
@@ -81,7 +81,7 @@ extra:
 
 ** శాంతక్క పాట  **
 
-{{ Image(name="/images/2012/03/song5.jpg", float="left") }}
+{{ Image(issue="2012/03", filename="song5.jpg", float="left") }}
 
 శాంతక్కా   ,   బావేడి?     
 బజారుకు  వెళ్ళాడు     

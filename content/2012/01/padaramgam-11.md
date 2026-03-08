@@ -18,7 +18,7 @@ extra:
   redirect: /dashboard/2012/01
 ---
 
-{{ Image(name="/images/2012/01/padarangam11imageonly.jpg", float="left") }}
+{{ Image(issue="2012/01", filename="padarangam11imageonly.jpg", float="left") }}
 
 <pre>
 ఆధారాలు: 		
@@ -47,7 +47,7 @@ extra:
 
 పదరంగం-9 కి   సమాధానం:
 
-{{ Image(name="/images/2012/01/padarangam10solution.jpg", float="right") }}
+{{ Image(issue="2012/01", filename="padarangam10solution.jpg", float="right") }}
 
 సరైన  సమాధానం  రాసి  పంపిన పిల్లలు:
 <pre>

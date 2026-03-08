@@ -19,7 +19,7 @@ extra:
     \         \nసేకరణ: పి. విశ్వనాథ్,6వతరగతి, టింబక్టు బడి."
 ---
 
-{{ Image(name="/images/2010/02/abbodu.gif", float="center") }}
+{{ Image(issue="2010/02", filename="abbodu.gif", float="center") }}
 
 ఒక ఊరిలో ఒక అవ్వ ఉండేది.ఆ అవ్వకు మేకలు,ఆవులు,కోళ్ళు చాలా ఉండేవి.
 

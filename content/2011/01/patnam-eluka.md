@@ -13,7 +13,7 @@ extra:
   intro: 'రచన : R. సునిల్ , 4వతరగతి ,  టింబక్టు బడి.'
 ---
 
-{{ Image(name="/images/2011/01/eluka.jpg", float="center") }}
+{{ Image(issue="2011/01", filename="eluka.jpg", float="center") }}
 
 అనగా అనగా  ఒక పట్నం  ఎలుక ఉండేది.   ఒక నాడు అది పల్లెలో  ఉన్న  తన నేస్తం  దగ్గరికి  వెళ్ళింది. 
 

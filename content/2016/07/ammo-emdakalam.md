@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2016/07
 ---
 
-{{ Image(name="/images/2016/07/bk1.jpg", float="left") }}
+{{ Image(issue="2016/07", filename="bk1.jpg", float="left") }}
 
 <br>
 
@@ -22,7 +22,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2016/07/bk2.jpg", float="right") }}
+{{ Image(issue="2016/07", filename="bk2.jpg", float="right") }}
 
 <br>
 
@@ -30,7 +30,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2016/07/bk3.jpg", float="left") }}
+{{ Image(issue="2016/07", filename="bk3.jpg", float="left") }}
 
 <br>
 
@@ -38,7 +38,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2016/07/bk4.jpg", float="right") }}
+{{ Image(issue="2016/07", filename="bk4.jpg", float="right") }}
 
 <br><br>
 
@@ -46,7 +46,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2016/07/bk5.jpg", float="left") }}
+{{ Image(issue="2016/07", filename="bk5.jpg", float="left") }}
 
 <br>
 
@@ -54,7 +54,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2016/07/bk6.jpg", float="right") }}
+{{ Image(issue="2016/07", filename="bk6.jpg", float="right") }}
 
 సాయంత్రం కృష్ణ ఆఫీసు నుండి వచ్చేటప్పుడు కొబ్బరి బోండాలు, పుచ్చకాయలు తీసుకువచ్చారు. 
 కొబ్బరి నీళ్ళు త్రాగి పుచ్చకాయలు తింటుండగా అనురాధ అడిగింది ఆదిత్యని- "ఎందుకు, అంత నీరసంగా అయిపోయావు? మంచి నీళ్లు సరిగా తాగలేదా?” అని. 

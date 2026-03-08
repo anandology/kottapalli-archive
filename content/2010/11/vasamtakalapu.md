@@ -14,7 +14,7 @@ extra:
     \ 9వ తరగతి, విద్యార్థి సృజన కుటీర్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2010/11/vasantakalapu.jpg", float="right") }}
+{{ Image(issue="2010/11", filename="vasantakalapu.jpg", float="right") }}
 
 వసంతకాలపు  పువ్వులం    
 వానా  కాలపు  చినుకులం    

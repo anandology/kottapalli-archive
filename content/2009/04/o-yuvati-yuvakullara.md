@@ -14,7 +14,7 @@ extra:
     అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/04/o_yuvati_yuvakulla_ra.gif", float="right") }}
+{{ Image(issue="2009/04", filename="o_yuvati_yuvakulla_ra.gif", float="right") }}
 
 <pre class="song">
 ఓ యువతీ యువకుల్లారా

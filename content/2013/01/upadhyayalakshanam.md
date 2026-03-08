@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2013/01
 ---
 
-{{ Image(name="/images/2013/01/guruvu1.jpg", float="center") }}
+{{ Image(issue="2013/01", filename="guruvu1.jpg", float="center") }}
 
 విదిషా  రాజ్యాన్ని  పరిపాలించే  జగన్నాధ మహారాజు  ప్రజలను కన్నబిడ్డలకంటే మిన్నగా చూసుకునేవాడు. 
 
@@ -33,7 +33,7 @@ extra:
 "ఎట్లాంటి పోటీకైనా సరే, మేము  సిద్ధం. చెప్పండి  ఏం పోటీ?" అన్నారు రాజకుమారులు   ఉత్సాహంగా. 
 
 
-{{ Image(name="/images/2013/01/guruvu2.jpg", float="right") }}
+{{ Image(issue="2013/01", filename="guruvu2.jpg", float="right") }}
 
 
 "ఇదిగో  తెలుగు  భాషలో  అక్షరాలు  ఇలా  ఉంటాయి. ఇది 'అ' ఇది 'ఆ', ఇ, ఈ, ఉ...........ఇదిగో, ఇది 'ఱ'. 

@@ -15,10 +15,10 @@ extra:
   redirect: /dashboard/2016/03
 ---
 
-{{ Image(name="/images/2016/03/marina1.jpg", float="center") }}
+{{ Image(issue="2016/03", filename="marina1.jpg", float="center") }}
 
 
-{{ Image(name="/images/2016/03/marina2.jpg", float="left") }}
+{{ Image(issue="2016/03", filename="marina2.jpg", float="left") }}
 
 
 
@@ -29,7 +29,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2016/03/marina3.jpg", float="right") }}
+{{ Image(issue="2016/03", filename="marina3.jpg", float="right") }}
 
 <br><br>
 
@@ -39,7 +39,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2016/03/marina4.jpg", float="left") }}
+{{ Image(issue="2016/03", filename="marina4.jpg", float="left") }}
 
 
 అయినా అమ్మ మాటని కాదనేది ఎలాగ? అందుకని దానికి కాసిని పాలు పోసి, ఆనక  దాన్ని తీసుకెళ్లి మళ్ళీ అక్కడే వదిలేసి వచ్చాడు. 
@@ -50,7 +50,7 @@ extra:
 
 కానీ అసలు  వీలే కాలేదు!
 
-{{ Image(name="/images/2016/03/marina5.jpg", float="center") }}
+{{ Image(issue="2016/03", filename="marina5.jpg", float="center") }}
 
 రెండు రోజుల తర్వాత  వాళ్ల అమ్మతో కలిసి సంతకు వెళ్లాడు రవి.  ఆ కుక్క అక్కడ సంతలోనే ఉంది! వాళ్లను చూడగానే అది తోక ఊపుకుంటూ సంతోషంతో గబగబా పరుగెత్తుకొని  వచ్చింది వాళ్ళ దగ్గరికి. 
 
@@ -59,11 +59,11 @@ extra:
 ఏం చేయాలో తోచక నిలబడిపోయాడు రవి. కానీ కుక్క పిల్ల మటుకు దొంగను వెంబడించింది. చటుక్కున వాడి కాళ్ల మధ్యలో 
 దూరింది. 
 
-{{ Image(name="/images/2016/03/marina6.jpg", float="center") }}
+{{ Image(issue="2016/03", filename="marina6.jpg", float="center") }}
 
 దొంగ దాన్ని తప్పించుకోబోయి, జారి తటాలున క్రింద పడిపోయాడు. ఆలోగా అందరూ వచ్చి వాడిని పట్టుకున్నారు. గొలుసుని రవి వాళ్ళ అమ్మకి ఇచ్చారు. 
 
-{{ Image(name="/images/2016/03/marina7.jpg", float="left") }}
+{{ Image(issue="2016/03", filename="marina7.jpg", float="left") }}
 
 <br><br>
 

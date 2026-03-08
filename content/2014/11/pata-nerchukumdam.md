@@ -24,18 +24,18 @@ extra:
   redirect: /dashboard/2014/11
 ---
 
-{{ Image(name="/images/2014/11/vaishnav1.jpg", float="left") }}
+{{ Image(issue="2014/11", filename="vaishnav1.jpg", float="left") }}
 
 <br><br><br>
 
-{{ Image(name="/images/2014/11/vaishnav2.jpg", float="right") }}
+{{ Image(issue="2014/11", filename="vaishnav2.jpg", float="right") }}
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2014/11/vishnav3.jpg", float="left") }}
+{{ Image(issue="2014/11", filename="vishnav3.jpg", float="left") }}
 
 <br><br><br>
 
-{{ Image(name="/images/2014/11/vaishnav4.jpg", float="right") }}
+{{ Image(issue="2014/11", filename="vaishnav4.jpg", float="right") }}
 
 <br><br><br>

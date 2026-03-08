@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/04
 ---
 
-{{ Image(name="/images/2012/04/c1.jpg", float="right") }}
+{{ Image(issue="2012/04", filename="c1.jpg", float="right") }}
 
 <br><br><br>
 
@@ -26,7 +26,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/c2.jpg", float="left") }}
+{{ Image(issue="2012/04", filename="c2.jpg", float="left") }}
 
 <br><br><br>
 
@@ -36,7 +36,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/c3.jpg", float="right") }}
+{{ Image(issue="2012/04", filename="c3.jpg", float="right") }}
 
 <br><br><br>
 
@@ -46,7 +46,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/c4.jpg", float="left") }}
+{{ Image(issue="2012/04", filename="c4.jpg", float="left") }}
 
 <br>
 
@@ -56,7 +56,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/c5.jpg", float="right") }}
+{{ Image(issue="2012/04", filename="c5.jpg", float="right") }}
 
 <br>
 
@@ -70,7 +70,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/c6.jpg", float="left") }}
+{{ Image(issue="2012/04", filename="c6.jpg", float="left") }}
 
 
 <br>
@@ -83,7 +83,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/c7.jpg", float="right") }}
+{{ Image(issue="2012/04", filename="c7.jpg", float="right") }}
 
 <br>
 
@@ -93,7 +93,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2012/04/c8.jpg", float="left") }}
+{{ Image(issue="2012/04", filename="c8.jpg", float="left") }}
 
 <br>
 

@@ -15,7 +15,7 @@ extra:
     డప్పు:  పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{ Image(name="/images/2008/11/adukumdam_vastava.gif", float="right") }}
+{{ Image(issue="2008/11", filename="adukumdam_vastava.gif", float="right") }}
 
 <pre class="song">
 కోడీ కోడీ వస్తావా, ఆడుకుందాం వస్తావా?

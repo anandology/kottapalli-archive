@@ -21,7 +21,7 @@ extra:
     డప్పు: సతీష్'
 ---
 
-{{ Image(name="/images/2009/03/jyahe_jyahe.gif", float="right") }}
+{{ Image(issue="2009/03", filename="jyahe_jyahe.gif", float="right") }}
 
 <pre class="song">
 జయహే భరతమాత జయహే

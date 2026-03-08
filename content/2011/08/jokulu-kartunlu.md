@@ -16,7 +16,7 @@ extra:
     జోకుల  సేకరణ: సోమిరెడ్డి, నల్గొండ; ఆర్.ప్రగతి,  వెంకటంపల్లి."
 ---
 
-{{ Image(name="/images/2011/08/railubomma.jpg", float="right") }}
+{{ Image(issue="2011/08", filename="railubomma.jpg", float="right") }}
 
 **ఏదో ఛానల్! **
 <pre>
@@ -30,7 +30,7 @@ extra:
 రాము: చెప్పింది టీచర్, కానీ  చెప్పుడు మాటలు  వినరాదని  మీరే అన్నారు  కదా, అని....
 </pre>
 
-{{ Image(name="/images/2011/08/bookshopjoke.jpg", float="left") }}
+{{ Image(issue="2011/08", filename="bookshopjoke.jpg", float="left") }}
 
 **ఇంపాజిబుల్ ఈజ్  పాజిబుల్!**
 <pre>
@@ -46,7 +46,7 @@ extra:
 వెంగళప్ప కొడుకు: బయటకు  వచ్చాడని  నేను చెప్పలేదు.
 </pre>
 
-{{ Image(name="/images/2011/08/chimaenugujoke.jpg", float="right") }}
+{{ Image(issue="2011/08", filename="chimaenugujoke.jpg", float="right") }}
 
 **అతి జాగ్రత్త!**
 <pre>
@@ -60,7 +60,7 @@ T.C: ఇంతకీ  నువ్వు ఎటు వెళ్లాలి?
 </pre>
 <br><br>
 
-{{ Image(name="/images/2011/08/gruham.jpg", float="left") }}
+{{ Image(issue="2011/08", filename="gruham.jpg", float="left") }}
 
 **కొత్త  రామాయణం!**
 <pre>

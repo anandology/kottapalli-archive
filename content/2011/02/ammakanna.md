@@ -14,7 +14,7 @@ extra:
     \    \nరచన: శ్రీ వారణాసి వెంకట్రావు, విజయవాడ"
 ---
 
-{{ Image(name="/images/2011/02/amma.jpg", float="right") }}
+{{ Image(issue="2011/02", filename="amma.jpg", float="right") }}
 
 అమ్మ కన్న అవనిలో దైవమెవ్వరు?   
 అమ్మకన్న సృష్టికే మూలమెవ్వరు?    

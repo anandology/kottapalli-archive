@@ -18,7 +18,7 @@ extra:
     \ ఎనిమిదో తరగతి,  సలీం,పదో తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి."
 ---
 
-{{ Image(name="/images/2008/08/neelineelikonda.gif", float="right") }}
+{{ Image(issue="2008/08", filename="neelineelikonda.gif", float="right") }}
 
 నీలి నీలి కొండమీద   
 చందమామ తొంగిచూసె  

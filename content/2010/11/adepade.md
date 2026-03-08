@@ -14,7 +14,7 @@ extra:
     \ 9వ తరగతి, విద్యార్థి సృజన కుటీర్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2010/11/adepade.jpg", float="right") }}
+{{ Image(issue="2010/11", filename="adepade.jpg", float="right") }}
 
 ఆడే  పాడే పిల్లలం!    
 అమ్మ,నాన్నల  ఆశాజ్యోతులం!!(2)    

@@ -17,9 +17,9 @@ extra:
   redirect: /dashboard/2017/05
 ---
 
-{{ Image(name="/images/2017/05/cettu1.jpg", float="center") }}
+{{ Image(issue="2017/05", filename="cettu1.jpg", float="center") }}
 
-{{ Image(name="/images/2017/05/cettu2.jpg", float="left") }}
+{{ Image(issue="2017/05", filename="cettu2.jpg", float="left") }}
 
 <br>
 
@@ -29,7 +29,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2017/05/cettu3.jpg", float="right") }}
+{{ Image(issue="2017/05", filename="cettu3.jpg", float="right") }}
 
 పోయిన సోమవారం అనుకుంటాను, నాకు రొమ్ములో కొంచెం కిత కిత మొదలైంది.
 
@@ -43,7 +43,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2017/05/cettu4.jpg", float="left") }}
+{{ Image(issue="2017/05", filename="cettu4.jpg", float="left") }}
 
 "పాడు పిట్ట- పొడుస్తున్నది.. అబ్బా! అబ్బబ్బా...! సరిగ్గా నొప్పి పుడుతున్న చోటనే పొడుస్తున్నదే, ఇది?!"
 
@@ -53,7 +53,7 @@ extra:
 
 <br> 
 
-{{ Image(name="/images/2017/05/cettu5.jpg", float="right") }}
+{{ Image(issue="2017/05", filename="cettu5.jpg", float="right") }}
 
 "అయ్యో! వామ్మో! బాబోయ్! కాపాడండి! ఈ‌ పిట్ట ఇప్పుడు ఏం చేస్తున్నదో చూడండి! నా లోపలికి ముక్కు పెట్టి తిప్పుతున్నది!"
 

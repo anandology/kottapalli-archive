@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/12
 ---
 
-{{ Image(name="/images/2012/12/matladeavu1.jpg", float="center") }}
+{{ Image(issue="2012/12", filename="matladeavu1.jpg", float="center") }}
 
 ఒక ఊరిలో రంగయ్య, శివమ్మ అనే భార్యాభర్తలు ఉండేవారు. వాళ్ళకు  ఒక ఆవు ఉండేది. దాని పేరు లక్ష్మి. లక్ష్మిని వాళ్ళు చాలా ప్రేమగా చూసుకునేవాళ్ళు.  
 
@@ -74,4 +74,4 @@ extra:
 
 "పిడుదు రంగయ్యకోసం  ఊరందరికీ భోజనాలు పెట్టిద్దాం లక్ష్మీ" అన్నది శివమ్మ , ఆవుని ఆప్యా యంగా నిమురుతూ.
 
-{{ Image(name="/images/2012/12/matladeavu2.jpg", float="center") }}
+{{ Image(issue="2012/12", filename="matladeavu2.jpg", float="center") }}

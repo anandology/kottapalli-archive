@@ -14,10 +14,10 @@ extra:
   redirect: /dashboard/2015/11
 ---
 
-{{ Image(name="/images/2015/11/chilakatop.jpg", float="center") }}
+{{ Image(issue="2015/11", filename="chilakatop.jpg", float="center") }}
 
 
-{{ Image(name="/images/2015/11/chilaka1.jpg", float="left") }}
+{{ Image(issue="2015/11", filename="chilaka1.jpg", float="left") }}
 
 అనగనగా ఒక ఋషి, ఆయన భార్య అడవిలో సుఖంగా జీవిస్తూ ఉండేవాళ్ళు.  ఋషి చూసేందుకు మామూలుగానే ఉండేవాడు, కానీ ఆయనకు చాలా మహిమలు వచ్చు.
 
@@ -27,7 +27,7 @@ extra:
 
 ఋషి  దానిని ఇంటికి తీసుకెళ్లాడు. రకరకాల మూలికలతో దానికి వైద్యం చేశాడు. 
 
-{{ Image(name="/images/2015/11/chilaka2.jpg", float="right") }}
+{{ Image(issue="2015/11", filename="chilaka2.jpg", float="right") }}
 
 <br>
 
@@ -37,7 +37,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2015/11/chilaka3.jpg", float="left") }}
+{{ Image(issue="2015/11", filename="chilaka3.jpg", float="left") }}
 
 <br>
 
@@ -47,7 +47,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2015/11/chilaka4.jpg", float="right") }}
+{{ Image(issue="2015/11", filename="chilaka4.jpg", float="right") }}
 
 <br>
 
@@ -55,7 +55,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2015/11/chilaka5.jpg", float="left") }}
+{{ Image(issue="2015/11", filename="chilaka5.jpg", float="left") }}
 
 
 ఆ రాత్రి అన్నం తినేటప్పుడు "చిలక బాలా! ఇప్పుడు నీకింక పెళ్ళివయసు వచ్చిందమ్మా. ఏదైనా మంచి సంబంధం చూసి పెళ్ళి చేస్తాం- సరేనా?" అన్నాడు ఋషి. 
@@ -67,7 +67,7 @@ extra:
 
 అరగంట తరువాత ఋషి వచ్చి మంచం కింద నుంచి బైటికి లాగాడు తనని. "నిన్ను వదలడం నాకు కూడా ఇష్టం లేదమ్మా! కానీ నువ్వు  పెళ్లి చేసుకోవాల్సిందే. నీకు నచ్చేవాడిని వెతుకుతాగా?!" అన్నాడు. 
 
-{{ Image(name="/images/2015/11/chilaka6.jpg", float="right") }}
+{{ Image(issue="2015/11", filename="chilaka6.jpg", float="right") }}
 
 చిలక బాల కళ్లు మూసుకొని "సరే" అన్నది. 
 
@@ -88,7 +88,7 @@ extra:
 ఈసారి ఋషి గాలిని పిలిచాడు. "మేఘాలకంటే గొప్పది గాలే! గాలి వీస్తే ఇక మేఘాలు ఎక్కడికో కొట్టుకు పోతాయి!" అని. 
 చిలక బాల అందం చూసి 'పెళ్లి చేసుకుంటాను' అన్నది గాలి. కానీ చిలకబాల ఒప్పుకోలేదు. "గాలిలో అన్నీ కొట్టుకు పోతాయి. నేను కూడా ఏదో ఒక రోజు కొట్టుకుపోతాను. నాకొద్దు నాన్నా!" అన్నది. 
 
-{{ Image(name="/images/2015/11/chilaka7.jpg", float="left") }}
+{{ Image(issue="2015/11", filename="chilaka7.jpg", float="left") }}
 
 ఈసారి ఋషి ఒక పర్వతాన్ని పిలిపించాడు. "నేను ఈయన్ని చేసుకోను నాన్నా! పెద్ద బండరాయి! అస్సలు కదలడు, మెదలడు!" అన్నది చిలకబాల. 
 

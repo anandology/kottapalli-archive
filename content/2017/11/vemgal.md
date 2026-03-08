@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2017/11
 ---
 
-{{ Image(name="/images/2017/11/vengal1.jpg", float="left") }}
+{{ Image(issue="2017/11", filename="vengal1.jpg", float="left") }}
 
 
 అనగనగా ఒక రోజు రాత్రి వాన పడింది. ఆ వానలో ఒక పులి తడిసి ముద్దై, వణుక్కుంటూ ఒక ఇంటి దగ్గరకు వచ్చింది. 
@@ -24,7 +24,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2017/11/vengal2.jpg", float="right") }}
+{{ Image(issue="2017/11", filename="vengal2.jpg", float="right") }}
 
 
 
@@ -36,7 +36,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2017/11/vengal3.jpg", float="left") }}
+{{ Image(issue="2017/11", filename="vengal3.jpg", float="left") }}
 
 <br>
 
@@ -46,7 +46,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2017/11/vengal4.jpg", float="right") }}
+{{ Image(issue="2017/11", filename="vengal4.jpg", float="right") }}
 
 
 
@@ -56,7 +56,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2017/11/vengal5.jpg", float="left") }}
+{{ Image(issue="2017/11", filename="vengal5.jpg", float="left") }}
 
 
 
@@ -68,7 +68,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2017/11/vengal6.jpg", float="right") }}
+{{ Image(issue="2017/11", filename="vengal6.jpg", float="right") }}
 
 
 

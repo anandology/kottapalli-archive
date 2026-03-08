@@ -16,7 +16,7 @@ extra:
     డప్పు: టి.సతీష్, ఎనిమిదో తరగతి.'
 ---
 
-{{ Image(name="/images/2009/02/nirmala_suraganga.gif", float="right") }}
+{{ Image(issue="2009/02", filename="nirmala_suraganga.gif", float="right") }}
 
 <pre class="song">
 నిర్మల సురగంగాజల సంగమ క్షేత్రం

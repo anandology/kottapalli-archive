@@ -21,7 +21,7 @@ extra:
 
 <b>ఈ బొమ్మకు కథ రాయండి!</b>
 
-{{ Image(name="/images/2010/06/for_story1.jpg", float="left") }}
+{{ Image(issue="2010/06", filename="for_story1.jpg", float="left") }}
  
 
 ఈ దృశ్యానికి ముందు ఏమి జరిగింది?

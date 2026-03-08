@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/10
 ---
 
-{{ Image(name="/images/2012/10/maryadhamata1.jpg", float="center") }}
+{{ Image(issue="2012/10", filename="maryadhamata1.jpg", float="center") }}
 
 రాఘవయ్యకు ఎప్పటినుండో ఒక కోరిక- మాట్లాడే  పక్షిని  పెంచాలని.
 
@@ -28,7 +28,7 @@ extra:
 
 రాఘవయ్యకు మతి పోయినట్లయింది- "ఆ దొంగల్ని నువ్వు గుర్తు పడతావా?" అని అడిగాడు పిచ్చుకని, రవంత ఆశగా.
 
-{{ Image(name="/images/2012/10/maryadhamata2.jpg", float="left") }}
+{{ Image(issue="2012/10", filename="maryadhamata2.jpg", float="left") }}
 
 "రండి! కూర్చోండి! ఏం పుచ్చుకుంటారు, కాఫీనా-టీనా?" అన్నది పిచ్చుక, ఉత్సాహంగా.
 

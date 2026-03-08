@@ -13,7 +13,7 @@ extra:
   redirect: /dashboard/2015/03
 ---
 
-{{ Image(name="/images/2015/03/edit.jpg", float="center") }}
+{{ Image(issue="2015/03", filename="edit.jpg", float="center") }}
 
 కథియవాడ బడికి ఇన్స్‌పెక్టరుగారు వచ్చారు.  ఆయన వస్తున్నట్లు ఎవరికీ ముందుగా తెలీదు.  
    

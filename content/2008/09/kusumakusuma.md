@@ -16,7 +16,7 @@ extra:
     గానం: శిరీష బృందం, నాలుగో తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2008/09/kusumakusuma.gif", float="right") }}
+{{ Image(issue="2008/09", filename="kusumakusuma.gif", float="right") }}
 
 <pre class="song">
 కుసుమా కుసుమా

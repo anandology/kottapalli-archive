@@ -13,7 +13,7 @@ extra:
   intro: గానం:శొంఠినేని నితిన్ గోపాల్ (3వ త.), ప్రాథమిక పాఠశాల, లింగారావుపాలెం, గుంటూరుజిల్లా.
 ---
 
-{{ Image(name="/images/2009/10/Bhashalanni.gif", float="right") }}
+{{ Image(issue="2009/10", filename="Bhashalanni.gif", float="right") }}
 
 <pre>
 భాషలన్ని వేరైనా భావమొక్కటే

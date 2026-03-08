@@ -19,7 +19,7 @@ extra:
     డప్పు: పోతలయ్య, ఏడవ తరగతి'
 ---
 
-{{ Image(name="/images/2008/10/jojolali.jpg", float="right") }}
+{{ Image(issue="2008/10", filename="jojolali.jpg", float="right") }}
 
 <pre class="song">
 అన్నా ఏడవ్వకురా లవ్వన్నా ఏడవ్వకురా

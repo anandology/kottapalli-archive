@@ -15,7 +15,7 @@ extra:
     \nడప్పు: పోతులయ్య, ఏడవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి."
 ---
 
-{{ Image(name="/images/2009/03/ceema_ceema.gif", float="right") }}
+{{ Image(issue="2009/03", filename="ceema_ceema.gif", float="right") }}
 
 <pre class="song">
 చీమా! చీమా! వస్తావా?

@@ -15,9 +15,9 @@ extra:
   redirect: /dashboard/2018/07
 ---
 
-{{ Image(name="/images/2018/07/teli1.jpg", float="center") }}
+{{ Image(issue="2018/07", filename="teli1.jpg", float="center") }}
 
-{{ Image(name="/images/2018/07/teli2.jpg", float="left") }}
+{{ Image(issue="2018/07", filename="teli2.jpg", float="left") }}
 
 రాజమ్మ, సంగయ్య దంపతులకు ఇద్దరు పిల్లలు- సుశీల్, సాగర్. 
 
@@ -30,7 +30,7 @@ extra:
 
 తల్లిదండ్రులు దగ్గర లేనప్పుడు సుశీల్ సాగర్‌ని ఎగతాళి చేసేవాడు. "నాలాగా ఉండాలి, నువ్వేంటి, ముద్దపప్పులాగా?" అనేవాడు.  
 
-{{ Image(name="/images/2018/07/teli3.jpg", float="right") }}
+{{ Image(issue="2018/07", filename="teli3.jpg", float="right") }}
 
 సాగర్ నవ్వి, "చేతికి ఉండే ఐదు వేళ్ళే ఒక లాగా ఉండవు. మనం ఇద్దరం మనుషులం ఒకలాగా ఉంటామా? నువ్వేమో తెలివిగల వాడివి, నాకు అన్ని తెలివి తేటలు లేవు- ఏం చేస్తాం" అనేవాడు.
 

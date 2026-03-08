@@ -16,7 +16,7 @@ extra:
 
 **ఈ   బొమ్మను   చూడండి..**
 
-{{ Image(name="/images/2013/01/bommajan.jpg", float="right") }}
+{{ Image(issue="2013/01", filename="bommajan.jpg", float="right") }}
 
 
 బొమ్మలో చిన్నారి చక్కగా తయారై  ఎక్కడికో నడుచుకుంటూ పోతున్నది.

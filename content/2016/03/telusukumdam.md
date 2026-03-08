@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2016/03
 ---
 
-{{ Image(name="/images/2016/03/darwin.jpeg", float="left") }}
+{{ Image(issue="2016/03", filename="darwin.jpeg", float="left") }}
 
 <br>
 
@@ -23,7 +23,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2016/03/russel.jpeg", float="right") }}
+{{ Image(issue="2016/03", filename="russel.jpeg", float="right") }}
 
 <br><br><br>
 
@@ -31,7 +31,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2016/03/sarojini_naidu.jpeg", float="left") }}
+{{ Image(issue="2016/03", filename="sarojini_naidu.jpeg", float="left") }}
 
 <br><br><br>
 

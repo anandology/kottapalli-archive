@@ -15,7 +15,7 @@ extra:
     \     \nనిర్వహణ: దేవి, బెంగుళూరు."
 ---
 
-{{ Image(name="/images/2011/06/pada4.jpg", float="left") }}
+{{ Image(issue="2011/06", filename="pada4.jpg", float="left") }}
 
 **ఆధారాలు:  **
 
@@ -43,4 +43,4 @@ extra:
 ఏప్రియల్ 2011 సంచికలో ఇచ్చిన పదరంగం-2 కి 
 సమాధానం    
 
-{{ Image(name="/images/2011/06/pada2solved.jpg", float="right") }}
+{{ Image(issue="2011/06", filename="pada2solved.jpg", float="right") }}

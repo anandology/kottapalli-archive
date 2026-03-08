@@ -13,7 +13,7 @@ extra:
   intro: 'రచన: కీ.శే.కవికాకి జైసీతారాం గారు, కోగిర, రొద్దం‌మండలం, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2011/08/pata1.JPG", float="right") }}
+{{ Image(issue="2011/08", filename="pata1.JPG", float="right") }}
 
 <br><br>
 రామూ రామూ! పెద్దయినంక ఏమి చేస్తావు? 

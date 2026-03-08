@@ -20,7 +20,7 @@ extra:
     డప్పు: సతీష్, తొమ్మిదవ తరగతి.'
 ---
 
-{{ Image(name="/images/2009/04/chandamama.gif", float="right") }}
+{{ Image(issue="2009/04", filename="chandamama.gif", float="right") }}
 
 
 <pre class="song">

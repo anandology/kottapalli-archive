@@ -19,7 +19,7 @@ extra:
     రచన:  నరేష్, 6వ తరగతి'
 ---
 
-{{ Image(name="/images/2008/08/balavantudu.gif", float="right") }}
+{{ Image(issue="2008/08", filename="balavantudu.gif", float="right") }}
 
 ఒకనాడు ఒక బలవంతుడు సోము దగ్గరకు వచ్చి ఇలా అన్నాడు:
 

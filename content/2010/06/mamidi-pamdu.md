@@ -13,7 +13,7 @@ extra:
   intro: కె.లోహిత, యు కె జి, విజ్డం స్కూల్.
 ---
 
-{{ Image(name="/images/2010/06/Mamidi.jpg", float="right") }}
+{{ Image(issue="2010/06", filename="Mamidi.jpg", float="right") }}
 
 
 మామా మామా మామిడి పండు 

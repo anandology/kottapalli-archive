@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/05
 ---
 
-{{ Image(name="/images/2012/05/valasa2.gif", float="right") }}
+{{ Image(issue="2012/05", filename="valasa2.gif", float="right") }}
 
 "రామూ! త్వరగా రెడీ అవ్వు" అని అమ్మ అంది. "మనం చాలా దూరం  వెళ్లాలి- తొందరగా రెడీ అవ్వు!" 
 

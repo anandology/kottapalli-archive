@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: రాశి, శిరీష, మూడవ తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి'
 ---
 
-{{ Image(name="/images/2008/11/chamanti.gif", float="right") }}
+{{ Image(issue="2008/11", filename="chamanti.gif", float="right") }}
 
 <pre class="song">
 ఊరు ఊరు మాఊరు

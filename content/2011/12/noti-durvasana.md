@@ -12,4 +12,4 @@ extra:
   issue_name: డిసెంబర్ 2011
 ---
 
-{{ Image(name="/images/2011/12/cs1.jpg", float="center") }}
+{{ Image(issue="2011/12", filename="cs1.jpg", float="center") }}

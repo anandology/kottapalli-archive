@@ -14,9 +14,9 @@ extra:
   redirect: /dashboard/2015/11
 ---
 
-{{ Image(name="/images/2015/11/tinkitop.jpg", float="center") }}
+{{ Image(issue="2015/11", filename="tinkitop.jpg", float="center") }}
 
-{{ Image(name="/images/2015/11/tinki1.jpg", float="left") }}
+{{ Image(issue="2015/11", filename="tinki1.jpg", float="left") }}
 
 <br><br>
 
@@ -24,7 +24,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2015/11/tinki2.jpg", float="right") }}
+{{ Image(issue="2015/11", filename="tinki2.jpg", float="right") }}
 
 <br>
 
@@ -32,7 +32,7 @@ extra:
 
 <br><br><br><br><br>
 
-{{ Image(name="/images/2015/11/tinki3.jpg", float="left") }}
+{{ Image(issue="2015/11", filename="tinki3.jpg", float="left") }}
 
 <br><br>
 
@@ -40,7 +40,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2015/11/tinki4.jpg", float="right") }}
+{{ Image(issue="2015/11", filename="tinki4.jpg", float="right") }}
 
 <br><br>
 
@@ -50,7 +50,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2015/11/tinki5.jpg", float="left") }}
+{{ Image(issue="2015/11", filename="tinki5.jpg", float="left") }}
 
 పింకీ, చంకీ ఐస్‌క్రీములు చేత బట్టుకొని అక్కడే నిలబడ్డాయి. "ఇంటికెళ్లి డబ్బులు తీసుకురా, టింకీ! గబుక్కున వచ్చేయి!" అని టింకీని ఇంటికి పంపించాయి. 'సరే' అని బయల్దేరింది టింకీ. 
 
@@ -58,7 +58,7 @@ extra:
 
 అరగంట దాటింది.. ఇంకా రాలేదు టింకీ. ఆలోగా ఐస్‌క్రీం మొత్తం కరిగిపోయి కారటం మొదలెట్టింది. "అయ్యో ఐస్‌క్రీం మొత్తం కారిపోతోందే" అని ఏడుపు మొహంతో  దాన్ని నాకెయ్యబోయారు పింకీ-చంకీలు. 
 
-{{ Image(name="/images/2015/11/tinki6.jpg", float="right") }}
+{{ Image(issue="2015/11", filename="tinki6.jpg", float="right") }}
 
 <br>
 
@@ -66,7 +66,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2015/11/tinki7.jpg", float="left") }}
+{{ Image(issue="2015/11", filename="tinki7.jpg", float="left") }}
 
 <br>
 

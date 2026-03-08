@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2015/04
 ---
 
-{{ Image(name="/images/2015/04/bk1.jpg", float="left") }}
+{{ Image(issue="2015/04", filename="bk1.jpg", float="left") }}
 
 ఒకసారి ఓ వెంగళప్ప పని కోసం వెతుక్కుంటూ ఇల్లిల్లూ తిరగసాగాడు "అయ్యా! నాకు ఏమైనా పని ఉంటే ఇవ్వండయ్యా. ఇంతకు ముందు ఒక ఇంట్లో పనోడిగా చేశాను" అంటూ.     
 
@@ -22,7 +22,7 @@ extra:
 
 "అయ్యా, అదే నాకు అర్థం కాలేదయ్యా" చెప్పాడు వెంగళప్ప- "మా యజమాని ఒకసారి 'కాళ్లు నొప్పి, కాళ్లునొప్పి' అన్నాడయ్యా. నేను ఆయన కాళ్లు పిసికాను. బాగుందన్నాడు.    
 
-{{ Image(name="/images/2015/04/bk2.jpg", float="right") }}
+{{ Image(issue="2015/04", filename="bk2.jpg", float="right") }}
 
 <br>
 
@@ -32,7 +32,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2015/04/bk3.jpg", float="left") }}
+{{ Image(issue="2015/04", filename="bk3.jpg", float="left") }}
 
 <br>
 
@@ -44,7 +44,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2015/04/bk4.jpg", float="right") }}
+{{ Image(issue="2015/04", filename="bk4.jpg", float="right") }}
 
 
 
@@ -58,7 +58,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2015/04/bk5.jpg", float="left") }}
+{{ Image(issue="2015/04", filename="bk5.jpg", float="left") }}
 
 "అయ్యా! నేను మీవాడిని బయటికి తీసుకెళ్ళానా, ముందు వాడు బయట ఇసుకలో ఆడుకుంటానన్నాడు. నేను వాడిని ఇసకలో వదిలేశాను.  కొద్దిసేపటికి తిరిగి వచ్చి, "ఇప్పుడు పార్కులో ఆడుకుంటా" అన్నాడు. "సరేలే" అని వాడిని తీసుకెళ్ళి పార్కులో వదిలేశాను.      
 

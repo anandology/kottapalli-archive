@@ -13,14 +13,14 @@ extra:
   intro: 'గానం: ఎం.రాశి మరియు ఆర్.శిరీష, ఐదవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి.
 
 
-    {{ Image(name="/images/2009/08/sirisharasi.gif", float="thumb") }}
+    {{ Image(issue="2009/08", filename="sirisharasi.gif", float="thumb") }}
 
 
 
     డప్పు: ఇ. పోతులయ్య, ఎనిమిదవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2009/08/jejelamma.gif", float="right") }}
+{{ Image(issue="2009/08", filename="jejelamma.gif", float="right") }}
 
 
 జేజేలమ్మా జేజేలు

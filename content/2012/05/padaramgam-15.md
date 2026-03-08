@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/05
 ---
 
-{{ Image(name="/images/2012/05/pada15.jpg", float="left") }}
+{{ Image(issue="2012/05", filename="pada15.jpg", float="left") }}
 
 ఆధారాలు: 		
 
@@ -46,7 +46,7 @@ extra:
 
 
 
-{{ Image(name="/images/2012/05/padarangam14solution.jpg", float="right") }}
+{{ Image(issue="2012/05", filename="padarangam14solution.jpg", float="right") }}
 
 పదరంగం -14కి సరైన సమాధానం రాసి పంపిన  పిల్లలు:
 

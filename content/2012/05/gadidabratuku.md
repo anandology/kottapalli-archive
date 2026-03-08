@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/05
 ---
 
-{{ Image(name="/images/2012/05/bommaki_kata_1.jpg", float="center") }}
+{{ Image(issue="2012/05", filename="bommaki_kata_1.jpg", float="center") }}
 
 
 అనగనగా  ఒక  ఊరిలో ఒక  అమ్మ, అవ్వ, బాబు  ఉండేవారు. ఒక  రోజు  వాళ్ళు  ముగ్గురూ ప్రక్క  ఊరికి  బయలుదేరారు. దారిలో వాళ్లకు  ఒక  గాడిద పిల్ల   కనిపించింది. 

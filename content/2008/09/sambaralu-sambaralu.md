@@ -21,7 +21,7 @@ extra:
     గానం:  రోజా, ఎనిమిదో తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2008/09/samaralusamaralu.gif", float="right") }}
+{{ Image(issue="2008/09", filename="samaralusamaralu.gif", float="right") }}
 
 <pre class="song">
 సంబరాలు సంబరాలు ఎన్నీయల్లో, మరి పాతా పంటా  ఎన్నీయల్లో

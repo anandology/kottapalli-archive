@@ -13,7 +13,7 @@ extra:
   intro: 'రచన: లలిత, telugu4kids.com'
 ---
 
-{{ Image(name="/images/2010/07/ammadonga.JPG", float="center") }}
+{{ Image(issue="2010/07", filename="ammadonga.JPG", float="center") }}
 
 సంచీ నిండా పుస్తకాలు.   
 

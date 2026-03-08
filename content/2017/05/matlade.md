@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2017/05
 ---
 
-{{ Image(name="/images/2017/05/purre1.jpg", float="center") }}
+{{ Image(issue="2017/05", filename="purre1.jpg", float="center") }}
 
 ఒకసారి ఓ వేటగాడు అడవిలో తిరుగుతూ ఒక పొదను చూసాడు. 
 ఆ పొద మాటున అతనికి ఒక పుర్రె కనబడింది. 

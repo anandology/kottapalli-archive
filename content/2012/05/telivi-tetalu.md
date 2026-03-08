@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/05
 ---
 
-{{ Image(name="/images/2012/05/raitu_biddala_telivi1.jpg", float="center") }}
+{{ Image(issue="2012/05", filename="raitu_biddala_telivi1.jpg", float="center") }}
 
 సోమయ్య ,రాజయ్య, బసవయ్య  ముగ్గురూ  చాలా  తెలివైనవాళ్లని ప్రతీతి. ఆ  ఊరిలోనే  వీళ్లంత   తెలివైనవాళ్ళు  లేరు. 
 

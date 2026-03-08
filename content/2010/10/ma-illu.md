@@ -13,7 +13,7 @@ extra:
   intro: 'రచన: G.లలిత, <a href="http://telugu4kids.com">telugu4kids.com</a>'
 ---
 
-{{ Image(name="/images/2010/10/illu4.jpg", float="right") }}
+{{ Image(issue="2010/10", filename="illu4.jpg", float="right") }}
 
 అమ్మ అంటుంది కదా,   
 "మన ఇల్లొక అడవి!    
@@ -27,7 +27,7 @@ extra:
 
 
 
-{{ Image(name="/images/2010/10/illu3.jpg", float="left") }}
+{{ Image(issue="2010/10", filename="illu3.jpg", float="left") }}
 
 
 నాన్న అంటారు,      
@@ -43,7 +43,7 @@ extra:
 
 
 
-{{ Image(name="/images/2010/10/illu2.jpg", float="right") }}
+{{ Image(issue="2010/10", filename="illu2.jpg", float="right") }}
 
 
 మా స్నేహితులంటారు,   
@@ -63,7 +63,7 @@ extra:
 
 
 
-{{ Image(name="/images/2010/10/illu1.jpg", float="left") }}
+{{ Image(issue="2010/10", filename="illu1.jpg", float="left") }}
 
 మా నాయనమ్మ అంటుంది,     
 "మన ఇల్లు కావాలి ఒక దేవాలయం!     

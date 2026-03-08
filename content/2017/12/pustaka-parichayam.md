@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2017/12
 ---
 
-{{ Image(name="/images/2017/12/shahin1.jpg", float="left") }}
+{{ Image(issue="2017/12", filename="shahin1.jpg", float="left") }}
 
 సిరియా దేశంలో అంతర్యుద్ధం జరుగుతోంది. సైన్యానికి, తిరుగుబాటు దారులకి మధ్య తీవ్రమైన యుద్ధం.. అమెరికా వాళ్లు తిరుగుబాటు దారుల పక్షం, రష్యా వాళ్లు సైన్యపు పక్షం..చమురు నిల్వల కోసం అధిపత్యపు పోరు.. 
 
@@ -27,7 +27,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2017/12/shahin2.jpg", float="right") }}
+{{ Image(issue="2017/12", filename="shahin2.jpg", float="right") }}
 
 <br>
 

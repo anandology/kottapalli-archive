@@ -12,7 +12,7 @@ extra:
   issue_name: మార్చి 2011
 ---
 
-{{ Image(name="/images/2011/03/pressure.jpg", float="right") }}
+{{ Image(issue="2011/03", filename="pressure.jpg", float="right") }}
 
 <br>
 <br>
@@ -22,7 +22,7 @@ extra:
 సొమూ : ప్రెషర్  కుక్కర్.    
 <br>
 
-{{ Image(name="/images/2011/03/jyothishyam.jpg", float="left") }}
+{{ Image(issue="2011/03", filename="jyothishyam.jpg", float="left") }}
 
 
 
@@ -33,7 +33,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2011/03/doctor.jpg", float="right") }}
+{{ Image(issue="2011/03", filename="doctor.jpg", float="right") }}
 
 
 <b>పడిపోండి!</b>      
@@ -45,14 +45,14 @@ extra:
 
 <b>సరళరేఖ!</b>
 
-{{ Image(name="/images/2011/03/saralarekha.jpg", float="left") }}
+{{ Image(issue="2011/03", filename="saralarekha.jpg", float="left") }}
 
 
 టీచర్ : ఏరా,రవీ! సరళ రేఖ  గురించి  చెప్పరా.   
 రవి:  మరేమోనండీ, సరళ  మా  అక్కండి; రేఖ  మా పక్కింటి  అమ్మాయండీ; వీళ్ళిద్దరూ  మంచి స్నేహితులండి!    
 
 
-{{ Image(name="/images/2011/03/mask.jpg", float="right") }}
+{{ Image(issue="2011/03", filename="mask.jpg", float="right") }}
 
 <br><br><br><br><br><br>
 

@@ -21,7 +21,7 @@ extra:
     గానం:  తిరుపాలు. ఏడవతరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2008/08/baratundelina.gif", float="right") }}
+{{ Image(issue="2008/08", filename="baratundelina.gif", float="right") }}
 
 భరతుండేలినా బంగారు మనదేశం    
 భరతుండేలినా బంగారు మనదేశం    

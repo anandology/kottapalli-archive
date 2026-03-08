@@ -13,7 +13,7 @@ extra:
   intro: 'పాడిన చిన్నారులు: వసంత మరియు సౌజన్య, 4వ తరగతి, ఫ్రకృతి బడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2008/07/nestalu.gif", float="right") }}
+{{ Image(issue="2008/07", filename="nestalu.gif", float="right") }}
 
 
 మంచి మార్గం చూపేవారు  

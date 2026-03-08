@@ -17,7 +17,7 @@ extra:
     అని ఆలోచించి చెప్పండి.
 ---
 
-{{ Image(name="/images/2008/09/bendakayanta_bramhanudu.gif", float="right") }}
+{{ Image(issue="2008/09", filename="bendakayanta_bramhanudu.gif", float="right") }}
 
 **పవన్ కుమార్, మదర్ థెరిస్సా బాలల సంఘం, కొత్తగేరి చెప్పిన బెండకాయంత బ్రాహ్మణుని కథ:**
 
@@ -25,7 +25,7 @@ extra:
 
 <p align="center" style="clear: right">***</p>
 
-{{ Image(name="/images/2008/09/cinthakayantacinnodu.gif", float="right") }}
+{{ Image(issue="2008/09", filename="cinthakayantacinnodu.gif", float="right") }}
 
 **బ్రహ్మేంద్ర, 7వ తరగతి, టింబక్టు బడి, చెన్నేకొత్తపల్లి చెప్పిన చింతకాయంత చిన్నోని కథ:**
 
@@ -33,7 +33,7 @@ extra:
 
 <p align="center" style="clear: right">***</p>
 
-{{ Image(name="/images/2008/09/beerakayantabeerava.gif", float="right") }}
+{{ Image(issue="2008/09", filename="beerakayantabeerava.gif", float="right") }}
 
 **గంగమ్మక్క, టింబక్టు బడి చెప్పిన చింతకాయంత చిన్నోని కథ:**
 

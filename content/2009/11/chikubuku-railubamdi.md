@@ -13,13 +13,13 @@ extra:
   intro: '<br>
 
 
-    {{ Image(name="/images/2009/11/Chiku_buk_chiku_buk.jpg", float="thumb") }}
+    {{ Image(issue="2009/11", filename="Chiku_buk_chiku_buk.jpg", float="thumb") }}
 
 
     గానం: యం.రాశి(5వ త.), ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురంజిల్లా.'
 ---
 
-{{ Image(name="/images/2009/11/cukubuku_railu_bandi.gif", float="right") }}
+{{ Image(issue="2009/11", filename="cukubuku_railu_bandi.gif", float="right") }}
 
 చిక్ బుక్ చిక్ బుక్ రైలు బండి  
 పెట్టెలు పెట్టెలు లాగేబండి     

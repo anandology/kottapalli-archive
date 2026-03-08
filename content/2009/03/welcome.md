@@ -16,7 +16,7 @@ extra:
 
 సామాన్యుడు  మాత్రం  ఉన్న చోటే  కూర్చొని  ప్రశాంతంగా  చూస్తున్నాడు.  
 
-{{ Image(name="/images/2009/03/svagatam.gif", float="center") }}
+{{ Image(issue="2009/03", filename="svagatam.gif", float="center") }}
 
 
 సాధువు  అతన్ని  సమీపించి  అడిగాడు: " నేను ఇప్పుడు ఏం చేశానో చూశావా?" అని.

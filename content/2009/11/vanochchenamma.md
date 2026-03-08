@@ -18,7 +18,7 @@ extra:
     అనంతపురంజిల్లా.'
 ---
 
-{{ Image(name="/images/2009/11/vache_vache_vana.gif", float="right") }}
+{{ Image(issue="2009/11", filename="vache_vache_vana.gif", float="right") }}
 
 వానొచ్చెనమ్మా వరదొచ్చెనమ్మా   
 పనిలోని పిల్లగాడు బడికొచ్చెనమ్మా   

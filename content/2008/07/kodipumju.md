@@ -16,7 +16,7 @@ extra:
     పాడిన చిన్నారులు: అంజలి బృందం'
 ---
 
-{{ Image(name="/images/2008/07/kodipunju.gif", float="right") }}
+{{ Image(issue="2008/07", filename="kodipunju.gif", float="right") }}
 
 కోడిపుంజు కోడిపుంజు టైమెంత టైమెంత?  
 ఐదు గంటలు కొక్కొరొకో  ఐదు గంటలు కొక్కొరొకో  

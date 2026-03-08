@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2013/06
 ---
 
-{{ Image(name="/images/2013/06/c1.jpg", float="left") }}
+{{ Image(issue="2013/06", filename="c1.jpg", float="left") }}
 
 
 <br><br>
@@ -23,7 +23,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2013/06/c2.jpg", float="right") }}
+{{ Image(issue="2013/06", filename="c2.jpg", float="right") }}
 
 
 <br><br><br><br>
@@ -31,14 +31,14 @@ extra:
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/06/c3.jpg", float="left") }}
+{{ Image(issue="2013/06", filename="c3.jpg", float="left") }}
 
 
 <br><br><br><br>
 కొన్నాళ్ళు గడిచాయి. కుందేలు ఒక బొరియ తవ్వుతూ ఉంది. హఠాత్తుగా ఒక నక్క అక్కడికి వచ్చింది. కుందేలు మీద దాడి చేయడానికి ప్రయత్నించింది. నక్కను చూసి కుందేలు భయంతో కేకలు పెట్టింది. 
 <br><br><br><br>
 
-{{ Image(name="/images/2013/06/c4.jpg", float="right") }}
+{{ Image(issue="2013/06", filename="c4.jpg", float="right") }}
 
 
 <br><br><br>
@@ -46,7 +46,7 @@ extra:
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/06/c5.jpg", float="left") }}
+{{ Image(issue="2013/06", filename="c5.jpg", float="left") }}
 
 
 <br><br><br><br>

@@ -16,27 +16,27 @@ extra:
 నీళ్ళ విత్తనం
 సేకరణ, చిత్రాలు: వినయ్, జెయన్‌టీయూ, హైదరాబాదు.
 
-{{ Image(name="/images/2013/03/a.jpg", float="left") }}
+{{ Image(issue="2013/03", filename="a.jpg", float="left") }}
 
 <br><br>
 అనగనగా ఒక రాజ్యంలో విపరీతమైన నీటి సమస్య  నెలకొన్నది.  ఆ రాజ్యంలోని చెరువులు, నదులు అన్నీ ఎండిపోయి ప్రజలందరూ దాహంతో విలవిలలాడారు.  నీటి సమస్యను గురించి రాజుగారితో విన్నవించుకోవాలనుకున్నారు అందరూ. 
 <br><br><br>
 
-{{ Image(name="/images/2013/03/b.jpg", float="right") }}
+{{ Image(issue="2013/03", filename="b.jpg", float="right") }}
 
 <br><br>
 రాజుగారికి రాజ్యంలోని నీటి సమస్య గురించి పూసగుచ్చినట్లు వివరించారు మంత్రులు .  
 <br><br><br>
 
 
-{{ Image(name="/images/2013/03/c.jpg", float="left") }}
+{{ Image(issue="2013/03", filename="c.jpg", float="left") }}
 
 <br><br>
 రాజుగారు సమస్య పరిష్కారం కోసం తీవ్రంగా ఆలోచించారు.
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/03/d.jpg", float="right") }}
+{{ Image(issue="2013/03", filename="d.jpg", float="right") }}
 
 
 <br><br>
@@ -44,7 +44,7 @@ extra:
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/03/e.jpg", float="left") }}
+{{ Image(issue="2013/03", filename="e.jpg", float="left") }}
 
 
 <br><br>
@@ -52,7 +52,7 @@ extra:
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/03/f.jpg", float="right") }}
+{{ Image(issue="2013/03", filename="f.jpg", float="right") }}
 
 
 <br><br>
@@ -61,39 +61,39 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2013/03/g.jpg", float="left") }}
+{{ Image(issue="2013/03", filename="g.jpg", float="left") }}
 
 <br><br>
 పెద్ద మంచు కొండనొకదాన్ని  పెకలించి, చక్రాల బండి మీదికి ఎక్కించి అతి కష్టం మీద తమ రాజ్యానికి తీసుకు వచ్చాడు.  ఆ క్రమంలో మంచు కొండ చాలానే కరిగిపోయింది. చిన్న ముద్ద మాత్రం మిగిలిందిప్పుడు.  రాజుగారు  దాన్ని చూసి 'ఇది మంచు విత్తనమే. దీన్ని మనరాజ్యంలో నాటండి' అని ఆదేశించారు.
 <br><br>
 
-{{ Image(name="/images/2013/03/j.jpg", float="right") }}
+{{ Image(issue="2013/03", filename="j.jpg", float="right") }}
 
 <br><br>
 జనాలు మంచుముద్దను ప్రక్కన పెట్టి, నేలను త్రవ్వటం మొదలు పెట్టారు.  
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/03/k.jpg", float="left") }}
+{{ Image(issue="2013/03", filename="k.jpg", float="left") }}
 
 <br><br>
 వాళ్ళు నేలను త్రవ్వుతూ పోతుంటే, మంచుగడ్డ కరుగుతూ పోయింది.
 <br><br><br><br>
 
-{{ Image(name="/images/2013/03/l.jpg", float="right") }}
+{{ Image(issue="2013/03", filename="l.jpg", float="right") }}
 
 <br><br>
 'విత్తనం మొలకెత్తుతున్నట్లుంది.. త్వరగా నాటండి' అని అందరూ  హడావుడి పడ్డారు. అయితే ఆ మంచు గడ్డను గుంతలోకి చేర్చేసరికి అది పూర్తిగా కరిగే పోయింది.  త్రవ్వేవాళ్ళు దానికోసం వెతుక్కోవాల్సి వచ్చింది!
 <br><br><br><br>
 
-{{ Image(name="/images/2013/03/m.jpg", float="left") }}
+{{ Image(issue="2013/03", filename="m.jpg", float="left") }}
 
 <br><br>
 'విత్తనం  నేలలోకే  జారిపోయినట్లుంది. సరిగ్గా కూర్చున్నదో‌లేదో- త్రవ్వి , దాన్ని తీసి సరిగ్గా కూర్చోబెట్టాలి.  ఇంకా త్రవ్వండి' అన్నారంతా. వాళ్లు గుంతను ఇంకా ఇంకా త్రవ్వుతూ పోయారు. 
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/03/n.jpg", float="right") }}
+{{ Image(issue="2013/03", filename="n.jpg", float="right") }}
 
 <br><br>
 ఎంత త్రవ్వినా, మంచు గడ్డ మాత్రం దొరకనే లేదు.
@@ -101,14 +101,14 @@ extra:
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/03/o.jpg", float="left") }}
+{{ Image(issue="2013/03", filename="o.jpg", float="left") }}
 
 <br><br>
 తెల్లవారింది. నీటివిత్తనం నాటేందుకు వెళ్ళిన వాళ్ళు ఎంతకీ తిరిగి రాలేదేమని  అక్కడికే వచ్చారు రాజుగారు కూడా. అందరూ  గుంతలోకి  చూసే సరికి - ఆశ్చర్యం! గుంతంతా నీళ్ళతో‌  నిండిపోయి ఉన్నది!
 <br><br><br><br>
 
 
-{{ Image(name="/images/2013/03/p.jpg", float="right") }}
+{{ Image(issue="2013/03", filename="p.jpg", float="right") }}
 
 <br><br>
 అందరూ సంతోషంగా కేకలు వేశారు- నీళ్ళవిత్తనం మొలకెత్తిందని గంతులు వేశారు.

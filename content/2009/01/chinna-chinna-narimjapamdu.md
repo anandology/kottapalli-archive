@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: నందన, రెండవ తరగతి, టింబక్టు బడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/01/cinni_narenji_pandu.gif", float="right") }}
+{{ Image(issue="2009/01", filename="cinni_narenji_pandu.gif", float="right") }}
 
 <pre class="song">
 చిన్న చిన్న నారింజపండు

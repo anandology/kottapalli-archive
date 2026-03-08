@@ -13,7 +13,7 @@ extra:
   intro: 'రచన: నారాయణ, కొత్తపల్లి బృందం.'
 ---
 
-{{ Image(name="/images/2010/01/topilakata.gif", float="center") }}
+{{ Image(issue="2010/01", filename="topilakata.gif", float="center") }}
 
 ఒక ఇంట్లో రెండు టోపీలు ఉండేవి.
 

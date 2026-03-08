@@ -17,10 +17,10 @@ extra:
 అడ్డం-నిలువు ఆధారాల సహాయంతో ఈ క్రింది గళ్ళనుడికట్టును నింపగలరేమో చూడండి.  నింపిన పదరంగాన్ని కేవలం పోస్టు కార్డుపై రాసి, మాకు అందేట్లు పంపండి. దానిలో మీపేరు, బడిపేరు, మీవాళ్ళ ఫోను నంబరు తప్పక రాయండి.  సరైన సమాధానం రాసి ఎంపికైన ముగ్గురు పిల్లలకు కొత్తపల్లి-72 ముద్రిత ప్రతిని బహుమతిగా పంపిస్తాం!      
 ప్రయత్నించండి మరి!
 
-{{ Image(name="/images/2014/08/padabox.jpg", float="center") }}
+{{ Image(issue="2014/08", filename="padabox.jpg", float="center") }}
 
 
-{{ Image(name="/images/2014/08/padaaddam.jpg", float="left") }}
+{{ Image(issue="2014/08", filename="padaaddam.jpg", float="left") }}
 
 
-{{ Image(name="/images/2014/08/padaniluvu.jpg", float="right") }}
+{{ Image(issue="2014/08", filename="padaniluvu.jpg", float="right") }}

@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2015/03
 ---
 
-{{ Image(name="/images/2015/03/amma1.jpg", float="center") }}
+{{ Image(issue="2015/03", filename="amma1.jpg", float="center") }}
 
 "అనగనగా ఒక చెట్టు. ఆ చెట్టు కింద ఒక పుట్ట" అని అన్నది అమ్మ ఎప్పటిలాగానే, తన పాపకోసం కథ మొదలు పెడుతూ. 
 
@@ -40,7 +40,7 @@ extra:
 
 మిగిలిన  పిల్లలన్నీ భయంతో కెవ్వుమని అరిచాయి- హాహాకారాలు చేశాయి" 
 
-{{ Image(name="/images/2015/03/amma2.jpg", float="left") }}
+{{ Image(issue="2015/03", filename="amma2.jpg", float="left") }}
 
 అమ్మ కథ ఆపింది- పాప కళ్ళలో నీళ్ళు- "కాకి పిల్ల ఇంక రాలేదా, పాపం?!" అన్నది. 
 

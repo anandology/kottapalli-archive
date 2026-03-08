@@ -14,7 +14,7 @@ extra:
     చెన్నూరు మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{ Image(name="/images/2008/12/jeedi_pappu.gif", float="right") }}
+{{ Image(issue="2008/12", filename="jeedi_pappu.gif", float="right") }}
 
 <pre class='song'>
 అమ్మమ్మ -  జీడిపప్పు  మాడిపోతాంది

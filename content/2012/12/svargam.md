@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/12
 ---
 
-{{ Image(name="/images/2012/12/svargam.jpg", float="center") }}
+{{ Image(issue="2012/12", filename="svargam.jpg", float="center") }}
 
 ధర్మాపురంలోకెల్లా  పెద్ద ధనికుడు ధర్మయ్య. చాలా డబ్బులు, పలుకుబడి, రాజకీయ చతురత ఉన్నై, అతనికి. అధికారుల్లో  అతనికి తెలియని వారంటూ  లేరు.  
 

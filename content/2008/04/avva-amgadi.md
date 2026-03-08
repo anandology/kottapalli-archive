@@ -13,13 +13,13 @@ extra:
   intro: 'అవ్వ అంగడికి పోతూ పోతూ తియ్యని కుడాలు చాలా చేసింది.  తరువాత ఏమైంది? -వినండి.
 
 
-    {{ Image(name="/images/2008/04/samara.gif", float="thumb") }}
+    {{ Image(issue="2008/04", filename="samara.gif", float="thumb") }}
 
 
     పాట పాడిన చిన్నారి: సమర, 1వ తరగతి.'
 ---
 
-{{ Image(name="/images/2008/04/avva_santhaku.jpg", float="left") }}
+{{ Image(issue="2008/04", filename="avva_santhaku.jpg", float="left") }}
 
 అవ్వ అంగడి పోయింది  
 తియ్యని బెల్లం తెచ్చింది  

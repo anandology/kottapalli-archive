@@ -18,7 +18,7 @@ extra:
     గానం, డప్పు: సతీష్, ఎనిమిదో తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2008/08/adigadigo.gif", float="right") }}
+{{ Image(issue="2008/08", filename="adigadigo.gif", float="right") }}
 
 అదిగదిగో ఆకసాన  ఎగురుతోంది  రాజసాన  
 అదిగదిగో ఆకసాన  ఎగురుతోంది  రాజసాన  

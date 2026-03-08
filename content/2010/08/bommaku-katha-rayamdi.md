@@ -13,7 +13,7 @@ extra:
   intro: "నిర్వహణ: లలిత, telugu4kids.com          \nచిత్రం: అభిరామ్ గోదావరి."
 ---
 
-{{ Image(name="/images/2010/08/bhayam.JPG", float="center") }}
+{{ Image(issue="2010/08", filename="bhayam.JPG", float="center") }}
 
 ఇక్కడున్న బొమ్మను చూడండి-  
 కొంచెం జాగ్రత్తగా-   

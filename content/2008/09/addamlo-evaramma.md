@@ -16,7 +16,7 @@ extra:
     \ ప్రకృతిబడి, చెన్నేకొత్తపల్లి."
 ---
 
-{{ Image(name="/images/2008/09/addamloevaramma.gif", float="right") }}
+{{ Image(issue="2008/09", filename="addamloevaramma.gif", float="right") }}
 
 <pre class="song">
 అద్దంలొ ఎవరమ్మా, 

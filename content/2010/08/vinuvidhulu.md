@@ -14,7 +14,7 @@ extra:
     \ అఖిల, 9వ తరగతి, విద్యార్థి సృజన కుటీర్ , విజయవాడ."
 ---
 
-{{ Image(name="/images/2010/08/vinu.JPG", float="right") }}
+{{ Image(issue="2010/08", filename="vinu.JPG", float="right") }}
 
 వినువీధులలో ఎగిరే జండా-   
 విశ్వానికి  కన్నుల  నిండ -   

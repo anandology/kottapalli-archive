@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2016/12
 ---
 
-{{ Image(name="/images/2016/12/telivi1.jpg", float="center") }}
+{{ Image(issue="2016/12", filename="telivi1.jpg", float="center") }}
 
 అనగనగా ఒక తండ్రి. ఆయనకు ముగ్గురు పిల్లలు. ముగ్గురూ చాలా తెలివైన వాళ్లు. 
 
@@ -37,7 +37,7 @@ extra:
 
 'అవునా?! మరి చూడకుండా ఇవన్నీ ఎలా చెప్పారు?!' అన్నాడు పెద్ద మనిషి , కొంచెం అనుమానంగా.
 
-{{ Image(name="/images/2016/12/telivi2.jpg", float="left") }}
+{{ Image(issue="2016/12", filename="telivi2.jpg", float="left") }}
 
 'మా తెలివి తేటలతో చెప్పాం' అన్నారు అన్నదమ్ములు.
 
@@ -68,7 +68,7 @@ extra:
 
 'అవి మామిడి కాయలు!' అన్నాడు మూడోవాడు. 
 
-{{ Image(name="/images/2016/12/telivi3.jpg", float="right") }}
+{{ Image(issue="2016/12", filename="telivi3.jpg", float="right") }}
 
 "నిజమే ప్రభూ!‌ వీళ్ళు సరిగా కనుక్కున్నారు!" అన్నారు భటులు, పెట్టె మూత తెరిచి చూపిస్తూ. 
 

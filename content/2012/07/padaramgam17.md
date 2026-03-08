@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/07
 ---
 
-{{ Image(name="/images/2012/07/padarangam17mazeonly.jpg", float="left") }}
+{{ Image(issue="2012/07", filename="padarangam17mazeonly.jpg", float="left") }}
 
 **ఆధారాలు:                 **
 
@@ -47,7 +47,7 @@ extra:
 
 **పదరంగం 16 కు సరైన జవాబు   : **     
 
-{{ Image(name="/images/2012/07/pada16solution.jpg", float="right") }}
+{{ Image(issue="2012/07", filename="pada16solution.jpg", float="right") }}
 
 ఈసారి సరైన సమాధానం రాసిన వాళ్ళు:     
 1. కె. ప్రకాశ్, 4వతరగతి, మహీంద్రహైస్కూల్, జహీరాబాద్.    

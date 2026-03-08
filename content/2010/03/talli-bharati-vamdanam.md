@@ -15,7 +15,7 @@ extra:
     \ టింబక్టు బడి."
 ---
 
-{{ Image(name="/images/2010/03/baratamata.gif", float="right") }}
+{{ Image(issue="2010/03", filename="baratamata.gif", float="right") }}
 
 తల్లి భారతి వందనమమ్మా  
 నీఇల్లే  మా నందనమమ్మా    

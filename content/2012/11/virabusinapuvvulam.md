@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/11
 ---
 
-{{ Image(name="/images/2012/11/pata7.jpg", float="right") }}
+{{ Image(issue="2012/11", filename="pata7.jpg", float="right") }}
 
 విరబూసిన పువ్వులం చిరునవ్వుల బాలలం    
 లోగిలో తిరిగాడు చిన్ని చందమామలం     

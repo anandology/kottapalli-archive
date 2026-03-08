@@ -12,7 +12,7 @@ extra:
   issue_name: జులై 2009
 ---
 
-{{ Image(name="/images/2009/07/obayya.jpeg", float="right") }}
+{{ Image(issue="2009/07", filename="obayya.jpeg", float="right") }}
 
 ఓబయ్య ఒక తాత ఓడ చేసెను
 

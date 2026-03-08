@@ -18,7 +18,7 @@ extra:
   redirect: /dashboard/2014/09
 ---
 
-{{ Image(name="/images/2014/09/ms1.jpg", float="right") }}
+{{ Image(issue="2014/09", filename="ms1.jpg", float="right") }}
 
 <br>
 మైత్రీం భజతాం అఖిల హృద్ జేత్రీం    

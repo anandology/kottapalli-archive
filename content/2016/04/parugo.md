@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2016/04
 ---
 
-{{ Image(name="/images/2016/04/bk1.jpg", float="left") }}
+{{ Image(issue="2016/04", filename="bk1.jpg", float="left") }}
 
 <br><br>
 
@@ -24,7 +24,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2016/04/bk2.jpg", float="right") }}
+{{ Image(issue="2016/04", filename="bk2.jpg", float="right") }}
 
 
 
@@ -38,7 +38,7 @@ extra:
 
 
 
-{{ Image(name="/images/2016/04/bk3.jpg", float="left") }}
+{{ Image(issue="2016/04", filename="bk3.jpg", float="left") }}
 
 <br>
 "నువ్వు ఏ కుందేలు కోసం చూస్తున్నావు? చెమట పట్టిన కుందేలు కావాలా, చెమట లేని కుందేలు కావాలా, నీకు?" అని అడిగింది ఎలుగుబంటిని. 
@@ -47,7 +47,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2016/04/bk4.jpg", float="right") }}
+{{ Image(issue="2016/04", filename="bk4.jpg", float="right") }}
 
 
 "మరైతే ఈ చెట్టును ఊపు. కొంచెం గాలి తెప్పించు. నిన్ను చూసేసరికి భయంతో నాకు చెమటలు పట్టిపోతున్నాయి" అన్నది కుందేలు, చెట్టుమీద ఉన్న మర్కటం మామకు సైగ చేస్తూ. 
@@ -58,7 +58,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2016/04/bk5.jpg", float="left") }}
+{{ Image(issue="2016/04", filename="bk5.jpg", float="left") }}
 
 <br>
 

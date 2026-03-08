@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2014/09
 ---
 
-{{ Image(name="/images/2014/09/bapu.jpg", float="right") }}
+{{ Image(issue="2014/09", filename="bapu.jpg", float="right") }}
 
 
 మేఘాలమీద ఉరకలెత్తే గుర్రాన్ని తోలుతున్న ఈ రాజ కుమారుడిని చూడండి!

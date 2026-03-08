@@ -13,7 +13,7 @@ extra:
   intro: 'సేకరణ, కథనం: M.చంద్ర శేఖర్,  10వ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2010/09/tata.jpg", float="center") }}
+{{ Image(issue="2010/09", filename="tata.jpg", float="center") }}
 
 పిల్లలూ! నా బాధ ఏంటో చెబుతాను  వినండి. 
 

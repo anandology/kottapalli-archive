@@ -15,7 +15,7 @@ extra:
     \ విజయవాడ."
 ---
 
-{{ Image(name="/images/2011/03/smallforsongs2.JPG", float="right") }}
+{{ Image(issue="2011/03", filename="smallforsongs2.JPG", float="right") }}
 
 ఎంత అందమెంత అందమో-    
 ఈ జగతిని-    

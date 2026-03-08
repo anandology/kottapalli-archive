@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/07
 ---
 
-{{ Image(name="/images/2013/07/paapaayibanti.jpg", float="right") }}
+{{ Image(issue="2013/07", filename="paapaayibanti.jpg", float="right") }}
 
 **ఈ   బొమ్మను   చూ డండి; ఈ   కవితను చదవండి:    **
 <br>

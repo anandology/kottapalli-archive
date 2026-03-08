@@ -29,7 +29,7 @@ extra:
 
 "నన్ను ఆవు కుమ్ముతుందిరా పిట్టా!" అని తాత అన్నాడట. 
 
-{{ Image(name="/images/2009/09/guvvakata.gif", float="center") }}
+{{ Image(issue="2009/09", filename="guvvakata.gif", float="center") }}
 
 
 "సరే"నని ఆవుదగ్గరికెళ్లి, "ఆవూ! ఆవూ! నా కాలి ముల్లు తీస్తావా, ఆవూ?" అని అడిగిందట గువ్వ. 

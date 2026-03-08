@@ -16,7 +16,7 @@ extra:
     పాడిన చిన్నారి:'
 ---
 
-{{ Image(name="/images/2008/07/akkapettu.gif", float="right") }}
+{{ Image(issue="2008/07", filename="akkapettu.gif", float="right") }}
 
 
 అక్కా పెట్టూ - చుక్కా బొట్టు  

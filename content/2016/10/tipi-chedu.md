@@ -14,9 +14,9 @@ extra:
   redirect: /dashboard/2016/10
 ---
 
-{{ Image(name="/images/2016/10/teepi1.jpg", float="center") }}
+{{ Image(issue="2016/10", filename="teepi1.jpg", float="center") }}
 
-{{ Image(name="/images/2016/10/teepi2.jpg", float="left") }}
+{{ Image(issue="2016/10", filename="teepi2.jpg", float="left") }}
 
 <br><br>
 
@@ -25,7 +25,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2016/10/teepi3.jpg", float="right") }}
+{{ Image(issue="2016/10", filename="teepi3.jpg", float="right") }}
 
 
 "అమ్మా నాకు ఐస్క్రీమ్ కావాలి! ఇస్తావా?!” అని కేకలు పెట్టాడు. 
@@ -38,7 +38,7 @@ extra:
 
 
 
-{{ Image(name="/images/2016/10/teepi4.jpg", float="left") }}
+{{ Image(issue="2016/10", filename="teepi4.jpg", float="left") }}
 
 <br>
 
@@ -49,7 +49,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2016/10/teepi5.jpg", float="right") }}
+{{ Image(issue="2016/10", filename="teepi5.jpg", float="right") }}
 
 <br>
 

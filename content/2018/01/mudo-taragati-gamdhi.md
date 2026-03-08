@@ -19,7 +19,7 @@ extra:
   redirect: /dashboard/2018/01
 ---
 
-{{ Image(name="/images/2018/01/mudo.jpg", float="right") }}
+{{ Image(issue="2018/01", filename="mudo.jpg", float="right") }}
 
 మునుపు రైలునందు మూడు తరగతులు             
 ఉన్నవారి కొరకు 'ఒకటి'-'రెండు'        

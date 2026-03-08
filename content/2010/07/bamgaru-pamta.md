@@ -13,7 +13,7 @@ extra:
   intro: 'సేకరణ: బి.హరినాథ్ రెడ్డి, 8వతరగతి, ప్రకృతిబడి.'
 ---
 
-{{ Image(name="/images/2010/07/bangaru_panta.JPG", float="center") }}
+{{ Image(issue="2010/07", filename="bangaru_panta.JPG", float="center") }}
 
 ఒక రోజున  తైమూర్  పాదుషా గుర్రం మీద వేటకి  వెళ్తున్నాడు. దారిలో ఊరి బయట నసీరుద్దీన్ నేలను తవ్వుతూ కనిపించాడు. 
 

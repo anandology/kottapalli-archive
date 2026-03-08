@@ -17,7 +17,7 @@ extra:
     డప్పు: పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{ Image(name="/images/2009/01/post_card.gif", float="right") }}
+{{ Image(issue="2009/01", filename="post_card.gif", float="right") }}
 
 <pre class="song">
 పోస్టుకార్డూ పోస్టుకార్డూ

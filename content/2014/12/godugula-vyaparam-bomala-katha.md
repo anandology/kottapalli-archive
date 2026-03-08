@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2014/12
 ---
 
-{{ Image(name="/images/2014/12/godugu1.jpg", float="left") }}
+{{ Image(issue="2014/12", filename="godugu1.jpg", float="left") }}
 
 <br><br><br>
 
@@ -25,7 +25,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2014/12/godugu2.jpg", float="right") }}
+{{ Image(issue="2014/12", filename="godugu2.jpg", float="right") }}
 
 
 <br><br>
@@ -35,7 +35,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2014/12/godugu3.jpg", float="left") }}
+{{ Image(issue="2014/12", filename="godugu3.jpg", float="left") }}
 
 
 <br><br>
@@ -45,7 +45,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2014/12/godugu4.jpg", float="right") }}
+{{ Image(issue="2014/12", filename="godugu4.jpg", float="right") }}
 
 
 
@@ -59,7 +59,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2014/12/godugu5.jpg", float="left") }}
+{{ Image(issue="2014/12", filename="godugu5.jpg", float="left") }}
 
 
 <br>
@@ -69,7 +69,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2014/12/godugu7.jpg", float="right") }}
+{{ Image(issue="2014/12", filename="godugu7.jpg", float="right") }}
 
 
 <br><br>
@@ -80,7 +80,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2014/12/godugu8.jpg", float="left") }}
+{{ Image(issue="2014/12", filename="godugu8.jpg", float="left") }}
 
 
 

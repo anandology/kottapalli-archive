@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/02
 ---
 
-{{ Image(name="/images/2012/02/kukka.jpg", float="center") }}
+{{ Image(issue="2012/02", filename="kukka.jpg", float="center") }}
 
 సీతారామపురం రాజ్యానికి రాజుగారు  సీతారామరాజు. చాలా మంచి రాజన్నమాట ఆయన! అన్ని రాజ్యాల కన్నా  వీళ్ళ రాజ్యమే గొప్పగా ఉండాలని  ఆయన చాలా శ్రమించేవాడు. 
 

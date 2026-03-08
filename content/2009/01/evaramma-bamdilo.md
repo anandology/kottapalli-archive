@@ -13,7 +13,7 @@ extra:
   intro: 'గానం:  గీతిక, అయిదవ తరగతి, టింబక్టు బడి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/01/evvaramma_bandilo.gif", float="right") }}
+{{ Image(issue="2009/01", filename="evvaramma_bandilo.gif", float="right") }}
 
 <pre class="song">
 ఎవరమ్మా బండిలో

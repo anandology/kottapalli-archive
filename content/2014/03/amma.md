@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2014/03
 ---
 
-{{ Image(name="/images/2014/03/amma.jpg", float="center") }}
+{{ Image(issue="2014/03", filename="amma.jpg", float="center") }}
 
 
 నన్ను ఈ లోకానికి పరిచయం చేసిన మా అమ్మ      

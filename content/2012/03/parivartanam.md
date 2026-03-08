@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/03
 ---
 
-{{ Image(name="/images/2012/03/parivarthana.jpg", float="center") }}
+{{ Image(issue="2012/03", filename="parivarthana.jpg", float="center") }}
 
 సుల్తాన్ పురాలో ఉండే అమృత  చాలా తెలివైనది.  ఆవిడ ఒక ప్రైవేటు బడిలో పనిచేసేది.  శ్రద్ధకు, ఓపికకు మారుపేరుగా నిలిచిన అమృత, తన విడి సమయంలో బాగా కష్టపడి చదివి, పరీక్షలు రాసింది- ప్రభుత్వ టీచరు అయ్యింది. 
 

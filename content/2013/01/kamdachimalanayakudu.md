@@ -17,7 +17,7 @@ extra:
   redirect: /dashboard/2013/01
 ---
 
-{{ Image(name="/images/2013/01/cheema1.jpg", float="center") }}
+{{ Image(issue="2013/01", filename="cheema1.jpg", float="center") }}
 
 చీమెందుకు గొప్పదో-     
 ఏనుగెప్పుడు తీసికట్టో-    
@@ -39,7 +39,7 @@ extra:
 చీమలు బారులు తీరాయి    
 ఏనుగుల దారిని మళ్లించాయి!    
 
-{{ Image(name="/images/2013/01/cheema4.jpg", float="left") }}
+{{ Image(issue="2013/01", filename="cheema4.jpg", float="left") }}
 
 ఏనుగయ్యకు ఎప్పటినుండో     
 చీమలంటె చీదర    
@@ -114,7 +114,7 @@ extra:
 ఏనుగయ్య  కొండంతగా    
 అవాక్కయ్యాడు! బిక్కపోయాడు!   
 
-{{ Image(name="/images/2013/01/cheema3.jpg", float="right") }}
+{{ Image(issue="2013/01", filename="cheema3.jpg", float="right") }}
 
 నీఅంత నీవని   
 నా అంత నేనని   
@@ -133,7 +133,7 @@ extra:
 లోలోపల గుండెజారి    
 బిక్కు బిక్కుమన్నాడు!   
 
-{{ Image(name="/images/2013/01/cheema2.jpg", float="left") }}
+{{ Image(issue="2013/01", filename="cheema2.jpg", float="left") }}
 
 పుట్టముందు చెరుకు గడను   
 బహుమతిగా పెట్టాడు   

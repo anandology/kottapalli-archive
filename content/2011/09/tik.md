@@ -13,7 +13,7 @@ extra:
   intro: 'రచన, గానం: "కవి కాకి" కీ.శే.జై సీతారాం, కోగిర, రొద్దం మండలం, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2011/09/tictic.JPG", float="right") }}
+{{ Image(issue="2011/09", filename="tictic.JPG", float="right") }}
 
 
 

@@ -16,7 +16,7 @@ extra:
     గానం: సమర, రెండవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/05/cinni_kukka.gif", float="right") }}
+{{ Image(issue="2009/05", filename="cinni_kukka.gif", float="right") }}
 
 
 <pre class="song">

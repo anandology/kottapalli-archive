@@ -14,7 +14,7 @@ extra:
     \ సృజన కుటీర్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2010/09/nemali.jpg", float="right") }}
+{{ Image(issue="2010/09", filename="nemali.jpg", float="right") }}
 
 నెమలీ  నెమలీ   నాట్యమాడవే,   
 ఒంపు  సొంపుల  వయ్యారాలతో(2)    

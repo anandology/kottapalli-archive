@@ -17,7 +17,7 @@ extra:
     రచన: ''కవికాకి'' కీ.శే.జై సీతారాం, కోగిర, రొద్దం మండలం, అనంతపురం‌ జిల్లా.'
 ---
 
-{{ Image(name="/images/2011/07/okatotaragathi.JPG", float="center") }}
+{{ Image(issue="2011/07", filename="okatotaragathi.JPG", float="center") }}
 
 అనగనగా  ఒక ఒకటో తరగతి అయ్యవారు.   
 ఆ అయ్యవారి తరగతిలో అరవై మంది.   

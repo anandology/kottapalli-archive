@@ -15,9 +15,9 @@ extra:
   redirect: /dashboard/2019/02
 ---
 
-{{ Image(name="/images/2019/02/nera1.jpg", float="center") }}
+{{ Image(issue="2019/02", filename="nera1.jpg", float="center") }}
 
-{{ Image(name="/images/2019/02/nera2.jpg", float="left") }}
+{{ Image(issue="2019/02", filename="nera2.jpg", float="left") }}
 
 
 ఆ రోజు ఆదివారం.
@@ -29,7 +29,7 @@ extra:
 మామిడి చెట్టుపైన ఒక పక్షి గూడు ఉంది. ఆ గూటిలో ఏమున్నాయో చూడాలని అతనికి ఆశ పుట్టింది. 
 <br><br>
 
-{{ Image(name="/images/2019/02/nera3.jpg", float="right") }}
+{{ Image(issue="2019/02", filename="nera3.jpg", float="right") }}
 
 వెంటనే గబగబా చెట్టు ఎక్కాడు వాడు. ఆశగా గూడులోకి తొంగి చూసాడు. గోధుమరంగు గుడ్లు ఉన్నాయి అందులో.  
 

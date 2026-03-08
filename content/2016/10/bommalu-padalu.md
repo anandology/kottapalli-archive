@@ -20,10 +20,10 @@ extra:
 ఇట్లా రాబోయే ఆరు కొత్తపల్లుల్లో వచ్చిన పదాలన్నీ దాచి పెట్టుకోండి. చివరికి, ఆర్నెల్ల తర్వాత అన్నిటినీ ఓ పోస్టు కార్డు మీద రాసి పంపాలి మాకు! అట్లా అన్నీ సరిగా రాసి పంపిన రెండో తరగతి పిల్లల్లో లాటరీ ద్వారా ఎంపికైన   ఇద్దరికి - ఒక్కొక్కరికీ  500 రూ. బహుమతి ఇవ్వబడుతుంది ! 
 
 
-{{ Image(name="/images/2016/10/apadalu1.jpg", float="center") }}
+{{ Image(issue="2016/10", filename="apadalu1.jpg", float="center") }}
 
 
-{{ Image(name="/images/2016/10/apadalu2.jpg", float="center") }}
+{{ Image(issue="2016/10", filename="apadalu2.jpg", float="center") }}
 
 
 <br><br><br><br><br><br><br><br>

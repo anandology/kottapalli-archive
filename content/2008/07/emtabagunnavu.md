@@ -13,7 +13,7 @@ extra:
   intro: 'రచన: కీశే. కవికాకి జైసీతారాం'
 ---
 
-{{ Image(name="/images/2008/07/chandamama.gif", float="right") }}
+{{ Image(issue="2008/07", filename="chandamama.gif", float="right") }}
 
 ఎంతబాగున్నావు చందమామా   
 నువ్వెంత అందగాడివయ్య చందమామా  

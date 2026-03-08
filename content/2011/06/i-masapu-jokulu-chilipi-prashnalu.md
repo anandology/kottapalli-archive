@@ -80,21 +80,21 @@ extra:
 
 **చిలిపి ప్రశ్నలు-తిక్క జవాబులు**
 
-{{ Image(name="/images/2011/06/office.jpg", float="right") }}
+{{ Image(issue="2011/06", filename="office.jpg", float="right") }}
 
 <br><br>
 ప్రశ్న: తెలివైన గవర్నమెంటు ఉద్యోగి ఆఫీసుకు ఎందుకు వెళ్తాడు?   
 జవాబు: నిద్రపోయేందుకు.    
 <br><br>
 
-{{ Image(name="/images/2011/06/rajakeeyam.jpg", float="left") }}
+{{ Image(issue="2011/06", filename="rajakeeyam.jpg", float="left") }}
 
 <br><br>
 ప్రశ్న: నేటి  రాజకీయ నాయకుల  ఆలోచనా  స్థితి  ఎలావుంది!?     
 జవాబు: దూరాలోచనకు  తక్కువ; దురాలోచనకు  ఎక్కువ!!     
 <br><br>
 
-{{ Image(name="/images/2011/06/vanta.jpg", float="right") }}
+{{ Image(issue="2011/06", filename="vanta.jpg", float="right") }}
 
 <br><br>
 ప్రశ్న: తెలివైన  టి.వి. ఛానల్  యజమాని  ఏం చేస్తాడు!?     

@@ -14,7 +14,7 @@ extra:
     \   \nచిత్రాలు: గణేష్, జెయన్‌టియు, హైదరాబాదు."
 ---
 
-{{ Image(name="/images/2010/12/gandharva.jpg", float="center") }}
+{{ Image(issue="2010/12", filename="gandharva.jpg", float="center") }}
 
 అవంతీపుర రాజ్యాన్ని ప్రతాప వర్మ మహారాజు పరిపాలించేవాడు. ఆయనకు ఏడుగురు కొడుకులు. 
  

@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2013/07
 ---
 
-{{ Image(name="/images/2013/07/manchidonga.jpg", float="center") }}
+{{ Image(issue="2013/07", filename="manchidonga.jpg", float="center") }}
 
 రామయ్య అనే రైతు వయసులో వున్నప్పుడు కష్టపడి  బాగా సంపాదించాడు.      
 వృద్ధాప్యంలో, ఆ  సంపాదనని అంతా బంగారు కాసులుగా మార్చి, ఓ మట్టి  కుండలో పెట్టి, పెరట్లో గొయ్యి  తవ్వి, ఆ గోతిలో పాతి పెట్టాడు.     

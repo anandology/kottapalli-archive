@@ -14,17 +14,17 @@ extra:
   redirect: /dashboard/2015/12
 ---
 
-{{ Image(name="/images/2015/12/pada.jpg", float="left") }}
+{{ Image(issue="2015/12", filename="pada.jpg", float="left") }}
 
-{{ Image(name="/images/2015/12/padaniluvu.jpg", float="right") }}
-
-
-
-{{ Image(name="/images/2015/12/padaaddam.jpg", float="left") }}
+{{ Image(issue="2015/12", filename="padaniluvu.jpg", float="right") }}
 
 
 
-{{ Image(name="/images/2015/12/padaprize.jpg", float="right") }}
+{{ Image(issue="2015/12", filename="padaaddam.jpg", float="left") }}
+
+
+
+{{ Image(issue="2015/12", filename="padaprize.jpg", float="right") }}
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -33,4 +33,4 @@ extra:
 
 **పదరంగం 79 కి జవాబు: **
 
-{{ Image(name="/images/2015/12/response_k79.jpg", float="center") }}
+{{ Image(issue="2015/12", filename="response_k79.jpg", float="center") }}

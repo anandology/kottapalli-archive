@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/07
 ---
 
-{{ Image(name="/images/2012/07/dharmam.jpg", float="center") }}
+{{ Image(issue="2012/07", filename="dharmam.jpg", float="center") }}
 
 మరాఠా సైన్యానికి బాజీరావు పీష్వా సర్వ సైన్యాధ్యక్షుడు. ఓసారి ఆయన యుద్ధంలో విజయం సాధించి తన రాజ్యానికి తిరిగి వస్తున్నాడు. 
 

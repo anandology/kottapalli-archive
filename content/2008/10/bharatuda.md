@@ -19,7 +19,7 @@ extra:
     డప్పు:  పోతలయ్య'
 ---
 
-{{ Image(name="/images/2008/10/bhartuda-na-chinni-tammuda.jpg", float="right") }}
+{{ Image(issue="2008/10", filename="bhartuda-na-chinni-tammuda.jpg", float="right") }}
 
 <pre class="song">
 భరతుడా నా చిన్ని తమ్ముడ

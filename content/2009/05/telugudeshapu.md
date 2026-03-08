@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: అంజలి  మరియు శిరీష సమూహం, ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా'
 ---
 
-{{ Image(name="/images/2009/05/telugu_desam_pillalam.GIF", float="right") }}
+{{ Image(issue="2009/05", filename="telugu_desam_pillalam.GIF", float="right") }}
 
 
 <pre class="song">

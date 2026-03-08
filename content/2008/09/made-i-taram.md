@@ -14,7 +14,7 @@ extra:
     జిల్లా.'
 ---
 
-{{ Image(name="/images/2008/09/madeitaram.gif", float="right") }}
+{{ Image(issue="2008/09", filename="madeitaram.gif", float="right") }}
 
 <pre class="song">
 మాదే ఈ తరం వందేమాతరం, 

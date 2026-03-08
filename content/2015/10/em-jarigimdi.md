@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2015/10
 ---
 
-{{ Image(name="/images/2015/10/yemi.jpg", float="center") }}
+{{ Image(issue="2015/10", filename="yemi.jpg", float="center") }}
 
 ఎప్పటిలాగే ఆఫీస్‌కు వెళ్లడానికి రెడీ అవుతున్నాడు సాయి. ఇంటి బయట తన కారు పార్క్ చేసి ఉంది. 
 

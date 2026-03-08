@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/02
 ---
 
-{{ Image(name="/images/2012/02/pani1.jpg", float="left") }}
+{{ Image(issue="2012/02", filename="pani1.jpg", float="left") }}
 
 <br><br>
 రోజా ఒకరోజున పుస్తకం చదువుతోంది. 
@@ -25,7 +25,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2012/02/pani2.jpg", float="right") }}
+{{ Image(issue="2012/02", filename="pani2.jpg", float="right") }}
 
 
 <br><br>
@@ -40,7 +40,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2012/02/pani3.jpg", float="left") }}
+{{ Image(issue="2012/02", filename="pani3.jpg", float="left") }}
 
 <br><br><br><br>
 రోజా వాటిని చూసి మురిసిపోయింది. 
@@ -51,7 +51,7 @@ extra:
 <br><br><br><br>
 
 
-{{ Image(name="/images/2012/02/pani4.jpg", float="right") }}
+{{ Image(issue="2012/02", filename="pani4.jpg", float="right") }}
 
 
 సీతాకోక చిలుకలు తనని ఏ దారి గుండా తీసుకెళ్ళాయో మరి, అకస్మాత్తుగా  రోజా చుట్టూ చీకటి- మళ్ళీ‌ వెంటనే వెలుగు! 
@@ -66,7 +66,7 @@ extra:
 
  ఓ అద్భుత ప్రపంచంలోకి  వచ్చేసిన అనుభూతి కల్గింది ఆ పాపకు. 
 
-{{ Image(name="/images/2012/02/pani5.jpg", float="left") }}
+{{ Image(issue="2012/02", filename="pani5.jpg", float="left") }}
 
 అంతలో ఓ సీతాకోక చిలుక వచ్చి రోజా చేతి మీద వాలింది.  రోజా వైపు వింతగా చూస్తూ "ఎవరు పాపా, నువ్వు?" అని అడిగింది. 
 
@@ -87,7 +87,7 @@ extra:
 
 సీతాకోక చిలుక రెక్కలు టపటపలాడించింది. "భలే! మాకు కూడా మేమంటే చాలా చాలా ఇష్టం" చెప్పింది. 
 
-{{ Image(name="/images/2012/02/pani6.jpg", float="right") }}
+{{ Image(issue="2012/02", filename="pani6.jpg", float="right") }}
 
 "నువ్వు ఎప్పుడూ ఏం చేస్తుంటావు?" అడిగింది అది ఇప్పుడు. 
 

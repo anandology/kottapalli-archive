@@ -16,9 +16,9 @@ extra:
 
 <div>
 
-{{ Image(name="/images/2011/10/m1.jpg", float="left") }}
+{{ Image(issue="2011/10", filename="m1.jpg", float="left") }}
 
-{{ Image(name="/images/2011/10/m2.jpg", float="right") }}
+{{ Image(issue="2011/10", filename="m2.jpg", float="right") }}
 
 </div>
 <div>
@@ -31,9 +31,9 @@ extra:
 
 <div>
 
-{{ Image(name="/images/2011/10/m3.jpg", float="left") }}
+{{ Image(issue="2011/10", filename="m3.jpg", float="left") }}
 
-{{ Image(name="/images/2011/10/m4.jpg", float="right") }}
+{{ Image(issue="2011/10", filename="m4.jpg", float="right") }}
 
 </div>
 
@@ -46,9 +46,9 @@ extra:
 
 <div>
 
-{{ Image(name="/images/2011/10/m5.jpg", float="left") }}
+{{ Image(issue="2011/10", filename="m5.jpg", float="left") }}
 
-{{ Image(name="/images/2011/10/m6.jpg", float="right") }}
+{{ Image(issue="2011/10", filename="m6.jpg", float="right") }}
 
 </div>
 

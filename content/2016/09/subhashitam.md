@@ -13,7 +13,7 @@ extra:
   redirect: /dashboard/2016/09
 ---
 
-{{ Image(name="/images/2016/09/subha.jpg", float="center") }}
+{{ Image(issue="2016/09", filename="subha.jpg", float="center") }}
 
 
 **చెలగరు కలగరు సాధులు**      

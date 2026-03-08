@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/03
 ---
 
-{{ Image(name="/images/2013/03/sadbhavana.jpg", float="center") }}
+{{ Image(issue="2013/03", filename="sadbhavana.jpg", float="center") }}
 
 సత్య జిత్తు  చాలా ధనవంతుడు. అతనికి ఇద్దరు కొడుకులు- అజయ్, విజయ్.    
 'వాళ్ళిద్దరూ  జీవితంలో ఎలా పైకి వస్తారు?' అని అతనికి దిగులుగా ఉండేది.    

@@ -17,7 +17,7 @@ extra:
     డప్పు: పోతలయ్య, ఏడవ తరగతి.'
 ---
 
-{{ Image(name="/images/2008/11/padma_banu.gif", float="right") }}
+{{ Image(issue="2008/11", filename="padma_banu.gif", float="right") }}
 
 <pre class="song">
 పద్మా భానూ రారండీ

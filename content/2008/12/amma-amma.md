@@ -14,7 +14,7 @@ extra:
     చెన్నూరు మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{ Image(name="/images/2008/12/amma_amma.gif", float="right") }}
+{{ Image(issue="2008/12", filename="amma_amma.gif", float="right") }}
 
 <pre class='song'>
 అమ్మ -  అమ్మ  నాన్న వచ్చె

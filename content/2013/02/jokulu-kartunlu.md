@@ -98,10 +98,10 @@ extra:
 
 
 
-{{ Image(name="/images/2013/02/copy.jpg", float="right") }}
+{{ Image(issue="2013/02", filename="copy.jpg", float="right") }}
 
 
-{{ Image(name="/images/2013/02/copy1.jpg", float="left") }}
+{{ Image(issue="2013/02", filename="copy1.jpg", float="left") }}
 
 
-{{ Image(name="/images/2013/02/copy2.jpg", float="right") }}
+{{ Image(issue="2013/02", filename="copy2.jpg", float="right") }}

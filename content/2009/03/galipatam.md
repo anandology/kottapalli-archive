@@ -17,7 +17,7 @@ extra:
     గానం: పోతిరెడ్డి, మూడవ తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/03/gali_patam.gif", float="right") }}
+{{ Image(issue="2009/03", filename="gali_patam.gif", float="right") }}
 
 <pre class="song">
 గాలిపటం గాలిపటం ఏల ఎగిరేవు?

@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: జి.అంజలి(1వ త.), ప్రకృతిబడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/12/uduta_uduta.gif", float="right") }}
+{{ Image(issue="2009/12", filename="uduta_uduta.gif", float="right") }}
 
 ఉడతా ఉడతా ఉచ్
 

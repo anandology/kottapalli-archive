@@ -17,9 +17,9 @@ extra:
   redirect: /dashboard/2017/11
 ---
 
-{{ Image(name="/images/2017/11/simham1.jpg", float="center") }}
+{{ Image(issue="2017/11", filename="simham1.jpg", float="center") }}
 
-{{ Image(name="/images/2017/11/simham2.jpg", float="left") }}
+{{ Image(issue="2017/11", filename="simham2.jpg", float="left") }}
 
 ఊరికి దగ్గరగా దట్టమైన అడవి ఒకటి ఉండేది. గుబురైన చెట్లతో, గల గలా పారే నీళ్ళతో, అనేక జంతువులతో ఆ అడవి కళకళలాడేది. 
 
@@ -28,7 +28,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2017/11/simham3.jpg", float="right") }}
+{{ Image(issue="2017/11", filename="simham3.jpg", float="right") }}
 
 <br>
 
@@ -38,7 +38,7 @@ extra:
 
 <br>
 
-{{ Image(name="/images/2017/11/simham4.jpg", float="left") }}
+{{ Image(issue="2017/11", filename="simham4.jpg", float="left") }}
 
 <br>
 
@@ -46,7 +46,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2017/11/simham5.jpg", float="right") }}
+{{ Image(issue="2017/11", filename="simham5.jpg", float="right") }}
 
 <br>
 

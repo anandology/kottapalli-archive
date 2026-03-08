@@ -17,7 +17,7 @@ extra:
     గానం:బి. కుమారి, ఆర్ట్స్ అండ్ క్రాప్ట్స్  సెంటర్, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/07/karthulanni.jpeg", float="right") }}
+{{ Image(issue="2009/07", filename="karthulanni.jpeg", float="right") }}
 
 
 కార్తులన్ని ఆయెను- 

@@ -15,7 +15,7 @@ extra:
 
 &nbsp;
 
-{{ Image(name="/images/2010/05/ABCD.JPG", float="center") }}
+{{ Image(issue="2010/05", filename="ABCD.JPG", float="center") }}
 
 <pre class="song">
 ఎ బి సి డి ఎలుకల బాధ 

@@ -14,7 +14,7 @@ extra:
     టింబక్టు బడి, చెన్నేకొత్తపల్లి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/01/baratadesham_balalam.gif", float="right") }}
+{{ Image(issue="2009/01", filename="baratadesham_balalam.gif", float="right") }}
 
 <pre class="song">
 భారతదేశపు బాలలం

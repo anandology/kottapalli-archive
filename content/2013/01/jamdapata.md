@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/01
 ---
 
-{{ Image(name="/images/2013/01/pata.jpg", float="right") }}
+{{ Image(issue="2013/01", filename="pata.jpg", float="right") }}
 
 మూడు రంగుల మన జెండా            
 ముచ్చటైన మన జెండా       

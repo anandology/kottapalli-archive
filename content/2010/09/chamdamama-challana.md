@@ -13,7 +13,7 @@ extra:
   intro: 'రచన: శ్రీమతి సి.అరుణావతి, ఉపాధ్యాయురాలు, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2010/09/icecream.jpg", float="center") }}
+{{ Image(issue="2010/09", filename="icecream.jpg", float="center") }}
 
 <p>
 

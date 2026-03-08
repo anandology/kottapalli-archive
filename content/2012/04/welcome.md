@@ -13,7 +13,7 @@ extra:
   redirect: /dashboard/2012/04
 ---
 
-{{ Image(name="/images/2012/04/editorialtitle.jpg", float="center") }}
+{{ Image(issue="2012/04", filename="editorialtitle.jpg", float="center") }}
 
 తాతయ్య ఏదో పుస్తకాన్ని కళ్ళముందు పెట్టుకొని, పడక్కుర్చీలో హాయిగా నిద్రపోతున్నాడు. 
 
@@ -64,7 +64,7 @@ extra:
 
 తాతయ్య రాశాడు పెద్దగా- వంకర టింకరగా, నవ్వుకుంటూ- 
  
-{{ Image(name="/images/2012/04/four_years.jpg", float="center") }}
+{{ Image(issue="2012/04", filename="four_years.jpg", float="center") }}
 
 రాశాక దానికింద రెండు గీతలు గీశాడు గర్వంగా. 
 

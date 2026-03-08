@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: కీర్తన, యు.కె.జి, విజ్డం స్కూల్, గుడిపాల, చిత్తూరు జిల్లా.'
 ---
 
-{{ Image(name="/images/2010/06/Telephone.jpg", float="right") }}
+{{ Image(issue="2010/06", filename="Telephone.jpg", float="right") }}
 
 బూచోడమ్మా  బూచోడు 
 

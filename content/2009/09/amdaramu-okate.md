@@ -26,7 +26,7 @@ extra:
     డప్పు: ఇ. పోతులయ్య, ఎనిమిదవ తరగతి, ప్రకృతిబడి, చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2009/09/andaramu_okkate.gif", float="right") }}
+{{ Image(issue="2009/09", filename="andaramu_okkate.gif", float="right") }}
 
 <pre class="song">
 

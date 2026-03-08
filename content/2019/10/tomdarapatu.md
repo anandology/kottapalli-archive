@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2019/10
 ---
 
-{{ Image(name="/images/2019/10/patu1.jpg", float="center") }}
+{{ Image(issue="2019/10", filename="patu1.jpg", float="center") }}
 
 
 యువరాజు జయరాజు    
@@ -22,7 +22,7 @@ extra:
 సంపదలకు కొదువలేదు     
 పరివారము పదుగురు.    
 
-{{ Image(name="/images/2019/10/patu2.jpg", float="left") }}
+{{ Image(issue="2019/10", filename="patu2.jpg", float="left") }}
 
 అశ్వశాల గల దాతనికి   
 అందుగలదు తెలుపు గుర్రం.   
@@ -44,7 +44,7 @@ extra:
 అంతలోన కుక్క  గుర్రానికి అడ్డు తగిలె    
 రాజు ఎంత అదిలించిన    
 
-{{ Image(name="/images/2019/10/patu3.jpg", float="left") }}
+{{ Image(issue="2019/10", filename="patu3.jpg", float="left") }}
 
 మాట వినదు; దారినీదు.  
 రాజుగారు కోపించిరి    
@@ -68,7 +68,7 @@ extra:
 మూటకోసమై వెదకుచు      
 కోట బాట పట్టి పోయె.     
 
-{{ Image(name="/images/2019/10/patu4.jpg", float="left") }}
+{{ Image(issue="2019/10", filename="patu4.jpg", float="left") }}
 
 డబ్బు మూట తల మాపున    
 పడి యుండగ బరువుగా    

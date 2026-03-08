@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2014/02
 ---
 
-{{ Image(name="/images/2014/02/nestalu.jpg", float="left") }}
+{{ Image(issue="2014/02", filename="nestalu.jpg", float="left") }}
 
 మంచి మార్గం చూపేవారు   
 కష్టాల్లో కాపాడేవారు    

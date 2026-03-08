@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/06
 ---
 
-{{ Image(name="/images/2012/06/pitchuka.jpg", float="right") }}
+{{ Image(issue="2012/06", filename="pitchuka.jpg", float="right") }}
 
 పిచుకమ్మా! పిచుకమ్మా!    
 నీ  గూడెక్కడ  చెప్పమ్మా?   

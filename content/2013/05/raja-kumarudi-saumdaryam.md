@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2013/05
 ---
 
-{{ Image(name="/images/2013/05/andam1.JPG", float="center") }}
+{{ Image(issue="2013/05", filename="andam1.JPG", float="center") }}
 
 అనగనగా ఒక యువరాజు. ఆ రాజు ఎంతసేపూ  తన అందాన్ని  చూచుకొని  మురిసి మైమరచి పోతుండేవాడు. 
 
@@ -30,7 +30,7 @@ extra:
 
 "నేను కాదా!?" ఆశ్చర్యంగా  అడిగాడు రాజు. 
 
-{{ Image(name="/images/2013/05/andam2.JPG", float="right") }}
+{{ Image(issue="2013/05", filename="andam2.JPG", float="right") }}
 
 "మిమ్మల్ని ఈ రోజు ఉదయం నిద్రిస్తుండగా  చూశాం. అప్పుడు  ఇంకా  అందంగా  వున్నారు " ఒక దేవదూత చెప్పాడు. 
 

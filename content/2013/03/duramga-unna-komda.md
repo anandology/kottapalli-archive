@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2013/03
 ---
 
-{{ Image(name="/images/2013/03/song.jpg", float="right") }}
+{{ Image(issue="2013/03", filename="song.jpg", float="right") }}
 
 దూరంగా ఉంటుంది ఆ కొండ!     
 అది ప్రకృతికే అందమిచ్చింది!      

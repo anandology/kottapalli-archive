@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: యస్. రియాజ్, ఐదవ తరగతి, ప్రకృతి బడి, అనంత పురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/07/adivaramu.jpeg", float="right") }}
+{{ Image(issue="2009/07", filename="adivaramu.jpeg", float="right") }}
 
 
 ఆదివారము నాడు అరటి మొలిచింది

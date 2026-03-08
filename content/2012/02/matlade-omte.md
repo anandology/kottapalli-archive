@@ -18,7 +18,7 @@ extra:
   redirect: /dashboard/2012/02
 ---
 
-{{ Image(name="/images/2012/02/onte.jpg", float="center") }}
+{{ Image(issue="2012/02", filename="onte.jpg", float="center") }}
 
 అనగనగా ఒక ఎడారిలో ఒక ఒంటె ఉండేది. దానిపేరు మిట్టూ. దాని యజమాని దానికి మాట్లాడటం నేర్పించాడు. 
 ఒకరోజు దాని యజమాని ఇంట్లో లేడు. 

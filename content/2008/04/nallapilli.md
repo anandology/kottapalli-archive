@@ -16,7 +16,7 @@ extra:
     \ కీ.శే.జై సీతారాం    \nపుస్తకం: మేం పిల్లలం    \nప్రచురణ: టింబక్టు కలెక్టివ్"
 ---
 
-{{ Image(name="/images/2008/04/nallapilli.gif", float="right") }}
+{{ Image(issue="2008/04", filename="nallapilli.gif", float="right") }}
 
 నల్లపిల్లి నల్లపిల్లి ఏడకెళ్తివి?  
 ఇంగ్లండు దేశానికెళ్లి వస్తిని  

@@ -14,21 +14,21 @@ extra:
 
 **1.   నరసింహా రెడ్డి చెప్పినవి:**
 
-{{ Image(name="/images/2008/04/jok1.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok1.gif", float="thumb") }}
 
 **భూమి గుండ్రం**   
 
 టీచర్ : రాజూ! భూమి గుండ్రంగా ఉందని ఎలా చెప్పగలవు?  
 రాజు : వెరీ సింపుల్ మేడం!  మన గ్రౌండ్ లో నిలబడి కళ్ళు మూసుకొని, గిర గిర తిరిగి కళ్ళు తెరిస్తే తెలుస్తుంది
 
-{{ Image(name="/images/2008/04/jok4.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok4.gif", float="thumb") }}
 
 **మొక్కలెందుకు నాటాలి?**
 
 టీచర్ : రాజూ! మనం మొక్కలు ఎందుకు నాటాలి?  
 రాజు: చెట్లు నాటలేం కనుక.
 
-{{ Image(name="/images/2008/04/jok3.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok3.gif", float="thumb") }}
 
 **బలమైన చీమ**
 
@@ -42,7 +42,7 @@ extra:
 
 మిగిలిన చీమలన్నీ అరిచాయి ఉత్సాహంగా: "దాన్ని ముంచేయి రా, ముంచేయి!" అని.
 
-{{ Image(name="/images/2008/04/jok2.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok2.gif", float="thumb") }}
 
 **చెర్లోపల్లి**  
 
@@ -52,7 +52,7 @@ extra:
 
 **2. సి. హేమలత, 6వ తరగతి, MPUP School, CKPalli  చెప్పిన జోకులు:**
 
-{{ Image(name="/images/2008/04/jok5.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok5.gif", float="thumb") }}
 
 **చల్లగా ఉండండి!**
 
@@ -66,7 +66,7 @@ extra:
  
 చంటి:  ఏమీ లేదమ్మా, నువ్వు లడ్డూలు ఎక్కడ దాచావో తెలీకపోతేనూ..  
 
-{{ Image(name="/images/2008/04/jok6.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok6.gif", float="thumb") }}
 
 
 **పావలా కోసం!**
@@ -83,7 +83,7 @@ extra:
 
 **3. B. నాగార్జున, ZPHS, CKPalli, 7వ తరగతి   చెప్పిన జోకులు **
 
-{{ Image(name="/images/2008/04/jok7.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok7.gif", float="thumb") }}
 
 **గొప్పలు**
 
@@ -109,7 +109,7 @@ extra:
 
 "మైకు లో చెప్పింది మీరు వినలేదా?  రైలు ప్లాట్ ఫారం మీదికి రాబోతోందట, మీరు ప్రాణాలతో మిగలాలంటే మీరుకూడా వెంటనే పరుగెత్తండి" అన్నాడు పుల్లారావు.
 
-{{ Image(name="/images/2008/04/jok9.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok9.gif", float="thumb") }}
 
 **పాపం డ్రైవర్!**
 
@@ -123,7 +123,7 @@ extra:
 
 అప్పారావు: ఆఁ !!!***!!!
 
-{{ Image(name="/images/2008/04/jok8.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok8.gif", float="thumb") }}
 
 **అతి తెలివి**
   
@@ -163,7 +163,7 @@ extra:
   
 భర్త:  ఆఁ !!!***!!!  
 
-{{ Image(name="/images/2008/04/jok10.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok10.gif", float="thumb") }}
 
 ** సుపుత్రుడు**  
 
@@ -177,7 +177,7 @@ extra:
 
 నాన్న: ఆఁ !!!***!!!
 
-{{ Image(name="/images/2008/04/jok11.gif", float="thumb") }}
+{{ Image(issue="2008/04", filename="jok11.gif", float="thumb") }}
 
 **పరీక్ష**  
 

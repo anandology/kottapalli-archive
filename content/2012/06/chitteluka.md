@@ -17,7 +17,7 @@ extra:
   redirect: /dashboard/2012/06
 ---
 
-{{ Image(name="/images/2012/06/rat1.jpg", float="center") }}
+{{ Image(issue="2012/06", filename="rat1.jpg", float="center") }}
 
 అనగనగా ఒక ఊరిలో  ఒక ఎలుక ఉండేది. దాని  పేరు  చిట్టి. 
 
@@ -59,7 +59,7 @@ extra:
 అటు పైన వాళ్ళిద్దరూ ఎన్నెన్నో ప్రదేశాల్లో కలిసి తిరిగారు. సింహమేమో  రాత్రిపూట   జింక  చర్మం పైన  నిద్రపోయేది. ఎలుకేమో  నేలలో ఒక   గొయ్యి  తీసి  నిద్రపోయేది.  వాళ్ళిద్దరూ ఒకరికొకరు చాలా కవితలు చెప్పుకున్నారు:
 
 
-{{ Image(name="/images/2012/06/rat3.jpg", float="left") }}
+{{ Image(issue="2012/06", filename="rat3.jpg", float="left") }}
 
 సింహం‌ చెప్పిన కవిత- 
 అడవిలో అన్న
@@ -70,7 +70,7 @@ extra:
 పువ్వు చూసేది  పరిమళం కోసం.
 
 
-{{ Image(name="/images/2012/06/rat2.jpg", float="right") }}
+{{ Image(issue="2012/06", filename="rat2.jpg", float="right") }}
 
 
 పేపరు చదివేటప్పుడు కూడా అవి కవితలు చెప్పుకునేవి: 

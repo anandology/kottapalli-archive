@@ -14,7 +14,7 @@ extra:
     చెన్నేకొత్తపల్లి.'
 ---
 
-{{ Image(name="/images/2010/10/naluguru6.jpg", float="center") }}
+{{ Image(issue="2010/10", filename="naluguru6.jpg", float="center") }}
 
 
 అనగా అనగా ఒక ఊళ్లో ఒక మిరపకాయ, ఐస్‌క్రీమ్‌, ఉల్లిగడ్డ, టమోటా  చాలా  స్నేహంగా ఉండేవి. 
@@ -23,7 +23,7 @@ extra:
 
 అవన్నీ పోతూ ఉంటే ఒక పెద్ద సముద్రం అడ్డు వచ్చింది. 
 
-{{ Image(name="/images/2010/10/naluguru5.jpg", float="center") }}
+{{ Image(issue="2010/10", filename="naluguru5.jpg", float="center") }}
 
 
 నాలుగూ ఆ సముద్రంలోకి దూకి, ఈది, అవతలి ఒడ్డుకు చేరుకున్నాయి. 
@@ -34,7 +34,7 @@ extra:
 
 బాధ పడుతూనే అవి మూడూ మార్కెట్టు దగ్గరికి పోయాయి.  
 
-{{ Image(name="/images/2010/10/naluguru4.jpg", float="center") }}
+{{ Image(issue="2010/10", filename="naluguru4.jpg", float="center") }}
 
 
 అక్కడ ఒకడు నిలబడి  మిరపకాయలతో బజ్జీలు వేస్తున్నాడు.  
@@ -43,14 +43,14 @@ extra:
 
 "అయ్యో! మన మంచి స్నేహితుడు మిరపకాయ చనిపోయాడే!" అని మిగిలిన రెండూ బాధ పడ్డాయి. 
 
-{{ Image(name="/images/2010/10/naluguru3.jpg", float="center") }}
+{{ Image(issue="2010/10", filename="naluguru3.jpg", float="center") }}
 
 
 "ఇంకేం చేద్దాం?" అనుకొని, అవి రెండూ  సినిమా చూసేందుకని వెళ్లాయి.  టమోటా ఒక సీట్లోను, ఉల్లి గడ్డ ఒక సీట్లోను కూర్చున్నాయి. 
 
 అంతలో లావుపాటాయన ఒకాయన వచ్చి టమోటా మీదే కూర్చున్నాడు! 
 
-{{ Image(name="/images/2010/10/naluguru2.jpg", float="right") }}
+{{ Image(issue="2010/10", filename="naluguru2.jpg", float="right") }}
 
 
 "అయ్యో! నాకున్న ఒక్కగానొక్క స్నేహితుడు టమోటా కూడా చచ్చిపోయాడే!" అని  చాలా ఏడిచింది ఉల్లిగడ్డ.  
@@ -59,7 +59,7 @@ extra:
 
 అది అట్లా ఆపకుండా ఏడుస్తుంటే దేవుడికి దానిమీద జాలి వేసింది. 
 
-{{ Image(name="/images/2010/10/naluguru1.jpg", float="left") }}
+{{ Image(issue="2010/10", filename="naluguru1.jpg", float="left") }}
 
 
 "నువ్వేమీ బాధ పడకు! నిన్ను కోసి చంపేవాళ్ళే ఏడుస్తారులే, నీకేమీ లోటుండదు" అన్నాడు దేవుడు, దాన్ని ఓదారుస్తూ. 

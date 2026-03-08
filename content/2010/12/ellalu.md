@@ -15,7 +15,7 @@ extra:
     \ బడి."
 ---
 
-{{ Image(name="/images/2010/12/ellalu.jpg", float="right") }}
+{{ Image(issue="2010/12", filename="ellalu.jpg", float="right") }}
 
 ఎల్లలెరుగని వాళ్ళము -  కల్లలెరుగని  వాళ్ళము    
 బాలలం  మేమొక్కటే  లోకమూ  మా కొక్కటే  

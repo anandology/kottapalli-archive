@@ -22,7 +22,7 @@ extra:
     గానం:  సమర, రాశి- నాలుగో తరగతి, ప్రకృతి బడి, చెన్నేకొత్తపల్లి'
 ---
 
-{{ Image(name="/images/2008/09/samudrateeramupotimi.gif", float="right") }}
+{{ Image(issue="2008/09", filename="samudrateeramupotimi.gif", float="right") }}
 
 <pre class="song">
 సముద్ర తీరం పోతిమి, చాల సేపు చూస్తిమి

@@ -10,13 +10,13 @@ taxonomies:
   - 2008-04
 extra:
   issue_name: ఏప్రిల్ 2008
-  intro: '{{ Image(name="/images/2008/04/chittime.gif", float="thumb") }}
+  intro: '{{ Image(issue="2008/04", filename="chittime.gif", float="thumb") }}
 
 
     వరలక్ష్మి'
 ---
 
-{{ Image(name="/images/2008/04/vekuvamma.jpg", float="left") }}
+{{ Image(issue="2008/04", filename="vekuvamma.jpg", float="left") }}
 
 వేకువమ్మ లేచింది  
 తూరుపు వాకిలి తెరిచింది  

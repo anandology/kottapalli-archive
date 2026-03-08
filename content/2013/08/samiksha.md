@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/08
 ---
 
-{{ Image(name="/images/2013/08/julycover.jpg", float="left") }}
+{{ Image(issue="2013/08", filename="julycover.jpg", float="left") }}
 
 చల్లటి గాలులు, చిటపట చినుకులు, తొలకరివాన వాసనలు- వీటన్నంటినీ  గుర్తుకు తెచ్చాయి, ఈ నెల ముఖచిత్రం,  సంపాదకీయం - రెండూ ! 
 

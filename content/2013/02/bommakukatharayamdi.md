@@ -16,7 +16,7 @@ extra:
 
 ఈ బొమ్మను చూడండి!
 
-{{ Image(name="/images/2013/02/bommakukatha.jpg", float="center") }}
+{{ Image(issue="2013/02", filename="bommakukatha.jpg", float="center") }}
 
 పట్నంలో చదువుకునే సుభాష్ పల్లెకొచ్చి,  ఎద్దులబండి ఎక్కాల్సి వచ్చింది.
 

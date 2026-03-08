@@ -16,7 +16,7 @@ extra:
 
 ఈ  బొమ్మను చూడండి.. దీన్ని చూస్తే మీకేమనిపిస్తున్నది?
 
-{{ Image(name="/images/2011/07/monkey.jpg", float="right") }}
+{{ Image(issue="2011/07", filename="monkey.jpg", float="right") }}
 
 కోతి, పాపం అలిసిపోయినట్లున్నది.  
 వేరే చోటేమీ దొరకలేదో, ఏమో-   

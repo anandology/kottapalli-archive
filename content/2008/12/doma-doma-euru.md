@@ -14,7 +14,7 @@ extra:
     మండలం, ఆదిలాబాదు జిల్లా.'
 ---
 
-{{ Image(name="/images/2008/12/domadoma_evuru.gif", float="right") }}
+{{ Image(issue="2008/12", filename="domadoma_evuru.gif", float="right") }}
 
 <pre class='song'>
 దోమా దోమా ఏ ఊరు?

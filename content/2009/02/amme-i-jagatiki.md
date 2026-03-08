@@ -14,7 +14,7 @@ extra:
     జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/02/amme_e_jagatiki.gif", float="right") }}
+{{ Image(issue="2009/02", filename="amme_e_jagatiki.gif", float="right") }}
 
 <pre class="song">
 అమ్మే ఈ జగతికి తొలి సూర్య కిరణం

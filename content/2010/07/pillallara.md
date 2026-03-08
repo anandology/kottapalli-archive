@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: మల్లికార్జున బృందం, టింబక్టు బడి.'
 ---
 
-{{ Image(name="/images/2010/07/pillalam.jpg", float="center") }}
+{{ Image(issue="2010/07", filename="pillalam.jpg", float="center") }}
 
 
 పిల్లలము పసి పిల్లలము   

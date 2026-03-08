@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2012/05
 ---
 
-{{ Image(name="/images/2012/05/1.jpg", float="right") }}
+{{ Image(issue="2012/05", filename="1.jpg", float="right") }}
 
 <br><br>
 
@@ -24,7 +24,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2012/05/2.jpg", float="left") }}
+{{ Image(issue="2012/05", filename="2.jpg", float="left") }}
 
 <br><br>
 
@@ -35,7 +35,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2012/05/3.jpg", float="right") }}
+{{ Image(issue="2012/05", filename="3.jpg", float="right") }}
 
 <br><br>
 
@@ -44,7 +44,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2012/05/4.jpg", float="left") }}
+{{ Image(issue="2012/05", filename="4.jpg", float="left") }}
 
 <br><br>
 
@@ -54,7 +54,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2012/05/5.jpg", float="right") }}
+{{ Image(issue="2012/05", filename="5.jpg", float="right") }}
 
 <br><br>
 
@@ -62,7 +62,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2012/05/6.jpg", float="left") }}
+{{ Image(issue="2012/05", filename="6.jpg", float="left") }}
 
 <br><br>
 
@@ -72,7 +72,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2012/05/8.jpg", float="right") }}
+{{ Image(issue="2012/05", filename="8.jpg", float="right") }}
 
 <br><br>
 
@@ -83,7 +83,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2012/05/7.jpg", float="left") }}
+{{ Image(issue="2012/05", filename="7.jpg", float="left") }}
 
 <br><br>
 
@@ -99,7 +99,7 @@ extra:
 "మా  సీతాకోక చిలుక  ఉందిగా, దానిమీద   ఎక్కి పోవచ్చులే" అని ఎలుగుబంటి సీతాకోక చిలుకను రమ్మన్నది. 
 
 
-{{ Image(name="/images/2012/05/9.jpg", float="right") }}
+{{ Image(issue="2012/05", filename="9.jpg", float="right") }}
 
 <br><br>
 
@@ -110,7 +110,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2012/05/10.jpg", float="left") }}
+{{ Image(issue="2012/05", filename="10.jpg", float="left") }}
 
 <br><br>
 

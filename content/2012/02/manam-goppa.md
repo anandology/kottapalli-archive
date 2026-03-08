@@ -18,7 +18,7 @@ extra:
   redirect: /dashboard/2012/02
 ---
 
-{{ Image(name="/images/2012/02/manamgoppa.jpg", float="center") }}
+{{ Image(issue="2012/02", filename="manamgoppa.jpg", float="center") }}
 
 గాలి, నీళ్ళు  మంచి స్నేహితులు. ఇద్దరూ  అనేక  జీవరాసులకు  ఉపయోగ-పడుతుంటారు. 
 

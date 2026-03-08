@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2018/12
 ---
 
-{{ Image(name="/images/2018/12/kotta1.jpg", float="left") }}
+{{ Image(issue="2018/12", filename="kotta1.jpg", float="left") }}
 
 <br><br><br><br><br>
 అర్ధ రాతిరి వరకు   
@@ -23,7 +23,7 @@ extra:
 మరల చదవగ వేణు   
 <br><br><br><br>
 
-{{ Image(name="/images/2018/12/kotta2.jpg", float="right") }}
+{{ Image(issue="2018/12", filename="kotta2.jpg", float="right") }}
 
 <br><br><br><br><br>
 పొత్తములు మూసేసి   
@@ -32,7 +32,7 @@ extra:
 తెగ కృంగి పోయాడు    
 <br><br><br><br><br>
 
-{{ Image(name="/images/2018/12/kotta3.jpg", float="left") }}
+{{ Image(issue="2018/12", filename="kotta3.jpg", float="left") }}
 
 <br><br><br>
 మనవ డేడ్పును విని   
@@ -46,7 +46,7 @@ extra:
 చూడమని కోరారు     
 <br><br><br><br>
 
-{{ Image(name="/images/2018/12/kotta4.jpg", float="right") }}
+{{ Image(issue="2018/12", filename="kotta4.jpg", float="right") }}
 
 <br>
 కొండలు గుట్టలు     
@@ -65,7 +65,7 @@ extra:
 ముదము చేకూర్చాయి   
  
 
-{{ Image(name="/images/2018/12/kotta5.jpg", float="left") }}
+{{ Image(issue="2018/12", filename="kotta5.jpg", float="left") }}
 
 <br><br>
 వేణు వాటిని చూచి    
@@ -74,7 +74,7 @@ extra:
 పూర్తిగా మరిచాడు    
 <br><br>
 
-{{ Image(name="/images/2018/12/kotta6.jpg", float="right") }}
+{{ Image(issue="2018/12", filename="kotta6.jpg", float="right") }}
 
 <br>
 అది మంచి సమయమని    
@@ -83,7 +83,7 @@ extra:
 బుజ్జగించారు:     
  <br><br>
 
-{{ Image(name="/images/2018/12/kotta7.jpg", float="left") }}
+{{ Image(issue="2018/12", filename="kotta7.jpg", float="left") }}
 
 <br><br><br><br><br><br><br>
 "ప్రకృతిని చూడగా   
@@ -97,7 +97,7 @@ extra:
 ఇవి యన్ని పాటించు     
 <br><br><br><br><br><br><br>
 
-{{ Image(name="/images/2018/12/kotta6.jpg", float="right") }}
+{{ Image(issue="2018/12", filename="kotta6.jpg", float="right") }}
 
 "కొనసాగ గలదపుడు     
 నీ చదువు దర్జాగ     

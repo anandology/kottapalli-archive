@@ -14,9 +14,9 @@ extra:
   redirect: /dashboard/2015/12
 ---
 
-{{ Image(name="/images/2015/12/pisi1.jpg", float="center") }}
+{{ Image(issue="2015/12", filename="pisi1.jpg", float="center") }}
 
-{{ Image(name="/images/2015/12/pisi2.jpg", float="right") }}
+{{ Image(issue="2015/12", filename="pisi2.jpg", float="right") }}
 
 <br><br>
 అనగనగా ఒక ఊరు. ఆ ఊరిలో ఒక పిసినారి వాడు ఉండేవాడు. వాడి పేరు రాముడు. 
@@ -24,19 +24,19 @@ extra:
 ఒకరోజు వాడు ఒక పిల్లిని కొనడానికి జంతువుల అంగడికి వెళ్లాడు. అక్కడ పిల్లిని చూసి" ఈ పిల్లి ఎంత?" అని అంగడి వాడిని అడిగాడు. 
 <br><br><br>
 
-{{ Image(name="/images/2015/12/pisi3.jpg", float="left") }}
+{{ Image(issue="2015/12", filename="pisi3.jpg", float="left") }}
 
 <br><br><br><br>
 "నాలుగు రూపాయలు" అన్నాడు అంగడివాడు. 
 <br><br><br><br>
 
-{{ Image(name="/images/2015/12/pisi4.jpg", float="right") }}
+{{ Image(issue="2015/12", filename="pisi4.jpg", float="right") }}
 
 <br><br><br><br>
 అప్పుడు రాముడు "రెండు రూపాయలకు ఇస్తావా?" అని అడిగాడు. 
 <br><br><br><br>
 
-{{ Image(name="/images/2015/12/pisi5.jpg", float="left") }}
+{{ Image(issue="2015/12", filename="pisi5.jpg", float="left") }}
 
 <br><br><br>
 "ఇవ్వను. నువ్వు నా అంగడి శుభ్రం చేస్తే 
@@ -45,19 +45,19 @@ extra:
 సరే అని అంగడి నంతా శుభ్రం చేశాడు రాముడు, తుమ్ము-కుంటూ. 
 <br><br>
 
-{{ Image(name="/images/2015/12/pisi6.jpg", float="right") }}
+{{ Image(issue="2015/12", filename="pisi6.jpg", float="right") }}
 
 <br><br><br><br>
 ఆ తర్వాత సంతోషంగా రెండు రూపాయలు ఇచ్చి పిల్లిని తీసుకొని ఇంటికి వెళ్లాడు. 
 <br><br><br><br>
 
-{{ Image(name="/images/2015/12/pisi7.jpg", float="left") }}
+{{ Image(issue="2015/12", filename="pisi7.jpg", float="left") }}
 
 <br><br><br><br><br>
 కానీ అంగడి శుభ్రం చేసినందుకు వాడికి జ్వరం వచ్చింది. 
 <br><br><br><br>
 
-{{ Image(name="/images/2015/12/pisi8.jpg", float="right") }}
+{{ Image(issue="2015/12", filename="pisi8.jpg", float="right") }}
 
 <br><br><br><br>
 రెండు రూపాయలు ఆదా చేద్దామనుకుంటే హాస్పిటల్‌ ఖర్చులు రెండు వందలయ్యాయి.

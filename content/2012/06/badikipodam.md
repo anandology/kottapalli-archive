@@ -16,7 +16,7 @@ extra:
   redirect: /dashboard/2012/06
 ---
 
-{{ Image(name="/images/2012/06/pata3.jpg", float="right") }}
+{{ Image(issue="2012/06", filename="pata3.jpg", float="right") }}
 
 కలసి  సాగుదాం - బడికి కదులుదాం      
 అలుపు సొలుపు  మరచిపోయి      

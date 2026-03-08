@@ -14,7 +14,7 @@ extra:
     \ ఛైల్డ్ సెంటర్డ్ ఎజుకేషన్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2011/08/pata2.jpg", float="right") }}
+{{ Image(issue="2011/08", filename="pata2.jpg", float="right") }}
 
 <pre>
 పాలపిట్ట రావే 

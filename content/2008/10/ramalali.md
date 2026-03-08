@@ -17,7 +17,7 @@ extra:
     \ చరణంలో ’జోకొట్టి..’ కాక మరేదైనా ఉండి, గతించిందేమో అనిపిస్తుంది."
 ---
 
-{{ Image(name="/images/2008/10/ramalali.jpg", float="right") }}
+{{ Image(issue="2008/10", filename="ramalali.jpg", float="right") }}
 
 <pre class="song">
 రామాలాలీ మేఘ శ్యామా లాలీ రామా

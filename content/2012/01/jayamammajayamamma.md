@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/01
 ---
 
-{{ Image(name="/images/2012/01/jayamamma.jpg", float="right") }}
+{{ Image(issue="2012/01", filename="jayamamma.jpg", float="right") }}
 
 జయమమ్మ జయమమ్మ జయము    
 జయమమ్మ జయమమ్మ  జననీ    

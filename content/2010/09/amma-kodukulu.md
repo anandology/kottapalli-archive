@@ -14,7 +14,7 @@ extra:
     \ A.S.గీతిక, C.భవ్య, ఏడవతరగతి, టింబక్టు బడి."
 ---
 
-{{ Image(name="/images/2010/09/amma_.jpg", float="right") }}
+{{ Image(issue="2010/09", filename="amma_.jpg", float="right") }}
 
 అమ్మకొడుకులందరూ అన్నదమ్ములే    
 ఆ పిల్లల నవ్వులన్ని అమ్మ సొమ్ములే    

@@ -13,7 +13,7 @@ extra:
   intro: 'నిర్వహణ: శ్రీమతి జి.లలిత, telugu4kids.com'
 ---
 
-{{ Image(name="/images/2011/10/kuraganapathi.jpg", float="right") }}
+{{ Image(issue="2011/10", filename="kuraganapathi.jpg", float="right") }}
 
 ఈ  బొమ్మ ను చూడండి. ఎవరు  ఇది?
 

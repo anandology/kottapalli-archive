@@ -17,7 +17,7 @@ extra:
   redirect: /dashboard/2017/09
 ---
 
-{{ Image(name="/images/2017/09/thala1.jpg", float="left") }}
+{{ Image(issue="2017/09", filename="thala1.jpg", float="left") }}
 
 <br>
 
@@ -25,7 +25,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2017/09/thala2.jpg", float="right") }}
+{{ Image(issue="2017/09", filename="thala2.jpg", float="right") }}
 
 <br><br><br><br>
 
@@ -33,7 +33,7 @@ extra:
 
 <br><br>
 
-{{ Image(name="/images/2017/09/thala3.jpg", float="left") }}
+{{ Image(issue="2017/09", filename="thala3.jpg", float="left") }}
 
 <br>
 
@@ -42,7 +42,7 @@ extra:
 
 <br><br><br><br>
 
-{{ Image(name="/images/2017/09/thala4.jpg", float="right") }}
+{{ Image(issue="2017/09", filename="thala4.jpg", float="right") }}
 
 <br><br><br>
 
@@ -50,7 +50,7 @@ extra:
 
 <br><br><br><br><br><br>
 
-{{ Image(name="/images/2017/09/thala5.jpg", float="left") }}
+{{ Image(issue="2017/09", filename="thala5.jpg", float="left") }}
 
 <br><br><br>
 
@@ -58,7 +58,7 @@ extra:
 
 <br><br><br>
 
-{{ Image(name="/images/2017/09/thala6.jpg", float="right") }}
+{{ Image(issue="2017/09", filename="thala6.jpg", float="right") }}
 
 <br>
 

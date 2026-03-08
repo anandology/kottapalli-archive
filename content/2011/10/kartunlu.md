@@ -13,13 +13,13 @@ extra:
   intro: 'కార్టూన్లు:  Sakshi Joshi, 7th Class, Rishi Valley School, Madanapalli.'
 ---
 
-{{ Image(name="/images/2011/10/cartoonschool.jpg", float="left") }}
+{{ Image(issue="2011/10", filename="cartoonschool.jpg", float="left") }}
 
 
-{{ Image(name="/images/2011/10/cartoonkorika.jpg", float="left") }}
+{{ Image(issue="2011/10", filename="cartoonkorika.jpg", float="left") }}
 
 
-{{ Image(name="/images/2011/10/cartoonnalugu.jpg", float="right") }}
+{{ Image(issue="2011/10", filename="cartoonnalugu.jpg", float="right") }}
 
 
-{{ Image(name="/images/2011/10/cartoonvenaka.jpg", float="right") }}
+{{ Image(issue="2011/10", filename="cartoonvenaka.jpg", float="right") }}

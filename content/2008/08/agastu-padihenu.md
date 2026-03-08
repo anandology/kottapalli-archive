@@ -14,7 +14,7 @@ extra:
     హైదరాబాదు.'
 ---
 
-{{ Image(name="/images/2008/08/jenda.gif", float="right") }}
+{{ Image(issue="2008/08", filename="jenda.gif", float="right") }}
 
 ఆగస్టు పదిహేను నేడేనోయ్  
 అందరికి స్వరాజ్యమిదిగోనోయ్  

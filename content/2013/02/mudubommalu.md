@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2013/02
 ---
 
-{{ Image(name="/images/2013/02/mudubommalu.jpg", float="center") }}
+{{ Image(issue="2013/02", filename="mudubommalu.jpg", float="center") }}
 
 రాజ్యానికి  ఓ దివాన్  కావాలని   ప్రకటన   ఇచ్చాడు, చంద్రగిరిని పాలించే విజయసేనుడు . 
 

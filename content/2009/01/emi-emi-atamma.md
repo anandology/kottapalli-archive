@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: ఆమని, మూడవ తరగతి, టింబక్టు బడి, అనంతపురం జిల్లా.'
 ---
 
-{{ Image(name="/images/2009/01/emiemi_atamma.gif", float="right") }}
+{{ Image(issue="2009/01", filename="emiemi_atamma.gif", float="right") }}
 
 <pre class="song">
 ఏమి ఏమి ఆటమ్మా

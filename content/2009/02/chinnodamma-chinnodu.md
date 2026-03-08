@@ -13,7 +13,7 @@ extra:
   intro: 'గానం: శొంఠినేని నితిన్ గోపాల్, లింగారావుపాలెం'
 ---
 
-{{ Image(name="/images/2009/02/cinnodamma.gif", float="right") }}
+{{ Image(issue="2009/02", filename="cinnodamma.gif", float="right") }}
 
 <pre class="song">
 చిన్నోడమ్మ చిన్నోడు 

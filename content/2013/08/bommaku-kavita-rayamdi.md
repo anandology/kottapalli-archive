@@ -17,7 +17,7 @@ extra:
 ఈ   బొమ్మను   చూ డండి; ఈ   కవితను చదవండి!      
 వీలైతే మీరూ ఓ కవిత రాసి  పంపండి మాకు; వీలు చేసుకొని ప్రచురిస్తాం!
 
-{{ Image(name="/images/2013/08/kolanubomma1.jpg", float="right") }}
+{{ Image(issue="2013/08", filename="kolanubomma1.jpg", float="right") }}
 
 <br><br>
 పిల్లలు ఆడుకునే తోటలోనే    
@@ -27,7 +27,7 @@ extra:
 <br><br>
 
 
-{{ Image(name="/images/2013/08/kolanubomma2.jpg", float="left") }}
+{{ Image(issue="2013/08", filename="kolanubomma2.jpg", float="left") }}
 
 <br><br>
 బాట మధ్యలో వంతెన ఒకటుంది     

@@ -18,7 +18,7 @@ extra:
 
 **నిజం నోటే!!**
 
-{{ Image(name="/images/2009/01/joke3.gif", float="right") }}
+{{ Image(issue="2009/01", filename="joke3.gif", float="right") }}
 
 రవి:  అమ్మా చూడు, నాకు రోడ్డు మీద పది రూపాయల నోటు దొరికింది!
 
@@ -30,7 +30,7 @@ extra:
 
 **జాలి చీమలు**
 
-{{ Image(name="/images/2009/01/joke2.gif", float="right") }}
+{{ Image(issue="2009/01", filename="joke2.gif", float="right") }}
 
 దారివెంట రెండు చీమలు వెళ్తున్నాయి. వాటికి ఎదురుగా ఒక ఏనుగు వస్తున్నది.
 
@@ -40,7 +40,7 @@ extra:
 
 **అగ్నిహోత్రుడు**
 
-{{ Image(name="/images/2009/01/joke5.gif", float="right") }}
+{{ Image(issue="2009/01", filename="joke5.gif", float="right") }}
 
 భర్త:  ఏమనుకుంటున్నావో ఏమో! నాకు గనక కోపం వస్తే ఈ ప్రపంచం అంతా మాడి మసైపోక తప్పదు!
 
@@ -48,7 +48,7 @@ extra:
 
 **అభినవ ఐన్స్టీన్!**
 
-{{ Image(name="/images/2009/01/joke1.gif", float="right") }}
+{{ Image(issue="2009/01", filename="joke1.gif", float="right") }}
 
 రాము:  ఒరేయ్ రాజూ!  నువ్వు పట్టుకున్న గొడుక్కి రంధ్రం పడిందిరా!
 
@@ -60,7 +60,7 @@ extra:
 
 **మంచి బాలుడు!**
 
-{{ Image(name="/images/2009/01/joke4.gif", float="right") }}
+{{ Image(issue="2009/01", filename="joke4.gif", float="right") }}
 
 తల్లి:  ఏంట్రా! అప్పుడే వచ్చేశావు?
 

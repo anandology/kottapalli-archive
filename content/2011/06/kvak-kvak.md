@@ -14,7 +14,7 @@ extra:
     \ సెంటర్డ్ ఎజుకేషన్, విజయవాడ."
 ---
 
-{{ Image(name="/images/2011/06/quack.jpg", float="right") }}
+{{ Image(issue="2011/06", filename="quack.jpg", float="right") }}
 
 
 క్వాక్ క్వాక్ క్వాక్! క్వాక్ క్వాక్ క్వాక్!    

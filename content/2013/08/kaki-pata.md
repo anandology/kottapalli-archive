@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/08
 ---
 
-{{ Image(name="/images/2013/08/kakisong.jpg", float="right") }}
+{{ Image(issue="2013/08", filename="kakisong.jpg", float="right") }}
 
 కాకి కాకి    
 కడవల కాకి    

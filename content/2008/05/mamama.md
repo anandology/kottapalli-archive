@@ -13,7 +13,7 @@ extra:
   intro: గణేశ్, 1 వ తరతతి.
 ---
 
-{{ Image(name="/images/2008/05/mamama.gif", float="right") }}
+{{ Image(issue="2008/05", filename="mamama.gif", float="right") }}
 
 <pre>
 మామామ మంచోడు 

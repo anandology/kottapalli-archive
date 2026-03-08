@@ -14,7 +14,7 @@ extra:
   redirect: /dashboard/2013/05
 ---
 
-{{ Image(name="/images/2013/05/mallemogga.JPG", float="left") }}
+{{ Image(issue="2013/05", filename="mallemogga.JPG", float="left") }}
 
 చిన్న చిన్న పిల్లలం    
 మల్లె పూల మొగ్గలం    
@@ -25,7 +25,7 @@ extra:
 "చిన్న చిన్న" 
 <br><br><br><br>
 
-{{ Image(name="/images/2013/05/raindrop.jpg", float="right") }}
+{{ Image(issue="2013/05", filename="raindrop.jpg", float="right") }}
 
 <br><br>
  స్వాతి వాన చినుకుల్లో     
@@ -37,7 +37,7 @@ extra:
 "చిన్న చిన్న" 
 <br><br>
 
-{{ Image(name="/images/2013/05/ramachiluka.jpg", float="left") }}
+{{ Image(issue="2013/05", filename="ramachiluka.jpg", float="left") }}
 
 <br><br>
 జామ చెట్ల తోటలోన    
@@ -49,7 +49,7 @@ extra:
 "చిన్న చిన్న" 
 <br><br>
 
-{{ Image(name="/images/2013/05/boatinriver.jpg", float="right") }}
+{{ Image(issue="2013/05", filename="boatinriver.jpg", float="right") }}
 
 <br><br>
 కృష్ణానదిని చుట్టుముట్టు    

@@ -15,7 +15,7 @@ extra:
   redirect: /dashboard/2012/03
 ---
 
-{{ Image(name="/images/2012/03/raitu.jpg", float="center") }}
+{{ Image(issue="2012/03", filename="raitu.jpg", float="center") }}
 
 సోమందేపల్లిలో నివసించే సోమయ్య మంచి రైతు.  అయితే చాలా అమాయకుడు. 
 
