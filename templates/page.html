@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% import "macros/categories.html" as cat %}
 
 {% block title %}{{ page.title }}{% endblock %}
 
@@ -25,17 +26,7 @@
         </a>
     </div>
     {% endif %}
-    {% set pages_by_cat = issue.pages | group_by(attribute="taxonomies.category.0") %}
-    {% for cat, articles in pages_by_cat %}
-        <h1>{{ cat }}</h1>
-        <div class="menu">
-        <ul>
-        {% for a in articles %}
-            <li><a href="{{ a.path }}">{{ a.title }}</a></li>
-        {% endfor %}
-        </ul>
-        </div>
-    {% endfor %}
+    {{ cat::sidebar(pages=issue.pages) }}
 {% endif %}
 {% endblock sidebar %}
 
