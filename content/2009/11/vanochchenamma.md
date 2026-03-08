@@ -31,4 +31,4 @@ extra:
 వానొచ్చెనమ్మా వరదొచ్చెనమ్మా     
 పనిలోని పిల్లగాడు బడికొచ్చెనమ్మా.
 
-{{Audio("Vanocchenamma_by_Amani,_Aparna,_Pavan.mp3")}}
+{{ Audio(issue="2009/11", filename="Vanocchenamma_by_Amani,_Aparna,_Pavan.mp3") }}

@@ -33,4 +33,4 @@ extra:
 మనిషి మనిషికి మధ్య మమతలు పెరగాలి    
 నీతి నిజాయితీ నీఎత్తు పెరగాలి 		॥ఎగురవే ॥
 
-{{Audio("Egurave_K_Mar10.mp3")}}
+{{ Audio(issue="2010/03", filename="Egurave_K_Mar10.mp3") }}

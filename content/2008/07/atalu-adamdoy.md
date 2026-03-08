@@ -41,4 +41,4 @@ extra:
 ఆటలు ఆడండోయ్ బాలలు ఆటలు ఆడండోయ్  
 ఆటలు ఆడండోయ్ బాలలు ఆటలు ఆడండోయ్  
 
-{{Audio("Atalu_Adandoy.mp3")}}
+{{ Audio(issue="2008/07", filename="Atalu_Adandoy.mp3") }}

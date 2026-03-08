@@ -66,4 +66,4 @@ extra:
 చెప్పులు!
 </pre>
 
-{{Audio('podupukatha_pata_by_chandra_reddy_saiad.mp3')}}
+{{ Audio(issue="2008/09", filename="podupukatha_pata_by_chandra_reddy_saiad.mp3") }}

@@ -24,4 +24,4 @@ extra:
 సీత జడలో చేమంతి!
 </pre>
 
-{{Audio('uru_uru_by_rasi_and_sirisha.mp3')}}
+{{ Audio(issue="2008/11", filename="uru_uru_by_rasi_and_sirisha.mp3") }}

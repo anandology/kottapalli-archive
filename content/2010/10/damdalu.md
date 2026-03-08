@@ -50,4 +50,4 @@ extra:
 దండాలు దండాలు భారత మాతా!    
 అవి అందుకుని దీవించు భారత మాతా !!
 
-{{Audio("dandalu.mp3")}}
+{{ Audio(issue="2010/10", filename="dandalu.mp3") }}

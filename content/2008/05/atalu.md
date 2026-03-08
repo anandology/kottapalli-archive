@@ -42,4 +42,4 @@ extra:
 తియ్య తియ్య తాయిలమేదో తీసి పెట్టమ్మా 
 </pre>
 
-{{Audio("aatalu_by_anjali.mp3")}}
+{{ Audio(issue="2008/05", filename="aatalu_by_anjali.mp3") }}

@@ -44,4 +44,4 @@ extra:
 ఓమామా  
 నిన్ను నన్ను పిలిచింది సైగ చేసి		||నీలి నీలి||
 
-{{Audio('neeli_neeli_konda_meeda.mp3')}}
+{{ Audio(issue="2008/08", filename="neeli_neeli_konda_meeda.mp3") }}

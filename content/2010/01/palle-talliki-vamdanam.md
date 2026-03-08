@@ -27,4 +27,4 @@ extra:
 శాంతి కాంతులు పంచిపెట్టే  పల్లె తల్లికి వందనం         
 ।పల్లె తల్లికి వందనం ।
 
-{{Audio("Pallethalliki_Vandanam.mp3")}}
+{{ Audio(issue="2010/01", filename="Pallethalliki_Vandanam.mp3") }}

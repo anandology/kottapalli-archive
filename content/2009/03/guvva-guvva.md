@@ -32,4 +32,4 @@ extra:
 పాటలన్నీ కిల కిలా పాడడానికి.
 </pre>
 
-{{Audio('Guvva_Guvva_by_G_Pothi_Reddy_and_J_Soujanya.mp3')}}
+{{ Audio(issue="2009/03", filename="Guvva_Guvva_by_G_Pothi_Reddy_and_J_Soujanya.mp3") }}

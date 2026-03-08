@@ -40,4 +40,4 @@ extra:
 వసంతురాకఎందుకో(2)   
 'ఎందుకో..?'
 
-{{Audio("enduko.mp3")}}
+{{ Audio(issue="2010/10", filename="enduko.mp3") }}

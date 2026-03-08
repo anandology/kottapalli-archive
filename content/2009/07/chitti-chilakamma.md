@@ -28,4 +28,4 @@ extra:
 
 గుటుక్కు మింగావా!
 
-{{Audio("chtt_chlakamma.mp3")}}
+{{ Audio(issue="2009/07", filename="chtt_chlakamma.mp3") }}

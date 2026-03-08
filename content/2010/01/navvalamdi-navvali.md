@@ -31,4 +31,4 @@ extra:
 నవ్వుల కడలిలొ మునగాలి       
 ఇడుములనన్నీ దాటాలి!
 
-{{Audio("Navvalandi_Navvali_Pavan_Kumar.mp3")}}
+{{ Audio(issue="2010/01", filename="Navvalandi_Navvali_Pavan_Kumar.mp3") }}

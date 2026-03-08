@@ -27,4 +27,4 @@ extra:
 సవారి చేదాం          
 చలో! చలో!      
 
-{{Audio("rangularatnam.mp3")}}
+{{ Audio(issue="2010/02", filename="rangularatnam.mp3") }}

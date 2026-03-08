@@ -43,4 +43,4 @@ extra:
 |ఇంగిలీషు|
 </pre>
 
-{{Audio('english_bhasha_by_murthy.mp3')}}
+{{ Audio(issue="2009/01", filename="english_bhasha_by_murthy.mp3") }}

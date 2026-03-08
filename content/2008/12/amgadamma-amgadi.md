@@ -33,4 +33,4 @@ extra:
 ఆదివారం  అంగడి
 </pre>
 
-{{Audio('angadamma_by_sravali_4th_class.mp3')}}
+{{ Audio(issue="2008/12", filename="angadamma_by_sravali_4th_class.mp3") }}

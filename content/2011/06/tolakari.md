@@ -56,4 +56,4 @@ extra:
 వనములు మనము పెంచాలి.    
 "తొలకరి జల్లులు జీవంరా.."     
 
-{{Audio("Tolakarijallulu_Jeevamla.mp3")}}
+{{ Audio(issue="2011/06", filename="Tolakarijallulu_Jeevamla.mp3") }}

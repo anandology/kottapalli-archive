@@ -58,4 +58,4 @@ extra:
 
 తెల్లావును చూడు! దాని ప్రేమను చూడు!      "చెల్లీ రావే!"
 
-{{Audio("chellirave.mp3")}}
+{{ Audio(issue="2009/08", filename="chellirave.mp3") }}

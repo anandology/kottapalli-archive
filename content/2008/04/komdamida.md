@@ -27,4 +27,4 @@ extra:
 ఏవరికి ఏది కావాలో కోరుకోండి  
 చివరికి మీ తావుల్లో చేరుకోండి  
 
-{{Audio("kondameeda.mp3")}}
+{{ Audio(issue="2008/04", filename="kondameeda.mp3") }}

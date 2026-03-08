@@ -34,4 +34,4 @@ extra:
 జవర పట్ట బోతిమి, అన్నీ జారిపోయెను
 </pre>
 
-{{Audio('samudrateeram.mp3')}}
+{{ Audio(issue="2008/09", filename="samudrateeram.mp3") }}

@@ -20,4 +20,4 @@ extra:
 కంటినీళ్ళు తుడుచుకో      
 ఎవరు కావాలో‌కోరుకో    ।    
 
-{{Audio("kusuma.mp3")}}
+{{ Audio(issue="2014/02", filename="kusuma.mp3") }}

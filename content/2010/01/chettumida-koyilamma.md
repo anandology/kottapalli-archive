@@ -22,4 +22,4 @@ extra:
 మేకపిల్ల ఒకటి వచ్చి అరిచింది మేమే!            
 పిల్లలంత ఒక్కటిగా పిలిచారు- రా! రా!!
 
-{{Audio("Chettumeeda_Koyilamma_Kusindi.mp3")}}
+{{ Audio(issue="2010/01", filename="Chettumeeda_Koyilamma_Kusindi.mp3") }}

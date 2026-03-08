@@ -36,4 +36,4 @@ extra:
 ఒక్క చిలుక వంచుచుండగా, <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;వంచలేక ఒకటిపోతె ఇంకా సున్నా.!<br/>
 
-{{Audio("padi_chilakalu_by_sirisha.mp3")}}
+{{ Audio(issue="2008/05", filename="padi_chilakalu_by_sirisha.mp3") }}

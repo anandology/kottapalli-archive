@@ -41,4 +41,4 @@ extra:
 విజయాలను సాధిస్తాం         
 "బాలలము"
 
-{{Audio("Balalamu.mp3")}}
+{{ Audio(issue="2009/12", filename="Balalamu.mp3") }}

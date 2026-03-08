@@ -33,4 +33,4 @@ extra:
   
   
 
-{{Audio("narayana_narayana_by_samara.mp3")}}
+{{ Audio(issue="2008/07", filename="narayana_narayana_by_samara.mp3") }}

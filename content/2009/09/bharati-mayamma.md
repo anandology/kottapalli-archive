@@ -51,4 +51,4 @@ extra:
 
 </pre>
 
-{{Audio("Bharatimayamma_Bangaru_Thalli.mp3")}}
+{{ Audio(issue="2009/09", filename="Bharatimayamma_Bangaru_Thalli.mp3") }}

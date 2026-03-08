@@ -35,4 +35,4 @@ extra:
 మనిషికి  దివ్య  దీపం    		
 "దీపం ...”   
 
-{{Audio("dipam.mp3")}}
+{{ Audio(issue="2010/11", filename="dipam.mp3") }}

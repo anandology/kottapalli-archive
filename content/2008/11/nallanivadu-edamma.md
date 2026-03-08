@@ -29,4 +29,4 @@ extra:
 రేపల్లెలో వెతుకమ్మా!
 </pre>
 
-{{Audio('nallanivadu_edamma_by_pothireddy_and_riyaz.mp3')}}
+{{ Audio(issue="2008/11", filename="nallanivadu_edamma_by_pothireddy_and_riyaz.mp3") }}

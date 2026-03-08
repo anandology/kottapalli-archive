@@ -37,4 +37,4 @@ extra:
 
 </div>
 
-{{Audio("chimapata.mp3")}}
+{{ Audio(issue="2011/10", filename="chimapata.mp3") }}

@@ -26,4 +26,4 @@ extra:
 నాతో దౌడు తీస్తావా?
 </pre>
 
-{{Audio('STE-007.mp3')}}
+{{ Audio(issue="2009/05", filename="STE-007.mp3") }}

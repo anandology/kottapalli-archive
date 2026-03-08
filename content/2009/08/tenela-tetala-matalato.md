@@ -51,4 +51,4 @@ extra:
 
 మానస వీధిని నిలుపుకొని.....   "తేనెల"
 
-{{Audio("tenelatetala_by_roja_gayatri.mp3")}}
+{{ Audio(issue="2009/08", filename="tenelatetala_by_roja_gayatri.mp3") }}

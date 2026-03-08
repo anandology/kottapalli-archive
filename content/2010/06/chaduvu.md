@@ -28,4 +28,4 @@ extra:
 
 జయించే మహాబలం
 
-{{Audio("caduvu2.mp3")}}
+{{ Audio(issue="2010/06", filename="caduvu2.mp3") }}

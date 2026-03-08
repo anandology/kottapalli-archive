@@ -33,4 +33,4 @@ extra:
 నిద్రపోయే మొద్దురాముడూ టైమెంత, టైమెంత?  
 ఎనిమిది గంటలు గుర్ గుర్ గుర్ ఎనిమిది గంటలు గుర్ గుర్ గుర్.  
 
-{{Audio("kodipunju_by_anjali.mp3")}}
+{{ Audio(issue="2008/07", filename="kodipunju_by_anjali.mp3") }}

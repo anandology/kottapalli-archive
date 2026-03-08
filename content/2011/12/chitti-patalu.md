@@ -25,7 +25,7 @@ extra:
 కమ్మగుంది చాలా! 
 </pre>
 
-{{Audio("Jola.mp3")}}
+{{ Audio(issue="2011/12", filename="Jola.mp3") }}
 
 <br><br>
 
@@ -42,7 +42,7 @@ extra:
 మా పాప బుగ్గలు రోజాలు!     
 </pre>
 
-{{Audio("BangaruBomma.mp3", count=1)}}
+{{ Audio(issue="2011/12", filename="BangaruBomma.mp3") }}
 
 <br><br>
 
@@ -60,7 +60,7 @@ extra:
 సవారీ చేద్దాం చలో చలో!     
 </pre>
 
-{{Audio("RangulaRatnam.mp3", count=2)}}
+{{ Audio(issue="2011/12", filename="RangulaRatnam.mp3") }}
 
 <br><br>
 
@@ -79,4 +79,4 @@ extra:
 </pre>
 
 
-{{Audio("Emandhi.mp3", count=3)}}
+{{ Audio(issue="2011/12", filename="Emandhi.mp3") }}

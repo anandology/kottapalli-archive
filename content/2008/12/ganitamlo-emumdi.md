@@ -35,4 +35,4 @@ extra:
 |గణితంలో|
 </pre>
 
-{{Audio('ganitamlo_emundi_swathi_5th_class.mp3')}}
+{{ Audio(issue="2008/12", filename="ganitamlo_emundi_swathi_5th_class.mp3") }}

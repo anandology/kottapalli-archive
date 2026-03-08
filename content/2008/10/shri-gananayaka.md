@@ -45,4 +45,4 @@ extra:
 |శ్రీ గణనాయకా|
 </pre>
 
-{{Audio('srigananayaka.mp3')}}
+{{ Audio(issue="2008/10", filename="srigananayaka.mp3") }}

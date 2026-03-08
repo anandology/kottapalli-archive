@@ -23,4 +23,4 @@ extra:
 సవారి చేద్దాం చలో చలో!
 </pre>
 
-{{Audio("adigo_adigo_by_shameer.mp3")}}
+{{ Audio(issue="2008/05", filename="adigo_adigo_by_shameer.mp3") }}

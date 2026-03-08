@@ -30,4 +30,4 @@ extra:
 నువ్వెంత అందగాడివయ్య చందమామా  
 నువ్వెంత అందగాడివయ్య చందమామా  
 
-{{Audio("entabagunnavu_by_sirisha_and_rasi.mp3")}}
+{{ Audio(issue="2008/07", filename="entabagunnavu_by_sirisha_and_rasi.mp3") }}

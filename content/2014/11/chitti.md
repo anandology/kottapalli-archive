@@ -28,7 +28,7 @@ extra:
 పోలీస్ చూస్తే పరారీ!      
 <br><br>
 
-{{Audio("raju.mp3", count=0)}}
+{{ Audio(issue="2014/11", filename="raju.mp3") }}
 
 <br><br>
 **జున్ను వెన్న! **   
@@ -44,7 +44,7 @@ extra:
 
 <br><br>
 
-{{Audio("junnu.mp3",count=1)}}
+{{ Audio(issue="2014/11", filename="junnu.mp3") }}
 
 
 ** లేలేత మొగ్గ **    
@@ -61,4 +61,4 @@ extra:
 
 <br><br>
 
-{{Audio("mogga.mp3", count=2)}}
+{{ Audio(issue="2014/11", filename="mogga.mp3") }}

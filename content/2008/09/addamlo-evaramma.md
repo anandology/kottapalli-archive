@@ -25,4 +25,4 @@ extra:
 నేనెట్ల నవ్వితే తానట్లె నవ్వు
 </pre>
 
-{{Audio('addamlo_by_rasi.mp3')}}
+{{ Audio(issue="2008/09", filename="addamlo_by_rasi.mp3") }}

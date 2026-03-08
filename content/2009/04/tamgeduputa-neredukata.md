@@ -44,4 +44,4 @@ extra:
 ।ఓ తంగేడుపూత।
 </pre>
 
-{{Audio('tangeedupuuta.mp3')}}
+{{ Audio(issue="2009/04", filename="tangeedupuuta.mp3") }}

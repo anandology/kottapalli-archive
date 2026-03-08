@@ -30,4 +30,4 @@ extra:
 అత్త పాణం మిటమిటా!
 </pre>
 
-{{Audio('jamachettu.mp3')}}
+{{ Audio(issue="2009/03", filename="jamachettu.mp3") }}

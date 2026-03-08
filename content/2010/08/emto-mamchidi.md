@@ -34,4 +34,4 @@ extra:
 బంగారు పాపలు అంటుంది    
 "ఎంతోమంచిది"
 
-{{Audio("ento.mp3")}}
+{{ Audio(issue="2010/08", filename="ento.mp3") }}

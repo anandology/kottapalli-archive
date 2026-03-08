@@ -35,4 +35,4 @@ extra:
 నా  దేశపు చెదర ని ఖ్యాతి!!(2)    
 "వినువీధులలో ఎగిరే జండా"
 
-{{Audio("vinu_vidhulalo.mp3")}}
+{{ Audio(issue="2010/08", filename="vinu_vidhulalo.mp3") }}

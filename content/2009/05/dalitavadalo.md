@@ -34,4 +34,4 @@ extra:
 |దళిత|
 </pre>
 
-{{Audio('STE-009.mp3')}}
+{{ Audio(issue="2009/05", filename="STE-009.mp3") }}

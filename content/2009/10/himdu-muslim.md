@@ -52,4 +52,4 @@ extra:
 మతోన్మాదం భరతం పడదాం   "హిందూ"
 </pre>
 
-{{Audio("Hindu_muslim.mp3")}}
+{{ Audio(issue="2009/10", filename="Hindu_muslim.mp3") }}

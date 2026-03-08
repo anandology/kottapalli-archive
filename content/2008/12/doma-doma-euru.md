@@ -30,4 +30,4 @@ extra:
 పేడా దిబ్బా మా ఊరు!
 </pre>
 
-{{Audio('doma_doma_by_rajita_3rd_class.mp3')}}
+{{ Audio(issue="2008/12", filename="doma_doma_by_rajita_3rd_class.mp3") }}

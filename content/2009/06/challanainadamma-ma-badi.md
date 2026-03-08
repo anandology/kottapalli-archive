@@ -42,4 +42,4 @@ extra:
 |చల్లనైనదమ్మా|
 </pre>
 
-{{Audio("challanainadamma.mp3")}}
+{{ Audio(issue="2009/06", filename="challanainadamma.mp3") }}

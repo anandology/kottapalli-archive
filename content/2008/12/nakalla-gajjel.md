@@ -30,4 +30,4 @@ extra:
 తిరుగోయమ్మ తిరుగు
 </pre>
 
-{{Audio('naa_kalla_gajjel_by_shivani_3rd_class.mp3')}}
+{{ Audio(issue="2008/12", filename="naa_kalla_gajjel_by_shivani_3rd_class.mp3") }}

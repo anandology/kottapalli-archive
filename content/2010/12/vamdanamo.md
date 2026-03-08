@@ -35,4 +35,4 @@ extra:
 
 “వందనమో భారతమా"
 
-{{Audio("vandanamo.mp3")}}
+{{ Audio(issue="2010/12", filename="vandanamo.mp3") }}

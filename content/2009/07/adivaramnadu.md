@@ -32,4 +32,4 @@ extra:
 
 ఆదివారము నాడు అందరికి పంచితిమి అరటి హస్తములు.
 
-{{Audio("adivaramunadu_by_riyaj.mp3")}}
+{{ Audio(issue="2009/07", filename="adivaramunadu_by_riyaj.mp3") }}

@@ -30,4 +30,4 @@ extra:
 
 కర్ర చేత పట్టిన్రు!
 
-{{Audio("Mamidi_Pandu2.mp3")}}
+{{ Audio(issue="2010/06", filename="Mamidi_Pandu2.mp3") }}

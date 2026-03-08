@@ -27,4 +27,4 @@ extra:
 
 (ఇంతకీ ఎవరా  బూచోడు? టెలిఫోన్!)
 
-{{Audio("bucodu2.mp3")}}
+{{ Audio(issue="2010/06", filename="bucodu2.mp3") }}

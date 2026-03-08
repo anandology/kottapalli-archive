@@ -21,4 +21,4 @@ extra:
 అందరికీ ఇచ్చాడు మా మామ       
 నాకేమీ ఇయ్యలే బోడి మామ!
 
-{{Audio("Poddunne_Lechinadu_Ma_mama.mp3")}}
+{{ Audio(issue="2010/01", filename="Poddunne_Lechinadu_Ma_mama.mp3") }}

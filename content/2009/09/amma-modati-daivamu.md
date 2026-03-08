@@ -33,4 +33,4 @@ extra:
 ఔటు బలే పేలును!
 </pre>
 
-{{Audio("amma_modati2.mp3")}}
+{{ Audio(issue="2009/09", filename="amma_modati2.mp3") }}

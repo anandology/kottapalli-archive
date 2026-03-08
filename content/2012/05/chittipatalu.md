@@ -31,7 +31,7 @@ extra:
 ఎత్తు పీట పై కూర్చుంది    
 తానే  రాణని  మురిసింది 
 
-{{Audio("ranipata.mp3", count=0)}}
+{{ Audio(issue="2012/05", filename="ranipata.mp3") }}
 
 {{ Image(issue="2012/05", filename="p3.jpg", float="left") }}
 
@@ -62,7 +62,7 @@ extra:
 ఈతలోన పోటీ పెడితే    
 నాకే మొదటి బహుమతి వచ్చే !   
 
-{{Audio("nemalika.mp3", count=1)}}
+{{ Audio(issue="2012/05", filename="nemalika.mp3") }}
 
 <br><br>
 
@@ -78,6 +78,6 @@ extra:
 నెమిలి పింఛం విప్పింది   
 పింఛం మిల మిల మెరిసింది
 
-{{Audio("jangu_sankham.mp3", count=2)}}
+{{ Audio(issue="2012/05", filename="jangu_sankham.mp3") }}
 
 <br><br>

@@ -38,4 +38,4 @@ extra:
 పిల్ల పేరు -మల్లెమొగ్గ       
 నా పేరు -  జమీందార్!!
 
-{{Audio("kaaki_kaaki.mp3")}}
+{{ Audio(issue="2013/08", filename="kaaki_kaaki.mp3") }}

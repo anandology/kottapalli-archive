@@ -53,4 +53,4 @@ extra:
 మంద మందలుగ ఉంటారు
 </pre>
 
-{{Audio("Chukkala_ranulu_.mp3")}}
+{{ Audio(issue="2009/10", filename="Chukkala_ranulu_.mp3") }}

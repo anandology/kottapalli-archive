@@ -51,4 +51,4 @@ extra:
 |పయనించు|
 </pre>
 
-{{Audio('Payaninchu_neeli_megham_by_kumari.mp3')}}
+{{ Audio(issue="2009/03", filename="Payaninchu_neeli_megham_by_kumari.mp3") }}

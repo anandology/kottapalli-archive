@@ -42,4 +42,4 @@ extra:
 |చిన్ని చిన్ని పిల్లలం|
 </pre>
 
-{{Audio('chinnichinni.mp3')}}
+{{ Audio(issue="2009/01", filename="chinnichinni.mp3") }}

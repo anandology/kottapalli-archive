@@ -29,4 +29,4 @@ extra:
 చిలకలుగాని చిలకల్లారా  
 సీతాకోక చిలకల్లారా.   
 
-{{Audio("chilakalugani.mp3")}}
+{{ Audio(issue="2008/04", filename="chilakalugani.mp3") }}

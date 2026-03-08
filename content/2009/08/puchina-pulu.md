@@ -40,4 +40,4 @@ extra:
 
 పూబంతులాట ఆడన్నాయి!
 
-{{Audio("puchinapulu_as_nandana_t_amani.mp3")}}
+{{ Audio(issue="2009/08", filename="puchinapulu_as_nandana_t_amani.mp3") }}

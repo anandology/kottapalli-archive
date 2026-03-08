@@ -54,6 +54,6 @@ extra:
 నాట్యమాడుతున్నాయి.
 </pre>
 
-{{Audio('kodipillalu_pavan.mp3')}}
+{{ Audio(issue="2009/03", filename="kodipillalu_pavan.mp3") }}
 
-{{Audio('kodipillalu_harsha.mp3', count=1)}}
+{{ Audio(issue="2009/03", filename="kodipillalu_harsha.mp3") }}

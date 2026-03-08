@@ -38,4 +38,4 @@ extra:
 జగతి మరచు మగత- కలిగించు కూసె కూత   
 'కుహూ కుహూ'
 
-{{Audio("kuhu.mp3")}}
+{{ Audio(issue="2010/10", filename="kuhu.mp3") }}

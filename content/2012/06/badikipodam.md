@@ -51,4 +51,4 @@ extra:
 చదువు  సార మెరిగి     
 బతుకు వెతలు  చెరుపుదాం.
 
-{{Audio("badi.mp3")}}
+{{ Audio(issue="2012/06", filename="badi.mp3") }}

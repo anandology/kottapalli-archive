@@ -54,4 +54,4 @@ extra:
 వెలుగుల్నే పంచాలిరా కన్నా చిన్నా.... వెలుగులనే పంచాలిరా కన్నా
 </pre>
 
-{{Audio("Suryudai_velagali_by_kumari.mp3")}}
+{{ Audio(issue="2008/05", filename="Suryudai_velagali_by_kumari.mp3") }}

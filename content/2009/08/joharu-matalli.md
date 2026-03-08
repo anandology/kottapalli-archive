@@ -27,4 +27,4 @@ extra:
 
 గళమెత్తి నీ పాట కలసి పాడే సరికి   -  "జోహారు.."
 
-{{Audio("joharu_ma_jenda_by_p_harshavardhan.mp3")}}
+{{ Audio(issue="2009/08", filename="joharu_ma_jenda_by_p_harshavardhan.mp3") }}

@@ -53,4 +53,4 @@ extra:
 అమ్మకు కోపం వచ్చింది              
 మూడు గుద్దులు గుద్దింది          
 
-{{Audio("Chittipatalu_K_Mar10.mp3")}}
+{{ Audio(issue="2010/03", filename="Chittipatalu_K_Mar10.mp3") }}

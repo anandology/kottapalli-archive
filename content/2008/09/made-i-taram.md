@@ -39,4 +39,4 @@ extra:
 మాబాటలో మిమ్ము నడువమందుము   ||మాదే ఈతరం||
 </pre>
 
-{{Audio('mAsdeitaram_sarada_bharati_pavani_shaintaj.mp3')}}
+{{ Audio(issue="2008/09", filename="mAsdeitaram_sarada_bharati_pavani_shaintaj.mp3") }}

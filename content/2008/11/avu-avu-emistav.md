@@ -28,4 +28,4 @@ extra:
 కమ్మని నెయ్యి నేనిస్తా
 </pre>
 
-{{Audio('avu_avu_by_pothireddy.mp3')}}
+{{ Audio(issue="2008/11", filename="avu_avu_by_pothireddy.mp3") }}

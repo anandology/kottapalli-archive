@@ -24,4 +24,4 @@ extra:
 కరెంటు పోయె ఖతమాయె.
 </pre>
 
-{{Audio('emi_emi_aata.mp3')}}
+{{ Audio(issue="2009/01", filename="emi_emi_aata.mp3") }}

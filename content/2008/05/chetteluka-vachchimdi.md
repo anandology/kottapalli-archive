@@ -22,4 +22,4 @@ extra:
 తప్పించుకొని వెళ్లింది.
 </pre> 
 
-{{Audio("chitti_eluka.mp3")}}
+{{ Audio(issue="2008/05", filename="chitti_eluka.mp3") }}

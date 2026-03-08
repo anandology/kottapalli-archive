@@ -53,7 +53,7 @@ extra:
 అమ్మా నన్ను  కొట్టింది     
 నాన్నా  ముల్లూ  తీసాడు    
  
-{{Audio("jamathota.mp3")}}
+{{ Audio(issue="2012/09", filename="jamathota.mp3") }}
 
 {{ Image(issue="2012/09", filename="pata3.jpg", float="left") }}
 
@@ -71,7 +71,7 @@ extra:
 అది కూయి మంటే జోలపాట పాడినాను            "అమ్మనాకు"    
 గానం: గంగోత్రి, 4వతరగతి.
 
-{{Audio("ammanaku.mp3", count=1)}}
+{{ Audio(issue="2012/09", filename="ammanaku.mp3") }}
 
 {{ Image(issue="2012/09", filename="pata1.jpg", float="right") }}
 
@@ -85,4 +85,4 @@ extra:
 చేపల్లన్ని పట్టెరా        
 గానం: రజిత, 4వ తరగతి, M.P.U.P.S, బద్దలాపురం.
 
-{{Audio("chinnachinna.mp3", count=2)}}
+{{ Audio(issue="2012/09", filename="chinnachinna.mp3") }}

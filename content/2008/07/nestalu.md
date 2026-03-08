@@ -40,4 +40,4 @@ extra:
 నేస్తాలు- నా నేస్తాలు  
 నేస్తాలు- నా నేస్తాలు  
 
-{{Audio("nestalu_by_vasanta_and_soujanya.mp3")}}
+{{ Audio(issue="2008/07", filename="nestalu_by_vasanta_and_soujanya.mp3") }}

@@ -40,4 +40,4 @@ extra:
 
 </pre>
 
-{{Audio("ammE_by_satish.mp3")}}
+{{ Audio(issue="2009/02", filename="ammE_by_satish.mp3") }}

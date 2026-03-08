@@ -25,7 +25,7 @@ extra:
 గూట్లో  పెట్టావా?     
 గుటుక్కు  మింగావా!     
 
-{{Audio("chitti.mp3")}}
+{{ Audio(issue="2012/03", filename="chitti.mp3") }}
 
 
 
@@ -42,7 +42,7 @@ extra:
 చల్లని  పాలు తాపిస్తా      
 చక్కని  సినిమా  చూపిస్తా.      
 
-{{Audio("chuk.mp3", count=1)}}
+{{ Audio(issue="2012/03", filename="chuk.mp3") }}
 
 
 {{ Image(issue="2012/03", filename="song3.jpg", float="left") }}
@@ -58,7 +58,7 @@ extra:
 మా  అమ్మ  రాకాసి     
 నేనేమో  గ్లూకోసు!      
 
-{{Audio("ooshkaki.mp3", count=2)}}
+{{ Audio(issue="2012/03", filename="ooshkaki.mp3") }}
 
 
 
@@ -73,7 +73,7 @@ extra:
 అమ్మకు  కోపం  వచ్చింది    
 మూడు  గుద్దులు  గుద్దింది    
 
-{{Audio("dubbodu.mp3", count=3)}}
+{{ Audio(issue="2012/03", filename="dubbodu.mp3") }}
 
 
 
@@ -94,4 +94,4 @@ extra:
 ఏమి  కాలింది?    
 మీసం  కాలింది.
 
-{{Audio("santakka.mp3", count=4)}}
+{{ Audio(issue="2012/03", filename="santakka.mp3") }}

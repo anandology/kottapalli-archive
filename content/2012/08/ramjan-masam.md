@@ -40,4 +40,4 @@ extra:
 జనులంతా ఉత్సాహంగా జరుపుకొందురు రంజాన్ పండుగ	               
                                                                                                                                                                                                                                                                    "రంజాన్ మాసం"
 
-{{Audio("ramjan.mp3")}}
+{{ Audio(issue="2012/08", filename="ramjan.mp3") }}

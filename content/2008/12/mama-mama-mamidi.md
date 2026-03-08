@@ -27,4 +27,4 @@ extra:
 కర్ర చేత పట్టిండు.
 </pre>
 
-{{Audio('mama_mama_by_vanitha_4th_class.mp3')}}
+{{ Audio(issue="2008/12", filename="mama_mama_by_vanitha_4th_class.mp3") }}

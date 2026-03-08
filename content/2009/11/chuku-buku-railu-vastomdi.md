@@ -29,4 +29,4 @@ extra:
 కమ్మని పాలు తాపిస్తా     
 చక్కని సినిమా చూపిస్తా.
 
-{{Audio("Chuk_Chuk_by_Anjali.mp3")}}
+{{ Audio(issue="2009/11", filename="Chuk_Chuk_by_Anjali.mp3") }}

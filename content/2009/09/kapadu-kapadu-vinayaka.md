@@ -51,4 +51,4 @@ extra:
 ఇడుములు నీవే పోగొట్టాలయ్యా  |కాపాడు ।
 </pre>
 
-{{Audio("Kapadu_Kapadu_Vinayaka.mp3")}}
+{{ Audio(issue="2009/09", filename="Kapadu_Kapadu_Vinayaka.mp3") }}

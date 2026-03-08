@@ -32,4 +32,4 @@ extra:
 ఎలకా వద్దు చిలక ఇవ్వు
 </pre>
 
-{{Audio('chilaka_gilaka_by_riyaz.mp3')}}
+{{ Audio(issue="2009/01", filename="chilaka_gilaka_by_riyaz.mp3") }}

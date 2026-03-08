@@ -43,4 +43,4 @@ extra:
 మానవతకు  గుడిగా  చేస్తాం    
 "వసంతకాలపు  పువ్వులం"       
 
-{{Audio("vasanta.mp3")}}
+{{ Audio(issue="2010/11", filename="vasanta.mp3") }}

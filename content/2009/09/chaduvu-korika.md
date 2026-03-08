@@ -51,4 +51,4 @@ extra:
 బండి మీద రండి బడికి పోదమంటడే!
 </pre>
 
-{{Audio("Achchechchara_Pillavadu.mp3")}}
+{{ Audio(issue="2009/09", filename="Achchechchara_Pillavadu.mp3") }}

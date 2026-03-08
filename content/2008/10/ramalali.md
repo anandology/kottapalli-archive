@@ -40,4 +40,4 @@ extra:
 |రామాలాలీ|
 </pre>
 
-{{Audio('rama_lali.mp3')}}
+{{ Audio(issue="2008/10", filename="rama_lali.mp3") }}

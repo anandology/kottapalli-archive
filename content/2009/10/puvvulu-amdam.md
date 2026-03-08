@@ -44,4 +44,4 @@ extra:
 ||పువ్వులు అందం||
 </pre>
 
-{{Audio("Puvvulu_andam.mp3")}}
+{{ Audio(issue="2009/10", filename="Puvvulu_andam.mp3") }}

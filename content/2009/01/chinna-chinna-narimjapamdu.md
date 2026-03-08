@@ -31,4 +31,4 @@ extra:
 తాగేశాను
 </pre>
 
-{{Audio('chinnachinnanaaringa.mp3')}}
+{{ Audio(issue="2009/01", filename="chinnachinnanaaringa.mp3") }}

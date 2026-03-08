@@ -60,4 +60,4 @@ extra:
 ఆనందాల హరివిల్లు
 </pre>
 
-{{Audio('andaala.mp3')}}
+{{ Audio(issue="2009/04", filename="andaala.mp3") }}

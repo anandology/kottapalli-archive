@@ -51,4 +51,4 @@ extra:
 పచ్చని మిస మిస నా దేహం     
 "రంగుల విల్లు"
 
-{{Audio("Harivillu.mp3")}}
+{{ Audio(issue="2010/07", filename="Harivillu.mp3") }}

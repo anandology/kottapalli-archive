@@ -20,4 +20,4 @@ extra:
 పులంటే చాలు ఆగకుండా ఉరుకుతాడు
 </pre>
 
-{{Audio("Ma_bava_viirudu_by_A.Aswani.mp3")}}
+{{ Audio(issue="2009/02", filename="Ma_bava_viirudu_by_A.Aswani.mp3") }}

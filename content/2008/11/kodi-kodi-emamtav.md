@@ -40,4 +40,4 @@ extra:
 బుస్ బుస్ బుస్!
 </pre>
 
-{{Audio('pilli_pilli_emantav_by_satya.mp3')}}
+{{ Audio(issue="2008/11", filename="pilli_pilli_emantav_by_satya.mp3") }}

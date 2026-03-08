@@ -83,4 +83,4 @@ extra:
 ఎక్కడికెళ్తాడు?    
 ఇంకెక్కడికెళ్తాడు!?
 
-{{Audio("Amma_Amma_chandamama.mp3")}}
+{{ Audio(issue="2010/04", filename="Amma_Amma_chandamama.mp3") }}

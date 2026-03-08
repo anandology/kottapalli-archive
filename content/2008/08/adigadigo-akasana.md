@@ -39,4 +39,4 @@ extra:
 ముందుకు గుండెను ఇచ్చి నిండుప్రాణములిచ్చి  
 సత్య మేవ జయతే అని తెచ్చిన త్రివర్ణాల ఆకసాన	||అదిగదిగో||  
 
-{{Audio('Adigadigo_by_Satish.mp3')}}
+{{ Audio(issue="2008/08", filename="Adigadigo_by_Satish.mp3") }}

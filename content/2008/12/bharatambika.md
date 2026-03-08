@@ -48,4 +48,4 @@ extra:
 |భారతాంబిక పునర్వైభవ|
 </pre>
 
-{{Audio('bharatambika_3_by_rajeswari_7th_class.mp3')}}
+{{ Audio(issue="2008/12", filename="bharatambika_3_by_rajeswari_7th_class.mp3") }}

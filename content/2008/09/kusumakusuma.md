@@ -27,4 +27,4 @@ extra:
 ఎవరు కావాలో కోరుకో.
 </pre>
 
-{{Audio('kusuma_kusuma_by_rasi_and_sirisha.mp3')}}
+{{ Audio(issue="2008/09", filename="kusuma_kusuma_by_rasi_and_sirisha.mp3") }}

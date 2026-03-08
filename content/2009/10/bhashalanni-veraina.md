@@ -32,4 +32,4 @@ extra:
 వారూ వీరంతానూ భారతీయులే  "భాషలన్ని"
 </pre>
 
-{{Audio("Bhashalanni_veraina.mp3")}}
+{{ Audio(issue="2009/10", filename="Bhashalanni_veraina.mp3") }}

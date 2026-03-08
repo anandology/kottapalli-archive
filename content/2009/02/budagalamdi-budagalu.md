@@ -33,4 +33,4 @@ extra:
 పేలిపోవు బుడగలు!!
 </pre>
 
-{{Audio("budagalandi_budagaluby_K.Paramesh.mp3")}}
+{{ Audio(issue="2009/02", filename="budagalandi_budagaluby_K.Paramesh.mp3") }}

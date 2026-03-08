@@ -28,4 +28,4 @@ extra:
 కేరింతలు కొట్టినారు బాలలంతా
 </pre>
 
-{{Audio('STE-019.mp3')}}
+{{ Audio(issue="2009/05", filename="STE-019.mp3") }}

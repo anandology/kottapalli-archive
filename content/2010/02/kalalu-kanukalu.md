@@ -29,4 +29,4 @@ extra:
 వాగూ వంకా వరదా            
 వాకిలి ముందర బురదా!          
 
-{{Audio("kalalu-kanukalu.mp3")}}
+{{ Audio(issue="2010/02", filename="kalalu-kanukalu.mp3") }}

@@ -42,4 +42,4 @@ extra:
 కుచ్చుటోపీ ప్రజలకు పెట్టారయా    
 "నందామయా"
 
-{{Audio("nandamaya,mp3"))}}
+{{ Audio(issue="2011/02", filename="nandamaya,mp3") }}

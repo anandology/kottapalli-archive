@@ -45,4 +45,4 @@ extra:
 అందరమొకటై నిలబడతాం     
 ఫలితాలెన్నో సాధిస్తాం        “పిల్లలం"
 
-{{Audio("pillalam.mp3")}}
+{{ Audio(issue="2012/06", filename="pillalam.mp3") }}

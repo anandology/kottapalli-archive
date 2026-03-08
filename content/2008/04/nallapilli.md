@@ -29,4 +29,4 @@ extra:
 ఆమాటకేమని బదులిస్తివి  
 అచ్చతెలుగులోన దాన్ని తిట్టివస్తిని.  
 
-{{Audio("april08/nallapillli.mp3")}}
+{{ Audio(issue="2008/04", filename="april08/nallapillli.mp3") }}

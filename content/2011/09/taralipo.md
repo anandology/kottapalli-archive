@@ -53,4 +53,4 @@ extra:
 మరలిపో మరలిపో!     
 తరలిపో, తరలిపో, తరలిపో!
 
-{{Audio("taralipo.mp3")}}
+{{ Audio(issue="2011/09", filename="taralipo.mp3") }}

@@ -30,4 +30,4 @@ extra:
 తెలియగ వినరండి
 </pre>
 
-{{Audio('STE-016.mp3')}}
+{{ Audio(issue="2009/05", filename="STE-016.mp3") }}

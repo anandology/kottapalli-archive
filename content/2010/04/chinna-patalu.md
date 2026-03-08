@@ -93,4 +93,4 @@ extra:
 అమ్మకు కోపం వచ్చింది   
 మూడు గుద్దులు గుద్దింది.
 
-{{Audio("chinnapatalu.mp3")}}
+{{ Audio(issue="2010/04", filename="chinnapatalu.mp3") }}

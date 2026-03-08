@@ -54,4 +54,4 @@ extra:
 |పెద్ద|  
 </pre>
 
-{{Audio('Pedda_vankalo_gangammatalli.mp3')}}
+{{ Audio(issue="2009/04", filename="Pedda_vankalo_gangammatalli.mp3") }}

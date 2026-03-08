@@ -38,4 +38,4 @@ extra:
 అమర  ధామము    
 పసిడి  పంటలకు  ఇదియే   ఆలవాలము	“నాదు”
 
-{{Audio("janmabhumi.mp3")}}
+{{ Audio(issue="2010/12", filename="janmabhumi.mp3") }}

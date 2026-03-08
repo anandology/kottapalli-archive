@@ -43,4 +43,4 @@ extra:
 ||ఎంతోమంది||
 </pre>
 
-{{Audio('emtomandi_by_varalakshmi.mp3')}}
+{{ Audio(issue="2008/09", filename="emtomandi_by_varalakshmi.mp3") }}

@@ -33,4 +33,4 @@ extra:
 దాటు వేసి ఎగురుతావె! "పాలపి
 </pre>
 
-{{Audio("palapitta.mp3")}}
+{{ Audio(issue="2011/08", filename="palapitta.mp3") }}

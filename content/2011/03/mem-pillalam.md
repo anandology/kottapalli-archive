@@ -47,4 +47,4 @@ extra:
 జాతి సంపదను పెంచే     
 శ్రామిక వర్గానికి మా సెల్యూట్!
 
-{{Audio("Mempillalam.mp3")}}
+{{ Audio(issue="2011/03", filename="Mempillalam.mp3") }}

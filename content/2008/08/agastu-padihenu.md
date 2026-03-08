@@ -23,4 +23,4 @@ extra:
 వీర పూజలు నేడు చేయాలోయ్  
 వీర నాయకులనే తలవాలోయ్.  
 
-{{Audio('agustu_padihenu.mp3')}}
+{{ Audio(issue="2008/08", filename="agustu_padihenu.mp3") }}

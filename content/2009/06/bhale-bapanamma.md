@@ -24,4 +24,4 @@ extra:
 పైన్నుంచీయేస్తే ప్రాణం పోతుంది.
 </pre>
 
-{{Audio("bhalee_baapanamma_by_madan_.tim.3rd_class.mp3")}}
+{{ Audio(issue="2009/06", filename="bhalee_baapanamma_by_madan_.tim.3rd_class.mp3") }}

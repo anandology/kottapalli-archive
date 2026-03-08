@@ -45,4 +45,4 @@ extra:
 చేయి చేయి కలిపి సాగు ప్రగతుల తీరం      ।భారత।
 </pre>
 
-{{Audio('nirmala_sura_ganga_by_anitha_group.mp3')}}
+{{ Audio(issue="2009/02", filename="nirmala_sura_ganga_by_anitha_group.mp3") }}

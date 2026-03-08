@@ -43,4 +43,4 @@ extra:
 ।ఓ యువతీ।
 </pre>
 
-{{Audio('O_yuvati.mp3')}}
+{{ Audio(issue="2009/04", filename="O_yuvati.mp3") }}

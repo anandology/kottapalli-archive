@@ -28,4 +28,4 @@ extra:
 చందమామకు అందకుండా సర్రున వస్తాను!
 </pre>
 
-{{Audio('Galipatam_by_Pothi_Reddi.mp3')}}
+{{ Audio(issue="2009/03", filename="Galipatam_by_Pothi_Reddi.mp3") }}

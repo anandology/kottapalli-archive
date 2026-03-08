@@ -41,4 +41,4 @@ extra:
 అందమైన ఒక నాకం
 </pre>
 
-{{Audio('STE-012.mp3')}}
+{{ Audio(issue="2009/05", filename="STE-012.mp3") }}

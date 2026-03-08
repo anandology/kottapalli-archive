@@ -40,4 +40,4 @@ extra:
 (అమ్మో!!!!!!)
 </pre>
 
-{{Audio("Kaki_kaki_rava_by_C.Haritha.mp3")}}
+{{ Audio(issue="2009/02", filename="Kaki_kaki_rava_by_C.Haritha.mp3") }}

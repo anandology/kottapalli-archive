@@ -24,4 +24,4 @@ extra:
 నేనే, పచ్చని చిలకమ్మ!
 </pre>
 
-{{Audio('evaru_evaru_egiredi_by_ganesh_and_murthy.mp3')}}
+{{ Audio(issue="2008/11", filename="evaru_evaru_egiredi_by_ganesh_and_murthy.mp3") }}

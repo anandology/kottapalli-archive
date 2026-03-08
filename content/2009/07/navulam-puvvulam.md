@@ -54,4 +54,4 @@ extra:
 
 ప్రతి ఇంటింటా వెలుగులను  నింపుతాం "నవ్వులం"
 
-{{Audio("navvulam_by_kala_group.mp3")}}
+{{ Audio(issue="2009/07", filename="navvulam_by_kala_group.mp3") }}

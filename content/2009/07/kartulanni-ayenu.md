@@ -61,4 +61,4 @@ extra:
 
 "కార్తులన్ని..."
 
-{{Audio("kartulanni_aayenu_by_kumari.mp3")}}
+{{ Audio(issue="2009/07", filename="kartulanni_aayenu_by_kumari.mp3") }}

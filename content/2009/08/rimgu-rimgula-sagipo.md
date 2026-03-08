@@ -37,4 +37,4 @@ extra:
 మన  జెండా ఎగురవేద్దాం   2
 </pre>
 
-{{Audio("ringuringula_by_geetika_janakibai.mp3")}}
+{{ Audio(issue="2009/08", filename="ringuringula_by_geetika_janakibai.mp3") }}

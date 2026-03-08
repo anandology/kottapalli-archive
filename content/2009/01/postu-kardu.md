@@ -50,4 +50,4 @@ extra:
 పోయిరామ్మా!
 </pre>
 
-{{Audio('post_card_by_rasi_and_sirisha.mp3')}}
+{{ Audio(issue="2009/01", filename="post_card_by_rasi_and_sirisha.mp3") }}

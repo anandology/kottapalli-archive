@@ -49,4 +49,4 @@ extra:
 చూశారా చూశారా చూశారా ?     
 "రంగురంగుల"
 
-{{Audio("vanakalamJune2011.mp3")}}
+{{ Audio(issue="2011/06", filename="vanakalamJune2011.mp3") }}

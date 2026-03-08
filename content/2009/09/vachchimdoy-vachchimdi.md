@@ -65,4 +65,4 @@ extra:
 ప్రఖ్యాతిని కొనియాడండి  ।వచ్చిందోయ్ ।
 </pre>
 
-{{Audio("Vachchindoy_Vachchindoy.mp3")}}
+{{ Audio(issue="2009/09", filename="Vachchindoy_Vachchindoy.mp3") }}

@@ -51,4 +51,4 @@ extra:
 
 
 
-{{Audio("guvvaku_jaramamma.mp3 ")}}
+{{ Audio(issue="2008/04", filename="guvvaku_jaramamma.mp3 ") }}

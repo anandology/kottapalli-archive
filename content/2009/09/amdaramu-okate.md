@@ -57,4 +57,4 @@ extra:
 
 </pre>
 
-{{Audio("andaramu_okate.mp3")}}
+{{ Audio(issue="2009/09", filename="andaramu_okate.mp3") }}

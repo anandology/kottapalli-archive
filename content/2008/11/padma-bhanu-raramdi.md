@@ -30,4 +30,4 @@ extra:
 చిన్నారి పాటలు పాడండి!
 </pre>
 
-{{Audio('padma_bhanu_by_sivaleela_and_bhavya.mp3')}}
+{{ Audio(issue="2008/11", filename="padma_bhanu_by_sivaleela_and_bhavya.mp3") }}

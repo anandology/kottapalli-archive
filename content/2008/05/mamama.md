@@ -21,4 +21,4 @@ extra:
 కొప్పులోన ముడిచాడు
 కొప్పెత్తి తన్నాడు.</pre>
 
-{{Audio("ma_mama_by_ganesh.mp3")}}
+{{ Audio(issue="2008/05", filename="ma_mama_by_ganesh.mp3") }}

@@ -32,4 +32,4 @@ extra:
 
 “కొండలమీద వెన్నెల కాసె”
 
-{{Audio("kondala.mp3"))}}
+{{ Audio(issue="2010/10", filename="kondala.mp3") }}

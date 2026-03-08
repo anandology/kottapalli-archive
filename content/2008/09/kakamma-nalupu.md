@@ -26,4 +26,4 @@ extra:
 పండు నిమ్మ పసుపు, బంగారంపసుపు.
 </pre>
 
-{{Audio('kakamma_by_rasi_and_riyaz.mp3')}}
+{{ Audio(issue="2008/09", filename="kakamma_by_rasi_and_riyaz.mp3") }}

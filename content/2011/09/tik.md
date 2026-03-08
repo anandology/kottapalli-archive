@@ -34,4 +34,4 @@ extra:
 
 గణ గణ గణ గణ బడిగంట!
 
-{{Audio("tictic.mp3")}}
+{{ Audio(issue="2011/09", filename="tictic.mp3") }}

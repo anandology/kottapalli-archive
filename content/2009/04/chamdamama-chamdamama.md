@@ -37,4 +37,4 @@ extra:
 నీకు తెలిసి ఉంటే నాతో చెప్పీ పోరా మామా!
 </pre>
 
-{{Audio('Chandamama.mp3')}}
+{{ Audio(issue="2009/04", filename="Chandamama.mp3") }}

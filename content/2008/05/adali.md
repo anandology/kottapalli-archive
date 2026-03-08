@@ -29,4 +29,4 @@ extra:
 ఆడాలి ఆటలడాలి పాడాలి పాట పాడాలి
 </pre>
 
-{{Audio("aadaali_by_shiva_with_dappu_open_2.mp3")}}
+{{ Audio(issue="2008/05", filename="aadaali_by_shiva_with_dappu_open_2.mp3") }}

@@ -36,4 +36,4 @@ extra:
   
   
 
-{{Audio("kaki_kadava_by_hanumanthu.mp3")}}
+{{ Audio(issue="2008/07", filename="kaki_kadava_by_hanumanthu.mp3") }}

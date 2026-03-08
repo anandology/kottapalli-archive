@@ -34,4 +34,4 @@ extra:
 చంకలో పాప కేర్ కేర్ మన్నది.
 
 
-{{Audio("miriyalu.mp3")}}
+{{ Audio(issue="2008/04", filename="miriyalu.mp3") }}

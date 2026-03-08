@@ -31,4 +31,4 @@ extra:
 దైవానికి  ప్రతిరూపాలం(2)    
 "ఆడే  పాడే పిల్లలం! “    
 
-{{Audio("adepade.mp3")}}
+{{ Audio(issue="2010/11", filename="adepade.mp3") }}

@@ -39,4 +39,4 @@ extra:
 ।అడవుల। 
 </pre>
 
-{{Audio('adavulakondala.mp3')}}
+{{ Audio(issue="2009/04", filename="adavulakondala.mp3") }}

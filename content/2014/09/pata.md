@@ -33,7 +33,7 @@ extra:
 
 శ్రేయో భూయాత్ సకల జనానాం       
 
-{{Audio("maitreem1.mp3")}}
+{{ Audio(issue="2014/09", filename="maitreem1.mp3") }}
 
 
 <br><br><br><br>

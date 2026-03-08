@@ -51,4 +51,4 @@ extra:
 
 "ఎల్లలెరుగని వాళ్ళము"
 
-{{Audio("ellalu.mp3")}}
+{{ Audio(issue="2010/12", filename="ellalu.mp3") }}

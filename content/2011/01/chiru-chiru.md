@@ -52,4 +52,4 @@ extra:
 చారెడు మెదడున చేర్చవచ్చు-    
 కృషితోనే ప్రతి మనిషీ 		"చిరు చిరు"
 
-{{Audio("chiruchiruchetula.mp3")}}
+{{ Audio(issue="2011/01", filename="chiruchiruchetula.mp3") }}

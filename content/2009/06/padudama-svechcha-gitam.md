@@ -57,4 +57,4 @@ extra:
 |పాడుదమా|
 </pre>
 
-{{Audio("paadudamaa_sarada,m.roja,s,roja,_anitha.mp3")}}
+{{ Audio(issue="2009/06", filename="paadudamaa_sarada,m.roja,s,roja,_anitha.mp3") }}

@@ -44,4 +44,4 @@ extra:
 |ఎక్కడెక్కడో|
 </pre>
 
-{{Audio('ekkadekkado_puttamu.mp3')}}
+{{ Audio(issue="2009/04", filename="ekkadekkado_puttamu.mp3") }}

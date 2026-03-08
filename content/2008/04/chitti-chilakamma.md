@@ -25,4 +25,4 @@ extra:
 గూట్లో పెట్టావా?  
 గుటుక్కుమని మింగావా?  
 
-{{Audio("chitti_chilakamma.mp3")}}
+{{ Audio(issue="2008/04", filename="chitti_chilakamma.mp3") }}

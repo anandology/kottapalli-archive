@@ -67,4 +67,4 @@ extra:
 
 "చెట్టుచేమా..."
 
-{{Audio("cettu_ceema_perigina.mp3")}}
+{{ Audio(issue="2009/07", filename="cettu_ceema_perigina.mp3") }}

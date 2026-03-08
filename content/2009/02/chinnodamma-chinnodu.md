@@ -26,4 +26,4 @@ extra:
 హచ్ హచ్ హచ్ ...
 </pre>
 
-{{Audio("chinnodamma_chinnodu.mp3")}}
+{{ Audio(issue="2009/02", filename="chinnodamma_chinnodu.mp3") }}

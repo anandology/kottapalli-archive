@@ -26,4 +26,4 @@ extra:
 బజారుకు పోతే  అప్పుల బాధ!
 </pre>
 
-{{Audio("a_b_c_d_elukala_badha.mp3")}}
+{{ Audio(issue="2010/05", filename="a_b_c_d_elukala_badha.mp3") }}

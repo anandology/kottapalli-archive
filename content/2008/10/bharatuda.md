@@ -66,4 +66,4 @@ extra:
 ముఖమెటు చూస్తును?
 </pre>
 
-{{Audio('bharatuda_na_chinni_tammuda.mp3')}}
+{{ Audio(issue="2008/10", filename="bharatuda_na_chinni_tammuda.mp3") }}

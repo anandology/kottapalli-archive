@@ -37,4 +37,4 @@ extra:
 బాగా చదువుకోండర్రా!
 </pre>
 
-{{Audio('Chiima_Chiima_vastava_by_V_Raju_and_R_Shirisha.mp3')}}
+{{ Audio(issue="2009/03", filename="Chiima_Chiima_vastava_by_V_Raju_and_R_Shirisha.mp3") }}

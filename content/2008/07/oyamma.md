@@ -51,4 +51,4 @@ extra:
 తోటలోని పచ్చగడ్డి దీనిమూలం.  
 తోటలోని పచ్చగడ్డి దీనిమూలం.  
 
-{{Audio("Oyamma_totanuMdi_by_nagaraju.mp3")}}
+{{ Audio(issue="2008/07", filename="Oyamma_totanuMdi_by_nagaraju.mp3") }}

@@ -41,4 +41,4 @@ extra:
 భారత జనులకు జయంజయం     
 ॥తల్లి భారతి ॥
 
-{{Audio("Talli_Bharathi_Vandanamamma_K_Mar10.mp3")}}
+{{ Audio(issue="2010/03", filename="Talli_Bharathi_Vandanamamma_K_Mar10.mp3") }}

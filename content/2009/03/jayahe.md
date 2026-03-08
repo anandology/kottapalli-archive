@@ -40,4 +40,4 @@ extra:
 |జయహే|
 </pre>
 
-{{Audio('Jayahe_by_Anitha_group.mp3')}}
+{{ Audio(issue="2009/03", filename="Jayahe_by_Anitha_group.mp3") }}

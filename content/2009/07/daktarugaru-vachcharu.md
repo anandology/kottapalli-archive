@@ -35,4 +35,4 @@ extra:
 
 జ్వరం మాయం అయ్యింది - బడికి పరుగు తీశాను.
 
-{{Audio("doctarugaru_by_M.Rasi,_5th_class.mp3")}}
+{{ Audio(issue="2009/07", filename="doctarugaru_by_M.Rasi,_5th_class.mp3") }}

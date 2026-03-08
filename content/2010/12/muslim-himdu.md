@@ -42,4 +42,4 @@ extra:
 పదండి పదండి ముందుకు    
 భారత దేశం మనదే మనదే   	“”ముస్లిం హిందూ"
 
-{{Audio("muslim2.mp3")}}
+{{ Audio(issue="2010/12", filename="muslim2.mp3") }}

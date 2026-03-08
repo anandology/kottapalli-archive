@@ -31,4 +31,4 @@ extra:
 పిల్లలము పసి పిల్లలము     
 చల్లని తెల్లని మల్లెలము
 
-{{Audio("Pillalamu.mp3")}}
+{{ Audio(issue="2010/07", filename="Pillalamu.mp3") }}

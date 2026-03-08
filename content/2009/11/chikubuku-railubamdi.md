@@ -28,4 +28,4 @@ extra:
 పచ్చని జండాకు కదిలే బండి     
 చిక్ బుక్ చిక్ బుక్ రైలుబండి.
 
-{{Audio("chik_buk_by_m.rasi,5th,pb,ckp.mp3")}}
+{{ Audio(issue="2009/11", filename="chik_buk_by_m.rasi,5th,pb,ckp.mp3") }}

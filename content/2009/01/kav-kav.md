@@ -45,4 +45,4 @@ extra:
 పరుగో! పరుగో! బడికయ్యా!
 </pre>
 
-{{Audio('kau_kau_by_pothireddy.mp3')}}
+{{ Audio(issue="2009/01", filename="kau_kau_by_pothireddy.mp3") }}

@@ -34,4 +34,4 @@ extra:
 తియ్యగా పాడుతాము కుహుఁ కుహుఁ  
 కుహుఁ కుహుఁ
 
-{{Audio('koilammma_by_shireesha.mp3')}}
+{{ Audio(issue="2008/08", filename="koilammma_by_shireesha.mp3") }}

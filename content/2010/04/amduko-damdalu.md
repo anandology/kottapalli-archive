@@ -52,4 +52,4 @@ extra:
 హీనమైన బ్రతుకులకు వెలుగును చూపావు    
 "అందుకో  "
 
-{{Audio("anduko.mp3")}}
+{{ Audio(issue="2010/04", filename="anduko.mp3") }}

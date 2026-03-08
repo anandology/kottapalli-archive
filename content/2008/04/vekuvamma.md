@@ -24,4 +24,4 @@ extra:
 బంగరు బిందె తెచ్చింది  
 ముంగిట వెలుగులు చల్లింది  
 
-{{Audio("vakuvamma.mp3")}}
+{{ Audio(issue="2008/04", filename="vakuvamma.mp3") }}

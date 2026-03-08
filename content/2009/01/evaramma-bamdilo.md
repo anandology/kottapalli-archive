@@ -27,4 +27,4 @@ extra:
 చదువుకోసం వెళ్తున్నా
 </pre>
 
-{{Audio('evarammabandilo.mp3')}}
+{{ Audio(issue="2009/01", filename="evarammabandilo.mp3") }}

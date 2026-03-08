@@ -25,4 +25,4 @@ extra:
 లడ్డు మిఠాయ్ తినిపిస్తా  
 చల్లని పాలు తాపిస్తా  
 
-{{Audio("chuck_chuck.mp3")}}
+{{ Audio(issue="2008/04", filename="chuck_chuck.mp3") }}

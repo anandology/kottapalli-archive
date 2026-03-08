@@ -35,4 +35,4 @@ extra:
 హౌ డు యు డు అంటారు.
 </pre>
 
-{{Audio("Nenoka_japanu_bommanu.mp3")}}
+{{ Audio(issue="2009/10", filename="Nenoka_japanu_bommanu.mp3") }}

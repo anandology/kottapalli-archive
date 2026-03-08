@@ -39,4 +39,4 @@ extra:
 కన్యాకుమారి వరకు కనులపంట నాదేశం     
 "ఎంత అందమెంత అందమో"
 
-{{Audio("entaandam.mp3")}}
+{{ Audio(issue="2011/03", filename="entaandam.mp3") }}

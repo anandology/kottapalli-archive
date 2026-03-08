@@ -45,4 +45,4 @@ extra:
 |నా మనోహర|
 </pre>
 
-{{Audio('na_manohara_ramachandra.mp3')}}
+{{ Audio(issue="2008/10", filename="na_manohara_ramachandra.mp3") }}

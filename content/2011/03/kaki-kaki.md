@@ -32,4 +32,4 @@ extra:
 కాకీ కాకీ రావే రావే    
 బుజ్జి ముద్ద తినిపోవే!
 
-{{Audio("kakikakihash.mp3")}}
+{{ Audio(issue="2011/03", filename="kakikakihash.mp3") }}

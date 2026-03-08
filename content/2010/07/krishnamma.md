@@ -42,4 +42,4 @@ extra:
 క్రిష్ణమ్మ పాడింది కమ్మని పాట   
 అది పలకాలి బాబులూ మీనోట
 
-{{Audio("Krishnamma.mp3")}}
+{{ Audio(issue="2010/07", filename="Krishnamma.mp3") }}

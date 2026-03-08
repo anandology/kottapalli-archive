@@ -26,4 +26,4 @@ extra:
 నా పేరు గౌరి!
 </pre>
 
-{{Audio('paru_paru_by_samara_and_ashwini.mp3')}}
+{{ Audio(issue="2008/11", filename="paru_paru_by_samara_and_ashwini.mp3") }}

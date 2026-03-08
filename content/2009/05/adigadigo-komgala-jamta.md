@@ -26,4 +26,4 @@ extra:
 కొంగకు దొరకక ఒకటే చింత!
 </pre>
 
-{{Audio('STE-022.mp3')}}
+{{ Audio(issue="2009/05", filename="STE-022.mp3") }}

@@ -22,4 +22,4 @@ extra:
 నువ్వెంత ఎండినా నీ చేదు పోదు!
 </pre>
 
-{{Audio('chimadake_by_rasi.mp3')}}
+{{ Audio(issue="2008/11", filename="chimadake_by_rasi.mp3") }}

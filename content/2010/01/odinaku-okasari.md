@@ -41,4 +41,4 @@ extra:
 ఎగిరి బండెక్కి కూర్చుంది మా ఒదిన       
 ।ఒదినకు ।
 
-{{Audio("Odinaku_Okasari.mp3")}}
+{{ Audio(issue="2010/01", filename="Odinaku_Okasari.mp3") }}

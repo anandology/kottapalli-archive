@@ -34,4 +34,4 @@ extra:
 పోపోవయ్యా పుల్లయ్యా, బుద్ధిగ బడికి పోవయ్యా!
 </pre>
 
-{{Audio('kodi_kodi_vastava_by_sirisha_and_govardhan.mp3')}}
+{{ Audio(issue="2008/11", filename="kodi_kodi_vastava_by_sirisha_and_govardhan.mp3") }}

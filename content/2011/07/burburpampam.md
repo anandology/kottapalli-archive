@@ -41,4 +41,4 @@ extra:
 మాపాపే !     
 "బుర్ బుర్ పాం పాం "
 
-{{Audio("burburpampam.mp3.mp3")}}
+{{ Audio(issue="2011/07", filename="burburpampam.mp3.mp3") }}

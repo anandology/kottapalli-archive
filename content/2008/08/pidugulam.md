@@ -36,4 +36,4 @@ extra:
 ఆటలు పాటలు కథలని చెపితే   
 తప్పకుండా మేం బడికి పోతాం  
 
-{{Audio('pidugulam_by_ganesh.mp3')}}
+{{ Audio(issue="2008/08", filename="pidugulam_by_ganesh.mp3") }}

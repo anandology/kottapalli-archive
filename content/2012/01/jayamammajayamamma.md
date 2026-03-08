@@ -32,4 +32,4 @@ extra:
 గౌతమీ కృష్ణలు ఒడిపాపలై నీకు ఒదిగిపోగా    
 మూడు జలధులె నీకు మోకరిల్లెను తల్లీ!
 
-{{Audio("jayamamma.mp3")}}
+{{ Audio(issue="2012/01", filename="jayamamma.mp3") }}

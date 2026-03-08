@@ -41,4 +41,4 @@ extra:
 అమ్మ ఒడినె హత్తుకుపోతాం (2)     
 "నింగి సాగే మబ్బుల్లారా"   
 
-{{Audio("ningi.mp3")}}
+{{ Audio(issue="2010/08", filename="ningi.mp3") }}

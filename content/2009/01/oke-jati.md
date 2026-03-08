@@ -35,4 +35,4 @@ extra:
 ఒక్కే జాతి! ఒక్కే జాతి!
 </pre>
 
-{{Audio('okejati_by_samara.mp3')}}
+{{ Audio(issue="2009/01", filename="okejati_by_samara.mp3") }}

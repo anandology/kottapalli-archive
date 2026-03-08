@@ -37,6 +37,6 @@ extra:
 వేదిక  వేసెను  నీ కోసం    
 "నెమలీ  నెమలీ "
 
-{{Audio("nemali_nemali.mp3")}}
+{{ Audio(issue="2010/09", filename="nemali_nemali.mp3") }}
 
 ఈ పాట వీడియో రూపాన్ని <a href="http://www.archive.org/details/NemaliNemaliNatyamadave">ఇక్కడ చూడచ్చు.</a>

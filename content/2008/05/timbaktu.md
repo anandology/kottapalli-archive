@@ -43,4 +43,4 @@ extra:
 టింబక్టు బడి పిల్లలం మేము టింబక్టు టింబక్టు బడి పిల్లలం
 </pre>
 
-{{Audio("timbaktu_badi_group.mp3")}}
+{{ Audio(issue="2008/05", filename="timbaktu_badi_group.mp3") }}

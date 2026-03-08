@@ -33,4 +33,4 @@ extra:
 పారిపోతాడు
 </pre>
 
-{{Audio('maa_baava_veerudu.mp3')}}
+{{ Audio(issue="2008/12", filename="maa_baava_veerudu.mp3") }}

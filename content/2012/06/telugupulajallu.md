@@ -45,4 +45,4 @@ extra:
 తెలుగు జగతి వెలుగు  నింపు   
 తెలుగే  మన  కీర్తి  నిలుపు
 
-{{Audio("telugu.mp3")}}
+{{ Audio(issue="2012/06", filename="telugu.mp3") }}

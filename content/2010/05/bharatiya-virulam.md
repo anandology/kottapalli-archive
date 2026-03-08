@@ -29,4 +29,4 @@ extra:
 ప్రతిభను నిలబెడదాం        
 ప్రతిభను నిలబెడదాం
 
-{{Audio("bharateeya_veerulam.mp3")}}
+{{ Audio(issue="2010/05", filename="bharateeya_veerulam.mp3") }}

@@ -24,4 +24,4 @@ extra:
 పంజరంలో పెట్టేస్తావ్
 </pre>
 
-{{Audio("Chilaka_chilaka.mp3")}}
+{{ Audio(issue="2009/10", filename="Chilaka_chilaka.mp3") }}

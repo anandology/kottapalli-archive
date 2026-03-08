@@ -32,4 +32,4 @@ extra:
 నేలే  నూతన  రూపం  దాల్చె(2)    
 "వానకాలం  వచ్చింది"
 
-{{Audio("vana_kalam_vachindi.mp3")}}
+{{ Audio(issue="2010/09", filename="vana_kalam_vachindi.mp3") }}

@@ -43,4 +43,4 @@ extra:
 దీపాలు వెలగంగా దీపావళి వచ్చింది     	
 ॥దివిటీల॥
 
-{{Audio("Divveteela_Panduga.mp3")}}
+{{ Audio(issue="2009/11", filename="Divveteela_Panduga.mp3") }}

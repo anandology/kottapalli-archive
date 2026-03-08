@@ -42,4 +42,4 @@ extra:
 
 ||యువతరం||
 
-{{Audio('yuvataram.mp3')}}
+{{ Audio(issue="2008/08", filename="yuvataram.mp3") }}

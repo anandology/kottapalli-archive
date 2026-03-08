@@ -32,4 +32,4 @@ extra:
 సకల వసుంధరనేకము సేయగ    
 అకళంకులమై ప్రతినలు సేతుము "స్వతంత్ర"   
 
-{{Audio("swatantra.mp3")}}
+{{ Audio(issue="2014/08", filename="swatantra.mp3") }}

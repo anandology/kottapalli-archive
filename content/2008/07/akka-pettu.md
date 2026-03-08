@@ -24,4 +24,4 @@ extra:
 అమ్మానాకూ -  బొమ్మా ఇవ్వు  
 నాన్నా నాకూ -  పెన్నూ ఇవ్వు  
 
-{{Audio("akka_pettu_chuuka_bottu.mp3")}}
+{{ Audio(issue="2008/07", filename="akka_pettu_chuuka_bottu.mp3") }}

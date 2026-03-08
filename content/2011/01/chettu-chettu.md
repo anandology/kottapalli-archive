@@ -44,4 +44,4 @@ extra:
  అవునాటే అక్కల్లారా?  అవునాటే బావల్లారా?    
 సూరీడో  గొబ్బిళ్ళో  సూరీడో  గొబ్బిళ్ళో!
 
-{{Audio("chettu_chettu_for_january.mp3")}}
+{{ Audio(issue="2011/01", filename="chettu_chettu_for_january.mp3") }}

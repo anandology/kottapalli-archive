@@ -54,4 +54,4 @@ extra:
 పీపాలేదు- పాపాలేదు  
 ఫో!  ఫో! ఫో!!!!
 
-{{Audio('tenetiga_by_saujanya_group.mp3')}}
+{{ Audio(issue="2008/08", filename="tenetiga_by_saujanya_group.mp3") }}

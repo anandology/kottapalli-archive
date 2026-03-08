@@ -31,4 +31,4 @@ extra:
 కాకుల ఒద్దిక కోళ్లకు లేదని లోకులకంతా తెలిసినది.
 </pre>
 
-{{Audio('amma_metukulu_by_pothireddy.mp3')}}
+{{ Audio(issue="2008/11", filename="amma_metukulu_by_pothireddy.mp3") }}

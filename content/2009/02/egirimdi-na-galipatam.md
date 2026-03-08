@@ -25,4 +25,4 @@ extra:
 జేజేలు పొందింది నా గాలిపటం.
 </pre>
 
-{{Audio("egirindi_gali_patam_by_K.Paramesh.mp3")}}
+{{ Audio(issue="2009/02", filename="egirindi_gali_patam_by_K.Paramesh.mp3") }}

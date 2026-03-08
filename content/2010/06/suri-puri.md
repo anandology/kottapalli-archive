@@ -25,4 +25,4 @@ extra:
 
 ఇదే నా స్టోరి.
 
-{{Audio("good_morning_sar2.mp3")}}
+{{ Audio(issue="2010/06", filename="good_morning_sar2.mp3") }}

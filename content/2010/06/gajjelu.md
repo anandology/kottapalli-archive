@@ -39,4 +39,4 @@ extra:
 
 మురిసి గజ్జెలు గలగల లాడెను
 
-{{Audio("gajjelu.mp3")}}
+{{ Audio(issue="2010/06", filename="gajjelu.mp3") }}

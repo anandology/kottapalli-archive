@@ -35,4 +35,4 @@ extra:
 
 తెలుగుభాషకు జేజేలు.
 
-{{Audio("jejelamma_by_rsirisha_mrasi.mp3")}}
+{{ Audio(issue="2009/08", filename="jejelamma_by_rsirisha_mrasi.mp3") }}

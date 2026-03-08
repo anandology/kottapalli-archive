@@ -24,4 +24,4 @@ extra:
 
 అయ్యాను జైలుపాలు.
 
-{{Audio("Naperu_gopal.mp3")}}
+{{ Audio(issue="2009/12", filename="Naperu_gopal.mp3") }}

@@ -24,4 +24,4 @@ extra:
 నేనేమో పుట్టగోసి!
 </pre>
 
-{{Audio("guvvala_kaakii_by_c.nagaveni.tim._3rd.mp3")}}
+{{ Audio(issue="2009/06", filename="guvvala_kaakii_by_c.nagaveni.tim._3rd.mp3") }}

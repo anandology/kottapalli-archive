@@ -36,4 +36,4 @@ extra:
 వందే మాతరం అంటోంది మాతరం
 </pre>
 
-{{Audio("charitaloni_saaramide.mp3")}}
+{{ Audio(issue="2009/02", filename="charitaloni_saaramide.mp3") }}

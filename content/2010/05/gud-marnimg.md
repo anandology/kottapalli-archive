@@ -26,4 +26,4 @@ extra:
 అమ్మ చేతి కుర్మా     
 తినకపోతే నీ ఖర్మ
 
-{{Audio("good_morning_sar2.mp3")}}
+{{ Audio(issue="2010/05", filename="good_morning_sar2.mp3") }}

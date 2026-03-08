@@ -33,4 +33,4 @@ extra:
 పామూ పామూ ఏమంటావ్	- బుస్ బుస్ బుస్.
 </pre>
 
-{{Audio('pilipiliemantav_joti_shireesha_anjali.mp3')}}
+{{ Audio(issue="2008/09", filename="pilipiliemantav_joti_shireesha_anjali.mp3") }}

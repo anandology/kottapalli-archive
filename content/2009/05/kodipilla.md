@@ -39,4 +39,4 @@ extra:
 పిల్లౌతది!
 </pre>
 
-{{Audio('STE-030.mp3')}}
+{{ Audio(issue="2009/05", filename="STE-030.mp3") }}

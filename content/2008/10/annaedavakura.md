@@ -49,4 +49,4 @@ extra:
 ||జో జో లాలీ||
 </pre>
 
-{{Audio('anna_edavakura.mp3')}}
+{{ Audio(issue="2008/10", filename="anna_edavakura.mp3") }}

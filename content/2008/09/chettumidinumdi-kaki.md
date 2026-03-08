@@ -41,4 +41,4 @@ extra:
 చదువురాని మొద్దు బ్రతుకు ఛీ ఛీ ఛీ
 </pre>
 
-{{Audio('cettumeedi_by_raju5th.mp3')}}
+{{ Audio(issue="2008/09", filename="cettumeedi_by_raju5th.mp3") }}

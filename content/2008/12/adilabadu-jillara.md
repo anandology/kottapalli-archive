@@ -80,4 +80,4 @@ extra:
 |ఆదిలాబాదు జిల్లారా|
 </pre>
 
-{{Audio('adilabadu_jillara_by_rajeswari_7th_class.mp3')}}
+{{ Audio(issue="2008/12", filename="adilabadu_jillara_by_rajeswari_7th_class.mp3") }}

@@ -56,4 +56,4 @@ extra:
 కాలేదా, శాస్త్రజ్ఞులు-గురువులు?   
 "ప్రకృతి ఒడిలో పిల్లలం"
 
-{{Audio("prakruti.mp3")}}
+{{ Audio(issue="2010/09", filename="prakruti.mp3") }}

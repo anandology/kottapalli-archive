@@ -48,4 +48,4 @@ extra:
 |కోయిలపిల్లా|
 </pre>
 
-{{Audio("Koilapilla,_Koilapilla__Krishnaveni_TB__21Apr09.mp3")}}
+{{ Audio(issue="2009/06", filename="Koilapilla,_Koilapilla__Krishnaveni_TB__21Apr09.mp3") }}

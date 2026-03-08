@@ -51,4 +51,4 @@ extra:
 జాగ్రుతి పరిచిన భారత దేశం  
 జాగ్రుతి పరిచిన భారత దేశం	||భరతుండేలినా||  
 
-{{Audio('bharatundelina_by_tirupal.mp3')}}
+{{ Audio(issue="2008/08", filename="bharatundelina_by_tirupal.mp3") }}

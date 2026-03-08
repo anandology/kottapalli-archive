@@ -31,6 +31,6 @@ extra:
 కర్ర పట్టుకొని కొట్టింది.  
 
 
-{{Audio("avva_angadi.mp3")}}
+{{ Audio(issue="2008/04", filename="avva_angadi.mp3") }}
 
 <br style="clear: both"/>

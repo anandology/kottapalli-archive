@@ -62,4 +62,4 @@ extra:
 ఈశ్వర అల్లా తేరేనాం           
 సబకో సన్మతి దే భగవాన్!
 
-{{Audio("nirantaram.mp3")}}
+{{ Audio(issue="2011/04", filename="nirantaram.mp3") }}

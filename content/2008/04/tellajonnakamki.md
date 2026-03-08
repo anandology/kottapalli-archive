@@ -23,4 +23,4 @@ extra:
 నీలాల నింగిలోన బాలల జండా ఎగిరింది  
 బాలల్లార జండాకు వందనాలు చేయండి  
 
-{{Audio("tellajonnakanki.mp3")}}
+{{ Audio(issue="2008/04", filename="tellajonnakanki.mp3") }}

@@ -20,7 +20,7 @@ extra:
     సేకరణ, గానం: సుష్మ, సౌమ్య నిట్టల, ఆరోహి మ్యూజిక్.  గిటార్ : శామ్యూల్ కిరణ్ కుమార్
 
 
-    {{Audio("vaishnava.mp3")}}'
+    {{ Audio(issue="2014/11", filename="vaishnava.mp3") }}'
   redirect: /dashboard/2014/11
 ---
 

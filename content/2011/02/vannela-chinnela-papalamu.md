@@ -52,4 +52,4 @@ extra:
 వారిలా  అవుతాం మరునాడు            
 "వన్నెల చిన్నెల"
 
-{{Audio("vannela.mp3")}}
+{{ Audio(issue="2011/02", filename="vannela.mp3") }}

@@ -33,4 +33,4 @@ extra:
 బుద్ధీ బలమూ నేనిస్తా.
 </pre>
 
-{{Audio('barre_barre_by_sayipriya_4th_class.mp3')}}
+{{ Audio(issue="2008/12", filename="barre_barre_by_sayipriya_4th_class.mp3") }}

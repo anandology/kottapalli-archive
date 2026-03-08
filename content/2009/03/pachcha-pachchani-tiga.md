@@ -24,4 +24,4 @@ extra:
 నల్ల నల్లాని జడలో ముడిచింది
 </pre>
 
-{{Audio('pacca_paccani_tiiga_by_R_Shirisha.mp3')}}
+{{ Audio(issue="2009/03", filename="pacca_paccani_tiiga_by_R_Shirisha.mp3") }}

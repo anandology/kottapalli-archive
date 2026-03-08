@@ -25,4 +25,4 @@ extra:
 అమ్మ  నాకు  ముద్దు  ఇచ్చె.
 </pre>
 
-{{Audio('amma_amma_by_rajeswari_3rd_class.mp3')}}
+{{ Audio(issue="2008/12", filename="amma_amma_by_rajeswari_3rd_class.mp3") }}

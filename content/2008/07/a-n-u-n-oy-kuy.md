@@ -23,4 +23,4 @@ extra:
 పాపా అన్నా, బేబీ అన్నా ఓయ్ అంటుంది పాప  
 రామూ అన్నా, టామీ అన్నా కుయ్ అంటుంది కుక్క!  
 
-{{Audio('aa_uu_oi_kuy_by_pruthvi.mp3')}}
+{{ Audio(issue="2008/07", filename="aa_uu_oi_kuy_by_pruthvi.mp3") }}

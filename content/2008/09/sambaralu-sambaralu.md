@@ -41,4 +41,4 @@ extra:
 సంబరాలు, సంబరాలు, సంబరాలు, సంబరాలు హో ! 	||సంబరాలు||
 </pre>
 
-{{Audio('sumralusamaralu_m.roja.mp3')}}
+{{ Audio(issue="2008/09", filename="sumralusamaralu_m.roja.mp3") }}

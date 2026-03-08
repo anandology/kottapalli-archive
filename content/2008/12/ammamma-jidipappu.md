@@ -25,4 +25,4 @@ extra:
 పీటమీద  కూర్చుంటే  పెళ్ళైతాంది
 </pre>
 
-{{Audio('ammamma_jeedipappu_by_srisailam.mp3')}}
+{{ Audio(issue="2008/12", filename="ammamma_jeedipappu_by_srisailam.mp3") }}

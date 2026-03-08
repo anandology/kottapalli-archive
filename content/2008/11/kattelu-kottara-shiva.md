@@ -27,4 +27,4 @@ extra:
 తయారుగున్నానవ్వ!
 </pre>
 
-{{Audio('kattelu_kottara_siva_by_rasi_sirisha_and_pothireddy.mp3')}}
+{{ Audio(issue="2008/11", filename="kattelu_kottara_siva_by_rasi_sirisha_and_pothireddy.mp3") }}

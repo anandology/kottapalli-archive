@@ -31,4 +31,4 @@ extra:
 అల్లంవారి కుక్క భౌ భౌ మనెను           
 నా కాళ్ల గజ్జెలు ఘల్ ఘల్ మనెను.
 
-{{Audio("Chitti_miriyalu_new.mp3")}}
+{{ Audio(issue="2009/11", filename="Chitti_miriyalu_new.mp3") }}

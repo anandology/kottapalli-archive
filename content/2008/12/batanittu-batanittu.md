@@ -28,4 +28,4 @@ extra:
 బావిలో పడి చచ్చిండు.
 </pre>
 
-{{Audio('batanittu2_by_srisailam.mp3')}}
+{{ Audio(issue="2008/12", filename="batanittu2_by_srisailam.mp3") }}

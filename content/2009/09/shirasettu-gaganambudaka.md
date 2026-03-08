@@ -45,4 +45,4 @@ extra:
 శాంతి  సౌభాగ్యరేఖ శాంతి  సౌభాగ్యరేఖ
 </pre>
 
-{{Audio("Sirasettu_Gaganambudaka.mp3")}}
+{{ Audio(issue="2009/09", filename="Sirasettu_Gaganambudaka.mp3") }}

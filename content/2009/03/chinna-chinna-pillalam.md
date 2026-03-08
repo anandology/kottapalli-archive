@@ -30,4 +30,4 @@ extra:
 |చిన్న|
 </pre>
 
-{{Audio('Cinna_cinna_pillalam_by_Pruthvi_and_Anjali.mp3')}}
+{{ Audio(issue="2009/03", filename="Cinna_cinna_pillalam_by_Pruthvi_and_Anjali.mp3") }}

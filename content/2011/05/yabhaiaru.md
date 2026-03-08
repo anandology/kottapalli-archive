@@ -48,4 +48,4 @@ extra:
 "అ ఆ ఇ ఈ నేర్పండి"
 </div>
 
-{{Audio("NR_51_Yaabai_Aaru.mp3")}}
+{{ Audio(issue="2011/05", filename="NR_51_Yaabai_Aaru.mp3") }}

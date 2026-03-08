@@ -57,4 +57,4 @@ extra:
 
 వెళ్లీవెళ్లీ చీకటాయె...  గడ్డికాడ చీకటాయె చిలకదిద్దిరిదాదా
 
-{{Audio("Rela_Rela_Rella_Rela_Rela__Janaki_TB_6th_21Apr09.mp3")}}
+{{ Audio(issue="2009/07", filename="Rela_Rela_Rella_Rela_Rela__Janaki_TB_6th_21Apr09.mp3") }}

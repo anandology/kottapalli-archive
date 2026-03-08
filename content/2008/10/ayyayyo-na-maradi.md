@@ -37,4 +37,4 @@ extra:
 ఎవరీ సతీపతుల నెడబాపియుండ్రి?
 </pre>
 
-{{Audio('ayyayyo_naa_maridi.mp3')}}
+{{ Audio(issue="2008/10", filename="ayyayyo_naa_maridi.mp3") }}

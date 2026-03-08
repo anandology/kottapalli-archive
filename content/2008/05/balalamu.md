@@ -38,4 +38,4 @@ extra:
 భగవంతుని ప్రతిరూపాలం
 </pre>
 
-{{Audio("baalalamu_by_pruthvi.mp3")}}
+{{ Audio(issue="2008/05", filename="baalalamu_by_pruthvi.mp3") }}

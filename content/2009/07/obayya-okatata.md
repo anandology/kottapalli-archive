@@ -48,4 +48,4 @@ extra:
 
 ఎక్కడ చూసినా భౌ! భౌ! భౌ! భౌ!
 
-{{Audio("oobayya_oka_taata.mp3")}}
+{{ Audio(issue="2009/07", filename="oobayya_oka_taata.mp3") }}

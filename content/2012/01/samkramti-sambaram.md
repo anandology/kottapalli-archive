@@ -38,4 +38,4 @@ extra:
 ముంగిట చిందేయు బసవళ్ళు ఎటుకన్నా      
 సంక్రాంతి సమయాన!
 
-{{Audio("sankranthi.mp3")}}
+{{ Audio(issue="2012/01", filename="sankranthi.mp3") }}

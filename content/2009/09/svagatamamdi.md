@@ -41,4 +41,4 @@ extra:
 హరివిల్లే మా ఆనందం  ।స్వాగతమండీ ।
 </pre>
 
-{{Audio("Swagathamandi_Swagatham.mp3")}}
+{{ Audio(issue="2009/09", filename="Swagathamandi_Swagatham.mp3") }}
